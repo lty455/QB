@@ -1,0 +1,14 @@
+{
+  "url": "https://www.nrel.gov/bioenergy/data-tools",
+  "title": "Data and Tools",
+  "description": null,
+  "text": "NLR provides data, tools, and models for analyzing bioenergy and bioeconomy research and technologies, and for determining biomass and waste resources and feedstocks.\nLaboratory Analytical Procedures\nNLR develops lab procedures to help researchers perform analyses for biofuels and bio-oils.\nBiomass Compositional Analysis\nBio-Oil Analysis\nAlgae Compositional Analysis\nTools for Accelerating Catalyst Development\nCatCost: Catalyst Cost-Estimating Tool\nNLR and Pacific Northwest National Laboratory, as part of their work with the U.S. Department of Energy's Chemical Catalysis for Bioenergy Consortium (ChemCatBio), developed a catalyst cost-estimating tool that incorporates industry standard estimation methods into a user-friendly spreadsheet and web tool.\nData Visualization Tools for Key Conversion Metrics\nLow-Temperature Electrolysis CO2 Conversion Tool\nWith this tool, users can conduct customized techno-economic analyses for carbon dioxide electrochemical conversion.\nBond Dissociation Energies Estimator\nALFABET\nA machine-Learning derived, Fast, Accurate Bond dissociation Enthalpy Tool (ALFABET) quickly calculates the thermodynamics of chemical reactions by predicting bond dissociation energies for single, noncyclic bonds in neutral organic molecules consisting of C, H, O, and N atoms.\nBiomass Feedstock and Resource Assessment Data\nInternational Biomass Resource Assessments\nNLR has completed resource assessments in many countries, which quantify the existing biomass material in a given area for producing power, heat, transportation fuels, and chemicals.\nBiomass Resource Maps\nSolid Biomass Resource and Biogas Maps\nThese maps show the technical biomass resources available in the United States by county.\nBioFuels Atlas\nConduct geospatial analysis of U.S. biomass resources and biofuels production.\nBioPower Atlas\nConduct geospatial analysis of U.S. biomass resources and power production.\nBiomass Policy and Economic Models\nBSM: Bioenergy Scenario Model\nThe BSM model focuses on policy issues of biofuels, their feasibility, and potential side effects. It integrates resource availability, behavior, relevant constraints, and more.\nJEDI: Jobs and Economic Development Impact Biofuels Models\nThe JEDI model estimates the economic impact of constructing and operating power generation and biofuel plants at the local and state levels.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.nrel.gov",
+  "crawled_at": "2026-03-01T18:18:21.520446",
+  "parent_url": "https://www.nrel.gov/news/news.html",
+  "article_number": 57,
+  "website_id": 77
+}

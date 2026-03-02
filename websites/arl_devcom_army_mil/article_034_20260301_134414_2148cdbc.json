@@ -1,0 +1,16 @@
+{
+  "url": "https://arl.devcom.army.mil/cras/dcist-cra/",
+  "title": "Distributed and Collaborative Intelligent Systems and Technology (DCIST) CRA",
+  "description": "The mission of the DCIST CRA is to enlist the help of research partners to address the primary research question of how do diverse, embodied agents",
+  "text": "Description\nThe objectives of the DCIST CRA are to:\nExplore key underlying technologies and methods to enable scalable and heterogeneous teams of robotics and autonomous systems across all Army-relevant environments\nProvide adaptive and resilient operations\nIncrease warfighter capabilities and standoff\nIncrease coverage and create dilemmas for the adversary\nProvide force multiplication\nEnable faster decision-making\nExtend maneuverability in ways yet-to-be-imagined\nThe mission of the DCIST CRA is to enlist the help of research partners to address the primary research question of how do diverse, embodied agents collectively sense, infer, reason, plan, and execute in face of a peer adversary?\nResearch thrusts include:\nThrust 1- Multi-Robot Collaborative Autonomy\nDeep Semantic Mapping for Multi-Agent Situational Awareness\nAdaptation and Learning in Multi-Robot Systems\nGuarantees, Performance Limits, and Robustness of Multi-Robot Systems\nOvercoming the Curse of Dimensionality – Scalable, Heterogeneous Multi-Agent Control\nRobustness to Environmental Complexity and Dynamic Environments\nThrust 2 – Adversarial Team Behavior\nHierarchical Abstractions, Planning & Control in Presence of Adversaries\nTactical Engagement of Heterogeneous Teams\nModels of Deception and Misinformation and Adversarial Policies for Team Behaviors\nThrust 3 – Mission Specification and Execution\nHuman Interaction with Large Heterogeneous Teams\nCommunication Networks: Learning What, When and Who to Communicate with in Heterogeneous Teams\nDynamic Mission Specification, Task Allocation and Planning in Heterogeneous Teams\nProgram Structure\nFor the DCIST CRA, the Consortium Lead Research Organization is the University of Pennsylvania. The University of Pennsylvania is supported by Georgia Tech and the Massachusetts Institute of Technology as Thrust Area Lead Organizations. Representatives from both DEVCOM ARL and the Consortia Lead Research and Thrust Area Lead Organizations make up the Technical Management Group of the CRA. The TMG works to continuously steer the vision and quality of research within the program as well as develop the CRA’s Biennial Program Plan. The BPP covers a two-year timeframe and provides a detailed plan of research activities and objectives for the CRA. The BPP also includes the efforts of the Consortia technical subawardee organizations.",
+  "authors": [
+    "William Parks"
+  ],
+  "date_publish": "2022-09-21 09:41:44",
+  "language": "en",
+  "source_domain": "arl.devcom.army.mil",
+  "crawled_at": "2026-03-01T13:44:14.428314",
+  "parent_url": "https://arl.devcom.army.mil/media-center/",
+  "article_number": 34,
+  "website_id": 19
+}

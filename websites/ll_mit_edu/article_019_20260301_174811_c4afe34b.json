@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/r-d/isr-systems-and-technology/airborne-radar-systems-and-techniques",
+  "title": "Airborne Radar Systems and Techniques",
+  "description": null,
+  "text": "Researchers in our group innovate radar technology solutions to challenges in intelligence, surveillance, and reconnaissance (ISR) missions. Today's airborne ISR radars must detect, track, and identify targets in the presence of threats from RF jamming and surface-to-air missiles, and must separate true targets from clutter caused by complex physical environments, such as mountainous terrain, heavily foliated regions, and the maritime domain. The novel radars and signal processing techniques that we create for new platforms marry advances in computer processor technology with advanced RF devices to enable situational awareness and precision tracking. Our staff leverage highly integrated RF subsystems co-designed with adaptive processing (including multiple-input-multiple-output methods and dynamic waveform design) to develop sensors for both manned and unmanned platforms. We built and operate an airborne radar test bed to support experimentation and prototyping activities. Our programs entail initial investigation of the underlying physics of each application, system modeling, and data-driven system development, and culminate in field demonstrations in realistic mission scenarios.\nFeatured Projects\nradar\nAirborne Radar Testbed\nAn aircraft outfitted with an advanced open-architecture radar system provides a platform for testing new radar technology.\nLaboratory Stories\nAs computers and sensors become smaller and manufactured at scale, loads of new possibilities come about.\nJames Dunn\nRemote Sensing Engineer\nISR Systems and Technology\nAirborne Radar Systems and Techniques",
+  "authors": [],
+  "date_publish": "2026-09-12 00:00:00",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:48:11.242408",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 19,
+  "website_id": 58
+}

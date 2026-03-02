@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/r-d/communication-systems/optical-and-quantum-communications",
+  "title": "Optical and Quantum Communications",
+  "description": null,
+  "text": "We research and develop a wide range of space, airborne, and terrestrial communication systems. These systems include hardware for a terminal that is used in a near-Earth wideband relay laser communication system and prototypes of a beam director that will be integrated in a laser communication system. Our team has created the most sensitive high-data-rate laser communications links ever developed. We have also begun new research into extending the range and utility of undersea communication transceivers.\nFeatured Projects\nsensing\nPrecision Clock Synchronization for Advanced Sensing\nCombined quantum networking and lasercom optical signaling techniques could impact advanced sensing applications such as geolocation with distributed systems.\nlaser communications\nTeraByte InfraRed Delivery (TBIRD)\nThe laser communications payload has delivered terabytes of data from a satellite to Earth at record-breaking rates that will transform future science missions.\nlaser communications\nLaser Communications Relay Demonstration\nOptical communications technologies decades in the making at Lincoln Laboratory were transferred to NASA for its first two-way laser relay communications system.\noptical systems\nUndersea Optical Communications\nA system that enables robust, long-distance communications between underwater vehicles exploits laser technology.\nlasers\nILLUMA-T\nThe ILLUMA-T will enable optical communications on the International Space Station.",
+  "authors": [],
+  "date_publish": "2026-11-17 00:00:00",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:53:51.150984",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 72,
+  "website_id": 58
+}

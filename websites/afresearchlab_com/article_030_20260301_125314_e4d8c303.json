@@ -1,0 +1,16 @@
+{
+  "url": "https://afresearchlab.com/worlds-largest-neuromorphic-digital-synaptic-super-computer/",
+  "title": "NEUROMORPHIC COMPUTING FOR SPACE",
+  "description": null,
+  "text": "Neuromorphic computing, which draws insights from neuroscience to create chips that function more like the biological brain, aspires to deliver orders of magnitude improvements in energy efficiency, speed of computation and efficiency of learning across a range of edge applications.1\nAFRL’S NEUROMORPHIC INTELLIGENCE COMPUTING SYSTEMS+ (NICS+)\nNICS+ is a 6.2 development and demonstration program, emphasizing integration of advanced neuromorphic technologies into space and airborne experiments for on-system learning. Advance architectures exposing new capabilities for artificial intelligence, machine learning and autonomous solutions for edge computing.\nNICS+ PROJECTS AND PARTNERS\nAFRL’s partnership with Intel enables access to the most advanced neuromorphic technologies, such as the Lohi 2 research chip and the Lava open-source software framework for developing neuro-inspired applications. The Spikking Neural Network (SNN) machine learning (ML) applications and related efforts are applying novel techniques using AF data relevant data sets to better understand the limits and metrics. In FY23 and FY24 the novel processing boards will be supporting several experiments for Air and Space.\nFALCONSAT-X (FSX): AI NEUROMORPHIC-COMPUTING TECHNOLOGY EXPERIMENT (ANTE)\n1st Neuromorphic AI/ML Intelligent Computing in Space\nPathfinder for future Space Force on on-orbit Multi-INT data processing at the edge\nFSX Launched Nov. 11, 2023 and is now on orbit\nNEUROMORPHIC COMPUTING FOR SPACE\nThere are several benefits to neuromorphic computing that are particularly advantageous for use in the space domain.\nUltra-low power (~100 mW) could enable 24/7 operations for constrained small satellites and rovers\nInherently parallel architecture supports redundancy and information-theoretic means for detecting and masking or correcting errors\nChips like Loihi incorporate error-correcting memory modules that reduce uncorrectable bitflips\nProbabilistic foundation of neural nets is more fault-resistant than deterministic processing and can be further enhanced with training and on-chip learning",
+  "authors": [
+    "Air Force Research Laboratory"
+  ],
+  "date_publish": "2023-03-15 00:00:00",
+  "language": "en",
+  "source_domain": "afresearchlab.com",
+  "crawled_at": "2026-03-01T12:53:14.115095",
+  "parent_url": "https://afresearchlab.com/technology/artificial-intelligence/",
+  "article_number": 30,
+  "website_id": 6
+}

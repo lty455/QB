@@ -1,0 +1,14 @@
+{
+  "url": "https://ipo.llnl.gov/",
+  "title": "Innovation and Partnerships Office",
+  "description": "The Innovation and Partnerships Office serves as a focal point for LLNL engagement with industry.",
+  "text": "Lawrence Livermore National Laboratory (LLNL) engineers and scientists, in collaboration with Stanford University, have demonstrated a breakthrough 3D nanofabrication approach that transforms two-photon lithography (TPL) from a slow, lab-scale technique into a wafer-scale manufacturing tool without sacrificing submicron precision.\nPublished today in Nature, the team’s TPL platform uses large arrays of metalenses — engineered, ultrathin optical elements — to split a femtosecond laser into more than 120,000 coordinated focal spots that write simultaneously across centimeter-scale areas. The metalens-based method produces intricate 3D architectures with minimum feature sizes of 113 nanometers and achieves throughput more than a thousand times faster than commercial systems.\nResearchers at Lawrence Livermore National Laboratory (LLNL) have optimized and 3D-printed helix structures as optical materials for Terahertz (THz) frequencies, a potential way to address a technology gap for next-generation telecommunications, non-destructive evaluation, chemical/biological sensing and more.\nThe printed microscale helixes reliably create circularly polarized beams in the THz range and, when arranged in patterned arrays, can function as a new type of Quick Response (QR) for advanced encryption/decryption. Their results, published in Advanced Science, represent the first full parametric analysis of helical structures for THz frequencies and show the potential of 3D printing for fabricating THz devices.\nPrevious attempts at making THz chiral structures have resulted in limited transmission and frequency range, but the team saw an opportunity to make something much more optimal with two-photon polymerization (2PP), an ultrahigh resolution light-based 3D printing technique.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "ipo.llnl.gov",
+  "crawled_at": "2026-03-01T18:00:17.896321",
+  "parent_url": "https://www.llnl.gov/news",
+  "article_number": 89,
+  "website_id": 59
+}

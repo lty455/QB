@@ -1,0 +1,16 @@
+{
+  "url": "https://arl.devcom.army.mil/r2c2/r2c2-publications/",
+  "title": "R2C2 Publications",
+  "description": "ARL researchers actively publish studies conducted at the Robotics Research and Collaborations Campus at Graces Quarters. Below are a few recent findings",
+  "text": "R2C2 Publications\nResearch Publications\nARL researchers actively publish studies conducted at the Robotics Research and Collaborations Campus at Graces Quarters. Below are a few recent findings published in technical reports, journal articles, conference papers, patents, and presentations.\n“Mobile robot battery life estimation: battery energy use of an unmanned ground vehicle,” by Arnon M. Hurwitz, James M. Dotterweich, Trevor A. Rocks\n“Cooperative route planning of multiple fuel-constrained Unmanned Aerial Vehicles with recharging on an Unmanned Ground Vehicle,” by Subramanian Ramasamy; Jean-Paul F. Reddinger; James M. Dotterweich; Marshal A. Childers; Pranav A. Bhounsule\n“Self-Reflective Terrain-Aware Robot Adaptation for Consistent Off-Road Ground Navigation,” by Sriram Siva, Maggie Wigness, John G Rogers, Long Quang, Hao Zhang\n“Hierarchical Planning for Heterogeneous Multi-Robot Routing Problems via Learned Subteam Performance Efficient and Resilient Edge Intelligence for the Internet of Battlefield Things,” by Jacopo Banfi, Andrew Messing, Christopher Kroninger, Ethan Stump, Seth Hutchinson, and Nicholas Roy\n“Deep TAMER: Interactive agent shaping in high-dimensional state spaces.” In Thirty-Second AAAI Conference on Artificial Intelligence. 2018.\n“Robot Navigation from Human Demonstration: Learning Control Behaviors.” In 2018 IEEE International Conference on Robotics and Automation (ICRA), pp. 1150-1157. IEEE, 2018.\n“Parsimonious online kernel learning via sparse projections in function space.” Journal of Machine Learning Research (2016).\n“EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces,” by Lawhern, VJ., et al. J. Neural Eng 15.5 (2018): 056013.\n“Cycle of Learning for Autonomous Systems from Human Interaction,” by Waytowich N et al. AAAI Fall Symposium Series, 2018.\n“The privileged sensing framework: A principled approach to improved human-autonomy integration,” by Marathe, AR., et al. Theoretical Issues in Ergonomics Science 19.3 (2018): 283-320.",
+  "authors": [
+    "William Parks"
+  ],
+  "date_publish": "2023-05-02 18:14:37",
+  "language": "en",
+  "source_domain": "arl.devcom.army.mil",
+  "crawled_at": "2026-03-01T13:38:59.828403",
+  "parent_url": "https://arl.devcom.army.mil/news/",
+  "article_number": 3,
+  "website_id": 20
+}

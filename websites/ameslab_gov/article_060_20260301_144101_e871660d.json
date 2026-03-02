@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ameslab.gov/cbs/research-highlights/theoretical-framework-for-modeling-of-intermixing-in-core-shell",
+  "title": "Theoretical framework for modeling of intermixing in core-shell nanocrystals (NCs) with realistic kinetics",
+  "description": "Solution-phase synthesis of metallic nanocrystals (NCs) can produce NCs with tailored non-equilibrium shapes, and e.g., core-shell compositional profiles for bimetallic NCs. These structures can be tailored to optimize properties for applications such as catalysis, but they are metastable and possible post-synthesis evolution would degrade properties.",
+  "text": "Scientific Achievement\nOur theoretical formulation for vacancy-mediated intermixing in bimetallic core-shell nanocrystals incorporates for the first time realistic kinetics (and thermodynamics). It allows prediction of the effective activation barrier and the time scale for intermixing.\nSignificance and Impact\nCore-shell vs monometallic NCs allow finer tuning of properties, e.g., for catalysis. Our formulation allows reliable assessment of their stability against intermixing (a process which would degrade their properties).\nResearch Details\nOur stochastic model utilizes two classes of interactions to reliably determine activation barriers for atoms hopping between crystalline sites for any local environment.\nKMC simulation precisely determines model behavior\nValidation: We recover time-scales observed in experiment for intermixing in Au octahedral core – Ag cubic shell NCs.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.ameslab.gov",
+  "crawled_at": "2026-03-01T14:41:01.775206",
+  "parent_url": "https://www.ameslab.gov/research-highlights",
+  "article_number": 60,
+  "website_id": 37
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.jpl.nasa.gov/missions/sun-radio-interferometer-space-experiment/",
+  "title": "SunRISE",
+  "description": "The Sun Radio Interferometer Space Experiment, or SunRISE, is an array of six toaster-size CubeSats that will work together to study solar activity.",
+  "text": "Launch date: Summer 2026.\nThe Sun Radio Interferometer Space Experiment, or SunRISE, is an array of six toaster-size CubeSats that will work together to study solar activity. The mission will observe low radio frequency emissions so scientists can understand better how the Sun is able to generate intense space weather storms – known as solar particle storms – that can be hazardous to spacecraft and astronauts. This research will help scientists forecast space weather, improve our understanding of how our Sun works, and may apply to studies of other stars – particularly those with planets.\nThe SunRISE spacecraft will orbit within 6 miles (10 kilometers) of one another well above Earth's atmosphere to act like a giant single-aperture radio telescope. The SunRISE spacecraft have to be at a high altitude because an upper layer of Earth's atmosphere, known as the ionosphere, reflects low radio frequencies, preventing the radio emission associated with solar particle storms to be studied from the ground. The constellation of small spacecraft uses a method known as interferometry, in which many smaller radio telescopes can be combined to mimic a single, much larger observatory with a very high resolving power.\nThe mission will create detailed 3D maps of where energetic radio emissions occur in the Sun's magnetic atmosphere, which signify the locations of extremely powerful bursts of radiation. By observing these events, SunRISE will help us to better understand what triggers them, how the particles are accelerated, and the ways in which particle storms evolve. SunRISE will also map for the first time the magnetic field lines that originate from the Sun's interior and extend throughout interplanetary space.\nAs a NASA Mission of Opportunity, SunRISE will launch in summer 2026 as a rideshare aboard a United Launch Alliance Vulcan Centaur rocket, sponsored by the United States Space Force’s Space Systems Command. The SunRISE spacecraft will beam their data down to Earth, using an efficient mode of NASA's Deep Space Network that allows multiple spacecraft to transmit their data to the ground simultaneously.\nSunRISE is led by professor Susan Lepri at the University of Michigan in Ann Arbor and managed by NASA's Jet Propulsion Laboratory, a division of Caltech in Pasadena, California.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.jpl.nasa.gov",
+  "crawled_at": "2026-03-01T17:50:39.198682",
+  "parent_url": "https://www.jpl.nasa.gov/news?topics=Solar%20System,Mars,Earth,Technology,Robotics,CubeSats%20and%20SmallSats&page=1",
+  "article_number": 86,
+  "website_id": 57
+}

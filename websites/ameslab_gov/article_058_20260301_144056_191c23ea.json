@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ameslab.gov/dmse/research-highlights/adaptive-variational-quantum-computing-approaches-for-response-function",
+  "title": "Adaptive variational quantum computing approaches for response function calculations",
+  "description": "Adaptive variational quantum circuit for single-particle Green’s function measurement. The adaptive variational quantum imaginary time evolution algorithm is used to generate the ground state circuit. The variational degrees of freedom are further utilized in subsequent adaptive variational real-time state propagation after the application of an ancilla-controlled multi-qubit Pauli gate to maximally compress the circuit. Scientific AchievementAccurate simulations of Green’s functions and nonlinear susceptibilities for electron and spin systems are achieved with highly compressed circuits.Significance and ImpactThis enables simulations of response functions crucial to interpret experimental results and predict materials properties using near-term quantum processors.Research DetailsDevelopment of an adaptive variational quantum algorithm to accurately measure single-particle Green’s functions and nonlinear susceptibilities along the real-time axis.Benchmark calculations for fermionic models, molecules, and spin systems.Demonstration of substantially shallower circuits obtained from adaptive algorithms as compared with other available approaches in the literature.M. Mootz, T. Iadecola, and Y.-X. Yao, Adaptive Variational Quantum Computing Approaches for Green’s Functions and Nonlinear Susceptibilities, J. Chem. Theory Comput., 2024, 20, 8689−8710. https://doi.org/10.1021/acs.jctc.4c00874",
+  "text": "Scientific Achievement\nAccurate simulations of Green’s functions and nonlinear susceptibilities for electron and spin systems are achieved with highly compressed circuits.\nSignificance and Impact\nThis enables simulations of response functions crucial to interpret experimental results and predict materials properties using near-term quantum processors.\nResearch Details\nDevelopment of an adaptive variational quantum algorithm to accurately measure single-particle Green’s functions and nonlinear susceptibilities along the real-time axis.\nBenchmark calculations for fermionic models, molecules, and spin systems.\nDemonstration of substantially shallower circuits obtained from adaptive algorithms as compared with other available approaches in the literature.\nM. Mootz, T. Iadecola, and Y.-X. Yao, Adaptive Variational Quantum Computing Approaches for Green’s Functions and Nonlinear Susceptibilities, J. Chem. Theory Comput., 2024, 20, 8689−8710. https://doi.org/10.1021/acs.jctc.4c00874",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.ameslab.gov",
+  "crawled_at": "2026-03-01T14:40:56.424635",
+  "parent_url": "https://www.ameslab.gov/research-highlights",
+  "article_number": 58,
+  "website_id": 37
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/research-and-development/advanced-technology/microsystems-prototyping-foundry/superconducting",
+  "title": "Superconducting Integrated Circuits",
+  "description": null,
+  "text": "Lincoln Laboratory has developed the world's most advanced fabrication processes for superconductor integrated circuits. This research foundry capability enables prototyping of advanced single-flux-quantum (SFQ), quantum flux parametron (QFP), and other types of digital, mixed signal, analog, and neuromorphic circuits, along with flip-chip packaging on superconducting multichip modules.\nKey Features\nSuperconductive SFQ circuits with ultrafast switching speed and low switching energy unmatched by any other demonstrated integrated circuit technology\nAdiabatic quantum flux parametron circuits with ultralow energy dissipation down to the Landauer's thermodynamic limit\nSFQ circuits demonstrated with up to 809,000 Josephson junctions, a world record\nLincoln Laboratory Processes\nMultiple SFQ research foundry fabrication process nodes are either offered or under development, as outlined in the Lincoln Laboratory SFQ Technology Roadmap. The table below outlines key features and dimensions offered for each process node. By adding more superconducting layers for circuit inductors and data routing, and reducing minimum linewidth and size of vias, circuit densities exceeding 2x107 Josephson junctions per cm2 can be achieved. New process features are first made available to circuit design teams while the process is matured.\nA new high-Jc process, SFQ5hs, is available from 2017. Future nodes, such as SFQ7ee, feature additional layers of high kinetic inductance materials and reduced minimum feature sizes.\nSFQ5ee Process Node\nThe SFQ5ee process provides attractive features:\n700-nm Josephson junctions\nEight niobium wiring layers\n350-nm wiring feature size\nHigh-kinetic-inductance layer\nApplications\nOur SFQ integrated circuits can have application in a variety of fields:\nHigh-performance digital computing\nWideband mixed RF/digital processing\nQuantum computing\nContact",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:50:34.828585",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 40,
+  "website_id": 58
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://afresearchlab.com/superconducting-hybrid-quantum-systems/",
+  "title": "SUPERCONDUCTING & HYBRID QUANTUM SYSTEMS",
+  "description": null,
+  "text": "SUPERCONDUCTING QUBIT AND QUANTUM INTERFACE PLATFORMS FOR QUANTUM NETWORKING\nThe superconducting and hybrid quantum systems team at AFRL’s Information Directorate in Rome, New York seeks to develop novel superconducting architectures and cross-modality quantum interface hardware as building blocks for use in quantum networking nodes.\nThe team’s efforts focus on three main thrusts: (i) the development of architectures for generating entanglement between multi-qubit superconducting modules (i.e. encoding/decoding multi-partite quantum information on a quantum bus). (ii) the investigation of hybrid superconducting and photonic platforms for transduction of quantum information between microwave and optical domains at cryogenic temperatures; (iii) and development of quantum interface hardware for bridging trapped-ion and superconducting qubit modalities.\nThe image below shows an illustration of the building blocks of on potential heterogeneous quantum network node that utilizes three of the leading qubit modalities (superconducting qubits, quantum photonics, and trapped-ion systems).\n(Lower left) Superconducting (SC) qubits modules for rapid quantum information processing and quantum RAM (QRAM); (top) integrated quantum photonic circuits for error correction and high-fidelity teleportation to remote network nodes; (lower right) trapped-ion quantum memory modules for long-term storage of quantum information.\nThe yellow arrows represent the hardware and software interconnects to convert information between each modality.\nThe superconducting team is working in conjunction with AFRL’s trapped-ion and integrated photonics teams to pursue development of such architectures.\nWe have labs on AFRL’s RI campus and in the Innovare Advancement Center.\nReach out and contact us at: afrl.photons@afresearchlab.com",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "afresearchlab.com",
+  "crawled_at": "2026-03-01T13:14:13.597160",
+  "parent_url": "https://afresearchlab.com/technology/quantum/",
+  "article_number": 5,
+  "website_id": 14
+}

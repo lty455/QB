@@ -1,0 +1,14 @@
+{
+  "url": "https://www.eia.gov/totalenergy/data/monthly/",
+  "title": "Total Energy Monthly Data",
+  "description": null,
+  "text": "Each month, most MER tables and figures present data for a new month. These data are usually preliminary (and sometimes estimated or forecasted) and likely to be revised the following month. The first dissemination of most annual data is also preliminary. It is often based on monthly estimates and is likely to be revised later that year after final data are published from sources, according to source data revision policies and publication schedules. In addition, EIA may revise historical data when a major revision in a source publication is needed, when new data sources become available, or when estimation methodologies are improved. A record of current and historical changes to MER data is available on the What's New in the Monthly Energy Review—Content Changes webpage.",
+  "authors": [],
+  "date_publish": "2026-02-24 00:00:00",
+  "language": "en",
+  "source_domain": "www.eia.gov",
+  "crawled_at": "2026-03-01T17:48:48.405332",
+  "parent_url": "https://www.eia.gov/nuclear/",
+  "article_number": 43,
+  "website_id": 53
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.dhs.gov/publications-library/transportation-security",
+  "title": "Transportation Security",
+  "description": null,
+  "text": "DHS/TSA/PIA-046 Travel Document Checker Automation Using Facial Identification\nThe Transportation Security Administration (TSA) will enhance the identity verification of passengers by using facial verification technology at airports. In a previous proof of concept, TSA used a Credential Authentication Technology (CAT) device equipped with a camera (CAT-C) to validate that the identity document presented by the passenger was authentic and to compare the passenger’s live facial image against the image from the passenger’s identity document. Building on its previous work, TSA will now network the CAT-C to the TSA Secure Flight system so that passenger boarding pass information can be passed from Secure Flight to the CAT-C. This will provide improved real-time boarding pass instructions with improved identity matching and reduced physical handling of travel documents to limit unnecessary exposure, such as during the Coronavirus (COVID-19) pandemic.\nAir Cargo Security Requirements\nPursuant to the Final Rule for Air Cargo Security Requirements, TSA will collect and retain personal information about four sets of individuals for the purposes of conducting a security threat assessment. The first set consists of certain individuals who have, or are applying for, unescorted access to air cargo. The second set consists of each individual who is a sole proprietor, general partner, officer or director of an IAC or an applicant to be an IAC, and certain owners of an IAC or an applicant to be an IAC. The third set consists of known shippers who are individuals. The fourth set consists of individuals who in addition to having unescorted access to cargo have responsibilities for screening cargo under 49 CFR 1544.",
+  "authors": [],
+  "date_publish": "2024-02-24 00:00:00",
+  "language": "en",
+  "source_domain": "www.dhs.gov",
+  "crawled_at": "2026-03-01T16:17:33.409008",
+  "parent_url": "https://www.dhs.gov/all-news-updates/170",
+  "article_number": 75,
+  "website_id": 50
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/r-d/publications?page=231",
+  "title": "MIT Lincoln Laboratory",
+  "description": null,
+  "text": "Simultaneous measurements of the backscatter cross section per unit volume and the sky temperature were made for limited volumes of rain showers using an L-band radar and an X-band radiometer. The object of the measurements was to provide data to validate the method used to compute attenuation and sky temperature...\nThe major propagation problem confronting the use of millimeter waves for line-of-sight communication links operating through the atmosphere is hydrometeor scattering. Rain, hail, sleet, snow, and fog all can cause severe attenuation at millimeter wave frequencies. The severest problem is that of attenuation by rain. Attenuations in excess of 1...\nThe problem of scattering of electromagnetic waves by a small number of closely spaced dielectric spheres is considered as a boundary value problem. The solution to this problem is obtained in a series form using partial spherical vector waves. An approximate solution is also obtained for spheres separated sufficiently far...\nThe problem of received signal degradation for coherent pulse transmission through a rain scattering volume was investigated for large bandwidth transmission at 4.0, 8.0, 15.5 and 34. 86GHz. Calculations of pulse length and total pulse energy were made for different path lengths through the rain volume. The calculations were made...\nScattergrams of attenuation coefficient, effective reflectivity factor, single-scattering albedo, and radio refractivity vs liquid-water content, rain rate, and reflectivity factor are presented for a raindrop temperature of 0.0 degrees celsius and frequencies of 1.29, 2.80, 8.0, 9.35, 15.5, 35.0, 70.0, and 94.0 GHz. The scattergrams were computed using Mie theory...",
+  "authors": [],
+  "date_publish": "1968-09-18 00:00:00",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:48:25.339882",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 21,
+  "website_id": 58
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/bayesian-learning-with-gaussian-processes-for-low-dimensional-representatio-2025-05-01/",
+  "title": "dependent nonlinear systems – Publications – Research",
+  "description": null,
+  "text": "Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems\nMcquarrie, Shane A.; Chaudhuri, Anirban; Guo, Mengwu\nThis work presents a data-driven method for learning low-dimensional time-dependent physics-based surrogate models whose predictions are endowed with uncertainty estimates. We use the operator inference approach to model reduction that poses the problem of learning low-dimensional model terms as a regression of state space data and corresponding time derivatives by minimizing the residual of reduced system equations. Standard operator inference models perform well with accurate training data that are dense in time, but producing stable and accurate models when the state data are noisy and/or sparse in time remains a challenge. Another challenge is the lack of uncertainty estimation for the predictions from the operator inference models. Our approach addresses these challenges by incorporating Gaussian process surrogates into the operator inference framework to (1) probabilistically describe uncertainties in the state predictions and (2) procure analytical time derivative estimates with quantified uncertainties. The formulation leads to a generalized least-squares regression and, ultimately, reduced-order models that are described probabilistically with a closed-form expression for the posterior distribution of the operators. The resulting probabilistic surrogate model propagates uncertainties from the observed state data to reduced-order predictions. We demonstrate the method is effective for constructing low-dimensional models of two nonlinear partial differential equations representing a compressible flow and a nonlinear diffusion–reaction process, as well as for estimating the parameters of a low-dimensional system of nonlinear ordinary differential equations representing compartmental models in epidemiology.",
+  "authors": [],
+  "date_publish": "2025-05-01 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:28:54.716599",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 51,
+  "website_id": 80
+}

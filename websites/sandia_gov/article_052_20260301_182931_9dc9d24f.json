@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/working-with-sandia",
+  "title": "Working with Sandia",
+  "description": "Working with Sandia",
+  "text": "Cyber Security User’s Agreement\nThe user’s agreement is for those seeking access to specific restricted cyber resources at Sandia.\nSARAPE\nSARAPE allows users within restricted domains (Tri-Labs, NSC, and PSAAP Universities) to request remote accounts for selected resources.\nSandia Science and Technology Park\nThe Sandia Science & Technology Park (SS&TP) is a 300+ acre master-planned technology community. Affiliated with Sandia National Laboratories and adjacent to Kirtland Air Force Base, companies have easy access to world-class facilities.\nSandia is in the process of completing the transition from IPv4 to IPv6, this journey impacts vendors in that our contracts will soon specify the need for hardware and software to be capable of operating in an IPv6-only environment, as opposed to dual-stack, in acquisitions going forward. These requirements must be expressed using the U.S. Government version 6, USGv6, Profile and include the requirement to demonstrate compliance with those requirements through the USGv6 Test Program. Our goals are that at least 20 percent of IP-enabled assets on Federal networks are operating in IPv6-only environments by 2023. 50 percent by 2024, and 80 percent by 2025.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:29:31.444098",
+  "parent_url": "https://www.sandia.gov/research/rd-100-awards/",
+  "article_number": 52,
+  "website_id": 81
+}

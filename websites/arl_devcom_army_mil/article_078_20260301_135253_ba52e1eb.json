@@ -1,0 +1,16 @@
+{
+  "url": "https://arl.devcom.army.mil/htmdec/htmdec-year-1-kickoff-meeting-presentations/",
+  "title": "HTMDEC Year 1 Kickoff Meeting Presentations",
+  "description": "High-throughput design and analysis of novel ceramics for ballistic protectionAlireza V. Amirkhizi (UML), Christopher Hansen (UML), Reza Abedi (UTSI/UTK),",
+  "text": "High-throughput design and analysis of novel ceramics for ballistic protection\nAlireza V. Amirkhizi (UML), Christopher Hansen (UML), Reza Abedi (UTSI/UTK), Farhad Pourkamali (UML/CUD)\nMachine learning enhanced models for materials at extreme conditions: hypersonics and protection\nAle Strachan, Ilias Bilionis, Marisol Koslowski, Michael Titus, Greg Wagner (Purdue University & Northwestern University)\nHTMDEC data science overview\nB. Christopher Rinderspacher (DEVCOM Army Research Laboratory)\nDesign and construction of a High-throughput Oxidation Screening Test (HOST)\nAndrew Detor (GE Research)\nDevelopment of a methodology for high throughput materials discovery for protection materials under extreme loading conditions\nMüge Fermen-Coker (DEVCOM Army Research Laboratory), Brian Barnes (WSD/DSMB), Debjoy Mallick(TED/LMB), James Berry (TED/EEB)\nWorking with disparate data resources using Carta\nBranden Kappes (Contextualize, LLC)\nData at the speed of extreme materials discovery an HTMDEC data handling and management seedling\nDavid Elbert, Gerard Lemson (Johns Hopkins), Matt Turk, Kacper Kowalik (University of Illinois, Urbana-Champaign)\nHigh-rate indentation\nDaniel Casem, Jeff Lloyd, John Clayton (DEVCOM Army Research Laboratory), Emily Retzlaff (US Naval Academy)\nBatch-wise Improvement in Reduced Design Space using a Holistic Optimization Technique (BIRDSHOT)\nRaymundo Arróyave (Texas A&M University Engineering)\nHigh Throughput Rapid Experimental Alloy Development (HT-READ)\nKenneth Vecchio (UC San Diego)\nAI-enabled rapid direct impact test\nKaushik Bhattacharya, Andrew Stuart, Ravi Ravichandran, Marlini Simoes, Aakila Rajan\nDevelopment and deployment of a Bayesian framework for the accelerated machine learning of multiscale physics controlling material responses in extreme environments\nSurya R. Kalidindi, Min Zhou (GT), Lori Graham-Brady (JHU), Raymundo Arróyave, Ankit Srivastava, Justin Wilkerson (TAMU/TEES)",
+  "authors": [
+    "William Parks"
+  ],
+  "date_publish": "2022-09-26 21:50:26",
+  "language": "en",
+  "source_domain": "arl.devcom.army.mil",
+  "crawled_at": "2026-03-01T13:52:53.688682",
+  "parent_url": "https://arl.devcom.army.mil/news/",
+  "article_number": 78,
+  "website_id": 20
+}

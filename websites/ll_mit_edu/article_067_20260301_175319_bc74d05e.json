@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/cyber-system-assessments",
+  "title": "Cyber System Assessments",
+  "description": null,
+  "text": "Our team discovers novel vulnerabilities in systems ranging from computers and cellphones to cars and jet fighters. In order to improve the defenses of systems, we use reverse engineering to find ways to maintain control over hardware and software. We coordinate with the Department of Defense and Intelligence Community to evaluate cyber defense systems and enable effective cyber operations.\nFeatured Projects\nsensing\nPrivate Automated Contact Tracing\nAn automated, Bluetooth-based system helps perform contact tracing in a private, anonymous way, offering a method to reduce disease spread during a pandemic.\ncyber security\nLarge-scale Automated Vulnerability Addition\nComputer scientists can test techniques for finding vulnerabilities in code.\ncyber security\nPANDA – Platform for Architecture-Neutral Dynamic Analysis\nAn open source platform helps analysts quickly reverse engineer large, real-world binary systems to better analyze how software executes.",
+  "authors": [],
+  "date_publish": "2026-12-14 00:00:00",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:53:19.429901",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 67,
+  "website_id": 58
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://arl.devcom.army.mil/cras/iobt-cra/",
+  "title": "Internet of Battlefield Things (IoBT) CRA",
+  "description": "Research thrusts include:",
+  "text": "Description\nThe objective of the IoBT CRA is to develop the underlying science of pervasive, distributed, heterogeneous sensing and computation in large-scale networks to enhance control of the information battlespace and tactical Soldier and command and control (C2) system autonomy, miniaturization, and information analytic capabilities against adversarial influence, delivering intelligent, agile, and resilient decisional overmatch at significant standoff and optempo.\nResearch thrusts include:\nEfficient Management of Scale\nNovel mathematical theories and scientific insights leading to automated synthesis, processing, communication, and prioritization schemes given vast amounts of heterogeneous resources for intelligence gathering.\nReconfigurable and Adaptable Systems\nTheoretical foundations, models, and methods to provide the resiliency, risk mitigation, and optimization services necessary to induce flexibility and enable effective C2 in highly dynamic battlespaces caused by varying environment conditions, adversarial disruption, and changing mission objectives.\nTactical Edge Coordination\nScientific principles, theories, and methods for coordinated communication, sensing, and processing among local edge resources to increase synergy, corroboration, and context-aware analytics composition given heterogeneous hardware and sensing modalities under varying timescales.\nProgram Structure\nThe IoBT CRA is a 6.1 basic research program that exploits synergies from robust multi-disciplinary collaborations among academia, industry, and government enabled by an acquisition model that encourages government scientists to collaborate, co-invent, and co-publish with private sector researchers. Biennial reviews of the CRA establish a series of competitively selected basic research tasks jointly developed by the alliance to encourage new ideas and adapt to emerging technical gaps and scientific breakthroughs. This model is particularly critical for IoBT, as commercial IoT research must be augmented with interdisciplinary science to address Army complexities, especially operation in highly dynamic, resource-constrained, and adversarial environments.\nExternal Website:\nhttps://iobt.illinois.edu\nARL Collaborative Alliance Manager:\nDr. Maggie Wigness\nmaggie.b.wigness.civ@army.mil\nConsortium Manager:\nTarek Abdelzaher\nUniversity of Illinois Urbana-Champaign\nzaher@illinois.edu\nPeriod of Performance Start:\nSeptember 2017\nPeriod of Performance End:\nSeptember 2027",
+  "authors": [
+    "William Parks"
+  ],
+  "date_publish": "2022-09-21 11:24:31",
+  "language": "en",
+  "source_domain": "arl.devcom.army.mil",
+  "crawled_at": "2026-03-01T13:45:46.080392",
+  "parent_url": "https://arl.devcom.army.mil/media-center/",
+  "article_number": 44,
+  "website_id": 19
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/tunable-reciprocal-and-nonreciprocal-contributions-to-1d-coulomb-drag-2025-07-29/",
+  "title": "Tunable reciprocal and nonreciprocal contributions to 1D Coulomb drag",
+  "description": null,
+  "text": "Tunable reciprocal and nonreciprocal contributions to 1D Coulomb drag\nZheng, Mingyang; Makaju, Rebika; Gazizulin, Rasul; Addamane, Sadhvikas J.; Laroche, Dominique\nCoulomb drag is a powerful tool to study interactions in coupled low-dimensional systems. Historically, Coulomb drag has been attributed to a frictional force arising from momentum transfer whose direction is dictated by the current flow. In the absence of electron-electron correlations, treating the Coulomb drag circuit as a rectifier of noise fluctuations yields similar conclusions about the reciprocal nature of Coulomb drag. In contrast, recent findings in one-dimensional systems have identified a nonreciprocal contribution to Coulomb drag that is independent of the current flow direction. In this work, we present Coulomb drag measurements between vertically coupled GaAs/AlGaAs quantum wires separated vertically by a hard barrier only 15 nm wide, where both reciprocal and nonreciprocal contributions to the drag signal are observed simultaneously, and whose relative magnitudes are temperature and gate tunable. Our study opens up the possibility of studying the physical mechanisms behind the onset of both Coulomb drag contributions simultaneously in a single device, ultimately leading to a better understanding of Luttinger liquids in multi-channel wires and paving the way for the creation of energy harvesting devices.",
+  "authors": [],
+  "date_publish": "2025-07-29 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:29:12.711725",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 53,
+  "website_id": 80
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/secure-resilient-systems-and-technology",
+  "title": "Secure Resilient Systems and Technology",
+  "description": null,
+  "text": "Our group develops architectures and technologies for ensuring security and resiliency of mission-critical cyber-physical systems, from drones and satellites to high-performance secure cloud computing. We pursue innovative research and development through the problem analysis, rapid prototyping, and field testing phases, to ultimately deliver our technological solutions for Department of Defense and Intelligence Community uses. Our group is made up of top scientists, engineers, and support staff who share a common passion for solving some of the hardest technical problems relevant to national security.\nFeatured Projects\nTranslating All C To Rust (TRACTOR) Benchmarks\nLincoln Laboratory is leading test and evaluation on a DARPA program to translate large C codebases into memory-safe Rust code, releasing a benchmark every six months to guide program performers.\ncyber security\nSecure Radios for Uncrewed Systems\nA security module, pre-certified by the National Security Agency, for protecting communications on uncrewed platforms can accelerate the fielding of new systems and open opportunities for the commercial sector.\ncyber security\nHigh-Assurance Cryptography\nLincoln Laboratory is developing technologies to meet the highest standards for information security at the tactical edge.\ncyber security\nSpace Systems Cyber-Resiliency\nWe are researching and prototyping cyber-resilient space systems software that will enable critical national security space assets to withstand, operate through, and recover from cyberattack.\ncyber security\nFoundational Security for Software\nWe are creating secure software foundations and applying them to operating systems used widely in mission-critical systems for the Department of War.",
+  "authors": [],
+  "date_publish": "2026-09-29 00:00:00",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:55:54.656807",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 93,
+  "website_id": 58
+}

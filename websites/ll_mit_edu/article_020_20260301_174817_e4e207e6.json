@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/r-d/technology-office/mission-critical-technology",
+  "title": "Mission Critical Technology",
+  "description": null,
+  "text": "The Technology Office enables the development of technologies that address long-term challenges and emerging issues within Lincoln Laboratory’s core mission areas. To maintain an awareness of evolving national security problems and applicable technologies, the office interacts regularly with the Office of the Under Secretary of Defense for Research and Engineering and other government agencies. Five areas are the focus of R&D in this investment portfolio:\nCyber security\nInformation, computation, and exploitation\nIntegrated systems\nOptical systems technology\nRF systems\nFeatured Projects\nsatellite communications (SATCOM)\nNetworking for a New Era of Global Satellite Connectivity\nLarge constellations of satellites in low Earth orbit (LEO) allow for unparalleled global coverage but require new networking approaches.\nlidar\nFinding People Under the Rainforest Roof with Lidar\nLincoln Laboratory is exploring the feasibility of building an airborne sensing system to detect the presence of humans under dense tree canopy.\nundersea technology\nCombining Neural Networks and Histogram Layers for Underwater Target Classification\nNew machine learning methods capture statistical features within sonar data to distinguish between sound sources.\nRF technology\nLow-Cost Localization Using Distributed Adaptable-Response Transponders\nA deployable navigation network of small, low-cost radio transponders can help track the locations of first responders during rescue operations.\ninformation, computation, & exploitation\nEmbedded Artificial Intelligence Technology\nAn artificial intelligence (AI) test environment can help researchers evaluate promising embedded AI technologies and their impact on systems developed for Department of War missions.",
+  "authors": [],
+  "date_publish": "2026-10-06 00:00:00",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:48:17.274465",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 20,
+  "website_id": 58
+}

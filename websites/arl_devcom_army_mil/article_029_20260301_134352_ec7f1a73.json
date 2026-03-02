@@ -1,0 +1,16 @@
+{
+  "url": "https://arl.devcom.army.mil/cras/tbam-cra/",
+  "title": "Tactical Behaviors for Autonomous Maneuver (TBAM) CRA",
+  "description": "Performers develop novel techniques to learn, as well as demonstrate, coordinated models of maneuver in realistic simulations of complex terrain such as",
+  "text": "Description\nThe objective of the Tactical Behaviors for Autonomous Maneuver (TBAM) Collaborative Research Alliance (CRA) is to develop coordinated behaviors for small groups of autonomous agents to perform doctrinal as well as novel tactical maneuver in realistic simulations of complex military-relevant environments.\nPerformers develop novel techniques to learn, as well as demonstrate, coordinated models of maneuver in realistic simulations of complex terrain such as forest/jungle, undulating desert/grassland, watershed/wet-gap, and rural settings (fields with boundary fences, sparse road networks, intermittent watershed and forested areas). The coordinated behaviors exhibited by the ground-robot team should find military-relevant routes that maximize cover and concealment and maneuver as if adversary contact were imminent. In areas where environmental cover is absent, but traversal is required by the mission, elements of the team should provide cover for their advancing teammates.\nProgram Structure\nThe TBAM CRA is a 6.1 basic research program. It consists of a series of two-year sprint efforts executed with annual program reviews. Each two-year sprint topic is focused on addressing a different set of scientific areas, which will support higher technology readiness level (TRL) research with internal DEVCOM ARL subject-matter experts. The current two-year sprint topic is “Coordinated maneuver against adversaries” with an operational motivating scenario entitled “Preparation for Contact”. In this scenario, the team of autonomous agents is maneuvering in a non-permissive environment where contact is expected. An unidentified/unknown entity or group has just been detected by the team; this element may be unaware of our team, or it may be counter-maneuvering in preparation for contact. The goal for this cycle is to make and execute decisions for the team which achieve an operational advantage in the short time remaining before contact is engaged.\nProgram Timeline",
+  "authors": [
+    "William Parks"
+  ],
+  "date_publish": "2022-09-21 14:10:41",
+  "language": "en",
+  "source_domain": "arl.devcom.army.mil",
+  "crawled_at": "2026-03-01T13:43:52.674702",
+  "parent_url": "https://arl.devcom.army.mil/news/",
+  "article_number": 29,
+  "website_id": 20
+}

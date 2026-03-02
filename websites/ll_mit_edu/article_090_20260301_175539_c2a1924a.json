@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/research-and-development/cyber-security-and-information-sciences/cyber-grand-challenge/qualifying",
+  "title": "Qualifying Event",
+  "description": "Out of 104 teams that had originally registered in 2014, 28 teams made it through two DARPA-sponsored dry runs and into the CGC Qualifying Event.",
+  "text": "In that contest, teams tested the high-performance computers they had built and programmed to play a round of Capture the Flag (CTF)—a game that experts use to test their cyber defense skills. CTF games require competitors to reverse engineer software created by contest organizers and locate and heal its hidden weaknesses in networked competition.\nEach team designed an innovative system that achieves, to varying degrees, the difficult task of finding and fixing software safety problems in the kind of code used everywhere every day.\nThe CGC Qualifying Event from which the seven winning teams emerged:\nWas the first CTF played solely by machines.\nOperated at a speed and scale at which only machines can compete. For example, most CTF events challenge experts to analyze and secure about 10 pieces of software over 48 hours. The CGC Qualifying Event demanded that teams’ machines work on 131 pieces of software—more than any previous CTF event—over just 24 hours. Some teams’ systems secured single pieces of software in less than an hour.\nResulted in participating teams together fixing all of the 590 flaws in the competition software of which the contest developers were aware.\nMost CGC competitors entered on an open track available to self-funded teams, while seven teams participated on a funded track with DARPA support.\nThe three funded-track teams heading to the CGC finals were:\nCodeJitsu (Berkeley, Calif.): A team affiliated with the University of California, Berkeley\nForAllSecure (Pittsburgh, Pa.): A startup founded by a team of computer security researchers from Carnegie Mellon University\nTECHx (Charlottesville, Va.): Software analysis experts from GrammaTech, Inc., a developer of software assurance tools and advanced cybersecurity solutions, and the University of Virginia\nThe four winning open-track teams were:\nCSDS (Moscow, Idaho): A professor and post-doctoral researcher from the University of Idaho\nDeepRed (Arlington, Va.): A team of engineers from the Raytheon Company\ndisekt (Athens, Ga.): Four people, working out of a technology incubator, who participate in CTF competitions around the world\nShellphish (Santa Barbara, Calif.): A group of computer science graduate students at the University of California, Santa Barbara",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:55:39.709817",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 90,
+  "website_id": 58
+}

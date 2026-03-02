@@ -1,0 +1,14 @@
+{
+  "url": "https://www.ll.mit.edu/impact/small-satellites-track-big-storms",
+  "title": "Small satellites track big storms",
+  "description": "Lincoln Laboratory transformed hurricane monitoring by miniaturizing microwave sounders to the size of a coffee cup. This breakthrough enabled a constellation of CubeSats to deliver near-hourly storm observations, improving the accuracy of forecasts and study of rapidly intensifying cyclones. First demonstrated on NASA's TROPICS mission and now commercialized, the technology is enhancing weather intelligence for industries across the globe.",
+  "text": "Microwave sounders — weather instruments that gather key data describing humidity, temperature, and precipitation — traditionally make atmospheric measurements from very large, multibillion-dollar satellites. Lincoln Laboratory developed a microwave sounder that is 100 times smaller than the traditional instrument, enabling its use on shoebox-sized satellites, or CubeSats, for the first time. When deployed in a constellation of CubeSats, these microwave sounders can keep near-constant watch over developing storms.\nIn 2023, Lincoln Laboratory demonstrated this concept on NASA's TROPICS mission. Over two years, four sounder-equipped CubeSats made more than 11 billion observations over Earth's tropical belt. These data provided scientists with insights into the evolution of tropical cyclones.\nBuilding on this success, the Laboratory transferred its microwave sounder technology to Tomorrow.io, a weather intelligence company with plans to launch a much larger constellation. The full constellation, upwards of 12 CubeSats, is expected to achieve global coverage at revisit rates of under 60 minutes. This level of coverage — particularly over oceans and other radar-sparse regions — can significantly improve the accuracy of predictive forecasting for worldwide customers, helping to protect lives, infrastructure, and economies.\nWATCH THE FULL STORY >\nRelated News\nMiniature microwave sounders transferred to industry expand storm-forecasting capabilities",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.ll.mit.edu",
+  "crawled_at": "2026-03-01T17:47:28.902426",
+  "parent_url": "https://www.ll.mit.edu/r-d/publications",
+  "article_number": 13,
+  "website_id": 58
+}

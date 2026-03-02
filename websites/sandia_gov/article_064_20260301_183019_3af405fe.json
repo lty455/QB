@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/one-shot-gas-detection-with-transformer-paired-neural-networks-in-mako-coll-2025-07-01/",
+  "title": "One-shot gas detection with transformer paired neural networks in Mako collected longwave infrared hyperspectral imagery",
+  "description": null,
+  "text": "One-shot gas detection with transformer paired neural networks in Mako collected longwave infrared hyperspectral imagery\nBenham, Kevin; Deneke, Elihu\nTo date, careful data treatment workflows and statistical detectors are used to perform hyperspectral image (HSI) detection of any gas contained in a spectral library, which is often expanded with physics models to incorporate different spectral characteristics. In general, surrounding evidence or known gas-release parameters are used to provide confidence in or confirm detection capability, respectively. This makes quantifying detection performance difficult as it is nearly impossible to develop an absolute ground truth for gas target pixel presence in collected HSI. Consequently, developing and comparing new detection methods, especially machine learning (ML)-based methods, is susceptible to subjectivity in derived detection map quality. In this work, we demonstrate the first use of transformer-based paired neural networks (PNNs) for one-shot gas target detection for multiple gases while providing quantitative classification and detection metrics for their use on labeled data. Terabytes of training data are generated from a database of long-wave infrared HSI obtained from historical Mako sensor campaigns over Los Angeles. By incorporating labels, singular signature representations, and a model development pipeline, we can tune and select PNNs to detect multiple gas targets that are not seen in training on a quantitative basis. We additionally assess our test set detections using interpretability techniques widely employed with ML-based predictors, but less common with detection methods relying on learned latent spaces.",
+  "authors": [],
+  "date_publish": "2025-07-01 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:30:19.272352",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 64,
+  "website_id": 80
+}

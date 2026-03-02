@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/detecting-outbreaks-using-a-spatial-latent-field-2025-07-01/",
+  "title": "Detecting outbreaks using a spatial latent field",
+  "description": null,
+  "text": "Detecting outbreaks using a spatial latent field\nRay, Jaideep; Bridgman, Wyatt\nIn this paper, we present a method for estimating the infection-rate of a disease as a spatial-temporal field. Our data comprises time-series case-counts of symptomatic patients in various areal units of a region. We extend an epidemiological model, originally designed for a single areal unit, to accommodate multiple units. The field estimation is framed within a Bayesian context, utilizing a parameterized Gaussian random field as a spatial prior. We apply an adaptive Markov chain Monte Carlo method to sample the posterior distribution of the model parameters condition on COVID-19 case-count data from three adjacent counties in New Mexico, USA. Our results suggest that the correlation between epidemiological dynamics in neighboring regions helps regularize estimations in areas with high variance (i.e., poor quality) data. Using the calibrated epidemic model, we forecast the infection-rate over each areal unit and develop a simple anomaly detector to signal new epidemic waves. Our findings show that anomaly detector based on estimated infection-rates outperforms a conventional algorithm that relies solely on case-counts.",
+  "authors": [],
+  "date_publish": "2025-07-01 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:28:23.260717",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 46,
+  "website_id": 80
+}

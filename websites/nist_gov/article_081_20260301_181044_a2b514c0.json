@@ -1,0 +1,14 @@
+{
+  "url": "https://www.nist.gov/pml/productsservices/physical-reference-data",
+  "title": "Physical Reference Data",
+  "description": "Elemental Data Index",
+  "text": "Elemental Data Index\nProvides access to the holdings of NIST Physical Measurement Laboratory online data organized by element.\nPeriodic Table: Atomic Properties of the Elements\nContains NIST critically-evaluated data on atomic properties of the elements.\nSuitable for high-resolution color printing for desk or wall-chart display.\nPhysical Constants\nContains values of the fundamental physical constants and a related bibliographic database.\nAtomic Spectroscopy Data\nContains databases for energy levels, wavelengths, radiative transition probabilities, and ionization energies for atoms and ions and related bibliographic databases.\nMolecular Spectroscopic Data\nIncludes databases containing spectroscopic data for small molecules, hydrocarbons, and interstellar molecules. In addition, there are two publications containing equations and the underpinning theory for molecular spectroscopy.\nAtomic and Molecular Data\nContains databases on thermophysical properties of gases, electron-impact cross sections (of atoms & molecules), potential energy surfaces of group II dimers, and atomic weights and isotopic compositions.\nX-Ray and Gamma-Ray Data\nContains databases on the interaction of x-rays and gamma-rays with elements and compounds.\nRadiation Dosimetry Data\nThis database calculates stopping-power and range tables for electrons, protons, or helium ions.\nNuclear Physics Data\nContains a database of the isotopic compositions, atomic weights and relative atomic masses of the elements.\nCondensed Matter Physics Data\nThis database consists of evaluated data for use in total-energy calculations of electronic structure by density-functional theory. It contains total energies and orbital energy eigenvalues for all atoms from hydrogen to uranium.\nOther NIST Data\nProvides access to all data sets at NIST.",
+  "authors": [],
+  "date_publish": "2009-07-15 12:28:00",
+  "language": "en",
+  "source_domain": "www.nist.gov",
+  "crawled_at": "2026-03-01T18:10:44.136780",
+  "parent_url": "https://www.nist.gov/news-events/news",
+  "article_number": 81,
+  "website_id": 75
+}

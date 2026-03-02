@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/an-approach-to-realize-generalized-optimal-motion-primitives-using-physics-2025-04-01/",
+  "title": "An Approach to Realize Generalized Optimal Motion Primitives Using Physics Informed Neural Networks",
+  "description": null,
+  "text": "An Approach to Realize Generalized Optimal Motion Primitives Using Physics Informed Neural Networks\nSlightam, Jonathon E.; Steyer, Andrew J.; Beaver, Logan E.; Young, Carol C.\nAutonomous manipulation is a challenging problem in field robotics due to uncertainty in object properties, constraints, and coupling phenomenon with robot control systems. Humans learn motion primitives over time to effectively interact with the environment. We postulate that autonomous manipulation can be enabled by basic sets of motion primitives as well, but do not necessitate mimicking human motion primitives. This work presents an approach to generalized optimal motion primitives using physics-informed neural networks. Our simulated and experimental results demonstrate that optimality is notionally maintained where the mean maximum observed final position percent error was 0.564% and the average mean error for all the trajectories was 1.53%. These results indicate that notional generalization is attained using a physics-informed neural network approach that enables near optimal real-time adaptation of primitive motion profiles.",
+  "authors": [],
+  "date_publish": "2025-04-01 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:29:06.160076",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 52,
+  "website_id": 80
+}

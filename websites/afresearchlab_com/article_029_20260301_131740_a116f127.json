@@ -1,0 +1,14 @@
+{
+  "url": "https://afresearchlab.com/trapped-ions-2/",
+  "title": "Air Force Research Laboratory",
+  "description": null,
+  "text": "QUANTUM NETWORKING WITH TRAPPED IONS\nAFRL’s trapped ion team investigates quantum mechanics and quantum information science with the long-term goal of constructing a quantum network made for processing and transmitting quantum information. Quantum networks can be used for a variety of tasks including secure communication, a network of clocks, phased sensor arrays, and large scale quantum information processing. The quantum bits in this lab are laser-cooled, trapped ions. Since trapped ions are pristine, identical atomic clocks, trapped ions are a leading contender for building large-scale quantum information systems.\nTrapped ions naturally provide high quality memories for storing and retrieving quantum information. In addition, ions have two buses to connect the quantum bits together: their mutual electric repulsion (phonons) for intra-node information processing and emitted photons for inter-node information transmission.\nTo date, most trapped ion systems use the Coulomb force to entangle the ions that directly interact with each other. Our goal is to distribute entanglement between and within both homogenous (trapped ion) and heterogeneous (trapped ion, quantum photonic integrated circuits, superconducting qubits) quantum network nodes to explore quantum networking applications.\nWe have labs on AFRL’s RI campus and in the Innovare Advancement Center.\nReach out and contact us at: iontrapping@afrl.af.mil",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "afresearchlab.com",
+  "crawled_at": "2026-03-01T13:17:40.753710",
+  "parent_url": "https://afresearchlab.com/technology/quantum/",
+  "article_number": 29,
+  "website_id": 14
+}

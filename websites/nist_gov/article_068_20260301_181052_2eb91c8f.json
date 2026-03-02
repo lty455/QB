@@ -1,0 +1,16 @@
+{
+  "url": "https://www.nist.gov/publications/physical-interpretation-adjoint-methods-sensitivity-analysis-part-i-self-adjoint-linear",
+  "title": "On the Physical Interpretation of Adjoint Methods for Sensitivity Analysis, Part I: Self-Adjoint Linear Systems",
+  "description": "Engineers and scientists rely on computational models not just to predict outcomes, but to understand which input parameters most influence those outcomes.",
+  "text": "Srinivasan, V. (2026), On the Physical Interpretation of Adjoint Methods for Sensitivity Analysis, Part I: Self-Adjoint Linear Systems, Advanced Manufacturing Series (NIST AMS), National Institute of Standards and Technology, Gaithersburg, MD, [online], https://doi.org/10.6028/NIST.AMS.100-77, https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=961492 (Accessed March 1, 2026)\nIssues\nIf you have any questions about this publication or are having problems accessing it, please contact [email protected].",
+  "authors": [
+    "Vijay Srinivasan"
+  ],
+  "date_publish": "2026-02-25 07:00:00",
+  "language": "en",
+  "source_domain": "www.nist.gov",
+  "crawled_at": "2026-03-01T18:10:52.370045",
+  "parent_url": "https://www.nist.gov/publications/search?ta%5B0%5D=248866",
+  "article_number": 68,
+  "website_id": 76
+}

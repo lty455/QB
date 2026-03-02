@@ -1,0 +1,14 @@
+{
+  "url": "https://afresearchlab.com/skyborg-open-resilient-autonomous/",
+  "title": "Air Force Research Laboratory",
+  "description": null,
+  "text": "Skyborg was an autonomous aircraft teaming architecture to enable the Air Force to posture, produce and sustain mission sorties at sufficient tempo to produce and sustain combat mass in contested environments. The Department of the Air Force designated Skyborg as one of three initial Vanguard programs in 2019. These priority initiatives integrate several technology components across multiple domains to create complex, multidisciplinary solutions. Marked by an enterprise-wide commitment, Vanguards deliver advanced capabilities that transform future operations with cutting-edge technologies. As autonomy technology matures, Skyborg accelerated transition of AFRL technology through the Vanguard construct – bringing cutting-edge capabilities to the fight at a faster pace and lower cost.\nSkyborg established an open approach to autonomy architecture, building a system that is portable across aircraft platforms, modular in its design to enable composition of multiple software applications, and adaptable to new capabilities and mission types. The Skyborg approach built on a foundation of research and development across the DoD to create a scalable autonomy core architecture. Through a rapid experimentation campaign, the Skyborg system was adapted for flight on mission-relevant aircraft and demonstrated initial capability to build warfighter trust and discover capability gaps in autonomous systems. The Skyborg Vanguard was a fully integrated team of Air Force Research Laboratory (AFRL) and Air Force Life Cycle Management Center (AFLCMC) personnel to bridge the gap between development and acquisition.\nAn October 2021 experimentation event built upon the basic flight autonomy behaviors demonstrated at OF 21-2. The flight demonstrated matured capabilities of the ACS that enabled two MQ-20s to fly autonomously while communicating with each other to ensure coordinated flight. Additionally, the aircraft responded to navigational commands, stayed within specified geo-fences, and maintained flight envelopes. Both aircraft were monitored from a ground command and control station.\nThe test community is instrumental in helping to integrate government-owned autonomy into operational test events. These test events facilitate trust between the warfighter and autonomous technologies to help inform future operational use cases.\nSkyborg has successfully concluded, transitioning to the Collaborative Combat Aircraft (CCA) program.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "afresearchlab.com",
+  "crawled_at": "2026-03-01T13:09:17.555782",
+  "parent_url": "https://afresearchlab.com/technology/materials-manufacturing/",
+  "article_number": 63,
+  "website_id": 12
+}

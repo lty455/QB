@@ -1,0 +1,14 @@
+{
+  "url": "https://www.onr.navy.mil/organization/departments/code-33/materials-focus-area/artificial-intelligence-machine-learning",
+  "title": "Artificial Intelligence/Machine Learning for Photonics, Power & Energy, Atmospherics, and Quantum Science",
+  "description": "The Office of Naval Research's Artificial Intelligence/Machine Learning for Photonics, Power & Energy, Atmospherics, and Quantum Science program is focused on machine learning techniques that can be applied to photonics, power and energy, thermal management and controls, atmospherics, communication, and quantum science for improved naval capabilities.",
+  "text": "An Artificial Intelligence (AI) system can learn on its own and perform multiple tasks and functions if trained properly. Machine Learning (ML) is the training of AI systems using statistics and algorithms to enable it to identify patterns in observed data, build models to represent the patterns, and predict things without having explicit preprogrammed rules and models. Deep learning is a subset of ML that attempts to learn in multiple levels, corresponding to different levels of abstraction by devising complex models and algorithms that lend themselves to prediction. Deep learning is synonymous with large and complex neural networks. Optimal control is another area that has benefited from the advancements in deep learning algorithms. With new advances in graphics processing unit technology and new ML algorithms, deep learning methods have been applied to dramatically improve the state of the art in speech recognition, visual object recognition, object detection, and many other domains such as drug discovery, genomics, and robotics. Taking advantage of the inherent fault tolerant nature of neural networks, their ability to extract patterns from large complex datasets, and the ability to converge quickly to an optimal solution, ML techniques can be applied to photonics, power and energy, thermal management and controls, atmospherics, communication, and quantum science for improved naval capabilities.\nFor detailed application and submission information for this research topic, please refer to our broad agency announcement (BAA) No. N0001425SB001.\nContracts: All white papers and full proposals for contracts must be submitted through the ONR Submission Portal; instructions are included in the BAA.\nGrants: All white papers for grants must be submitted through the ONR Submission Portal, and full proposals for grants must be submitted through grants.gov; instructions are included in the BAA.",
+  "authors": [],
+  "date_publish": "2022-03-18 21:23:50",
+  "language": "en",
+  "source_domain": "www.onr.navy.mil",
+  "crawled_at": "2026-03-01T18:24:32.965850",
+  "parent_url": "https://www.onr.navy.mil/media-center/future-force-magazine",
+  "article_number": 71,
+  "website_id": 78
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.jpl.nasa.gov/robotics-at-jpl/subterranean-rollocopter/",
+  "title": "Rollocopter",
+  "description": "An innovative robot that can either roll or fly",
+  "text": "About Rollocopter\nIs it a rover or a flyer? It's both. Rollocopter, a hybrid aerial and terrestrial platform, uses a quadrotor system to fly or roll along on two passive wheels. This design gives the robot greater range than aerial-only quadrotors and eliminates obstacle-avoidance issues associated with ground-only robots. When Rollocopter encounters an obstacle, it can simply fly over it. To fly this robot requires a celestial body with an atmosphere and could be used to explore subterranean caves other worlds.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.jpl.nasa.gov",
+  "crawled_at": "2026-03-01T17:51:26.219585",
+  "parent_url": "https://www.jpl.nasa.gov/news?topics=Solar%20System,Mars,Earth,Technology,Robotics,CubeSats%20and%20SmallSats&page=1",
+  "article_number": 94,
+  "website_id": 57
+}

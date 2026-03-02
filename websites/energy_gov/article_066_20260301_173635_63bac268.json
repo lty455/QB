@@ -1,0 +1,14 @@
+{
+  "url": "https://www.energy.gov/topics/earth-systems-modeling",
+  "title": "Earth Systems Modeling",
+  "description": "Scientists use computer models, including AI informed models, to describe Earth's climate, ecology, and environment, including how humans and societies are part of the Earth system and have been affected in the past and may be affected into the future.",
+  "text": "Earth system models are computer simulations of the past and future atmospheric and environmental conditions. Climate is the long-term pattern of weather variables over decades, or even centuries.\nEarth systems models incorporate relevant physics about how energy, gases, fluids, land and ice systems behave. They also integrate key information from measurements, experiments, laboratory analysis, and field observations in the real world. In addition to natural phenomenon, they also include information about human activities such as land and water use, energy production, industrial activity, and more.\nDOE strives to produce very accurate predictions with ultra-high resolution. Scientists run various scenarios on these models to predict how different human activities influence the environment, the likelihood of extreme weather, and the suitability of land systems for energy and agriculture.\nThese predictions help us better understand how the planet works and deliver localized, precise, reliable results. They provide a range of information often tailored to specific stakeholders. Global models can increase our understanding of when ice sheets are likely to melt and how that will affect coastal systems and potential siting of future energy systems. Models can also provide regional or local decisionmakers with information about an area that may flood or experience heat waves. This information can help decision-makers consider where to place new or adapt existing electrical infrastructure and suitability of energy technologies.\nThe DOE Office of Science Biological and Environmental Research program supports many Earth system models, each with a different purpose. As these models are very complex, many of them also rely on the Office of Science’s supercomputing user facilities. One of these models is the Energy Exascale Earth System Model (E3SM). Able to run on the world’s fastest computers, E3SM is the world’s highest resolution model that combines climate information with details on energy infrastructures.\nOngoing work helps improve the models’ accuracy and precision. The office also supports work where scientists collaborate with stakeholders to make the models as useful as possible to communities and decision-makers.",
+  "authors": [],
+  "date_publish": "2025-04-01 00:00:00",
+  "language": "en",
+  "source_domain": "www.energy.gov",
+  "crawled_at": "2026-03-01T17:36:35.713734",
+  "parent_url": "https://www.energy.gov/nnsa/listings/nnsa-news",
+  "article_number": 66,
+  "website_id": 54
+}

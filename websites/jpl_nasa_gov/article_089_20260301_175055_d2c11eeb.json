@@ -1,0 +1,14 @@
+{
+  "url": "https://www.jpl.nasa.gov/missions/cadre/",
+  "title": "CADRE",
+  "description": "A trio of small rovers will work as a team to explore the Moon autonomously, mapping the subsurface in 3D, collecting distributed measurements, and showing the potential of multirobot missions.",
+  "text": "The CADRE (Cooperative Autonomous Distributed Robotic Exploration) project is developing a network of small rovers that will work together to explore the Moon in an experiment to demonstrate new technology. Communicating via mesh network radios with each other and a base station aboard a lunar lander, the rovers will be largely autonomous, making decisions and acting without the need for constant human intervention.\nBy taking simultaneous measurements from different locations, the rovers will demonstrate how multiple robots can collaboratively record data that would be impossible for a single robot to gather. Their success could pave the way for autonomous, multirobot missions that pursue science goals based on such distributed measurements, enter risky and unexplored terrain, or support astronaut activities.\nPowered by solar panels, each four-wheeled rover is about the size of a carry-on bag and equipped with two stereo cameras, navigation sensors, and a multistatic ground-penetrating radar to map lunar terrain in 3D.\nDeveloped by NASA’s Jet Propulsion Laboratory in Southern California, CADRE is slated to arrive at the Reiner Gamma region of the Moon aboard the Intuitive Machines 3 (IM-3) lander in 2026 as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative. The network of robots will spend the daylight hours of a single lunar day – about 14 Earth days – conducting experiments that will test their capabilities.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.jpl.nasa.gov",
+  "crawled_at": "2026-03-01T17:50:55.402706",
+  "parent_url": "https://www.jpl.nasa.gov/news?topics=Solar%20System,Mars,Earth,Technology,Robotics,CubeSats%20and%20SmallSats&page=1",
+  "article_number": 89,
+  "website_id": 57
+}

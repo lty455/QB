@@ -1,0 +1,19 @@
+{
+  "url": "https://www.nist.gov/publications/trace-heat-predictive-power-modeling-transient-diffusion",
+  "title": "The trace of heat: on the predictive power of modeling transient diffusion",
+  "description": "The paper at hand evaluates the validity of the transient heat equation with phase change and temperature-dependent coefficients as a model to predict the evolu",
+  "text": "Holla, V. , Redford, J. , Kopp, P. and Kollmannsberger, S. (2025), The trace of heat: on the predictive power of modeling transient diffusion, Progress in Additive Manufacturing, [online], https://doi.org/10.1007/s40964-025-01147-9, https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=959720 (Accessed March 1, 2026)\nIssues\nIf you have any questions about this publication or are having problems accessing it, please contact [email protected].",
+  "authors": [
+    "Vijaya Holla",
+    "Jesse Redford",
+    "Philipp Kopp",
+    "Stefan Kollmannsberger"
+  ],
+  "date_publish": "2025-06-26 08:00:00",
+  "language": "en",
+  "source_domain": "www.nist.gov",
+  "crawled_at": "2026-03-01T18:10:26.999036",
+  "parent_url": "https://www.nist.gov/publications/search?ta%5B0%5D=248866",
+  "article_number": 62,
+  "website_id": 76
+}

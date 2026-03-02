@@ -1,0 +1,16 @@
+{
+  "url": "https://arl.devcom.army.mil/what-we-do/freedom/",
+  "title": "Fundamental Research for Electronic Warfare in Multi",
+  "description": "Outcomes of this program permit Army forces to sense and communicate in contested multi-domain operations (MDO) environments by developing novel radio",
+  "text": "Fundamental Research for Electronic Warfare in Multi-domain Operations (FREEDOM)\nThe Fundamental Research for Electronic Warfare in Multi-domain Operations (FREEDOM) Essential Research Program (ERP) seeks to develop a fundamentally different way for the Army to perform Electronic Warfare (EW). EW is the use of electromagnetic energy and integrated cyber capabilities to carry out military and intelligence missions.\nOutcomes of this program permit Army forces to sense and communicate in contested multi-domain operations (MDO) environments by developing novel radio frequency (RF), cyber techniques, hardware, and sensor architectures for persistent closed-loop EW. This effort enables persistent, survivable situational awareness in GPS-denied environments that are resilient and compatible for long-duration engagement.\nObjectives\nPersistent distributed, disaggregated, and adaptive electronic warfare (EW) technologies for multi-domain operations:\nAdaptive / Cognitive: How can we rapidly characterize complex or unknown emitters? What are the intrinsic characteristics of transceivers that enable EW fingerprinting?\nDistributed / Coordinated: What are the benefits and limitations of distributed, coordinated, and coherent EW?\nPreemptive / Proactive: How can EW techniques and algorithms introduce uncertainty in the enemy?\nImpact\nAgile EW with ability to adapt to new threats in real time\nHardware in the loop emulation-based laboratory to develop and validate concepts\nDistributed, real-time geolocation and classification of adversary emitters\nWide area concealment to deny target detection or cause misclassification of targets\nWide area obscuration through local synchronization and control\nExtremely low probability of detection communication modalities\nContact\nCarmella Teeter\nProgram Manager\ncarmella.b.teeter.civ@army.mil",
+  "authors": [
+    "William Parks"
+  ],
+  "date_publish": "2022-10-02 19:59:30",
+  "language": "en",
+  "source_domain": "arl.devcom.army.mil",
+  "crawled_at": "2026-03-01T13:47:39.204191",
+  "parent_url": "https://arl.devcom.army.mil/media-center/",
+  "article_number": 54,
+  "website_id": 19
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.nrel.gov/manufacturing/data-tools",
+  "title": "Advanced Manufacturing Research Data and Tools",
+  "description": null,
+  "text": "CEWAM: Circular Economy Wind Agent-based Model\nThe GitHub-based Circular Economy Wind Agent-based Model (CEWAM) is an open-source, agent-based model built with the Mesa python library.\ndsgrid: Demand-Side Grid Model\nNLR's demand-side grid (dsgrid) model creates comprehensive electricity load data sets—including industrial sector data incorporating electricity and other fuel use—at high temporal, geographic, sectoral, and end-use resolution. The data sets enable detailed analyses of current patterns and future projections of end-use loads. dsgrid’s industrial energy modeling team is also advancing industrial energy classification methods in an effort funded by the U.S. Department of Energy’s Advanced Materials and Manufacturing Office and Industrial Technologies Office.\nMFI: Materials Flows through Industry\nThe Materials Flows through Industry tool tracks the material and energy demands from manufacturing supply chains. From evaluating energy and materials inputs in the initial manufacturing stages to those of the final production stages, this tool informs the manufacturing process from resource extraction to the factory gate and beyond.\nMultiple Benefits Knowledge Library\nThe Multiple Benefits Knowledge Library provides resources for industrial practitioners and decision makers seeking to capture the full value of energy productivity projects. The library can help users identify and monetize operational improvements—such as cost savings, improved reliability, enhanced safety and quality, and productivity gains—using structured assessment protocols supported by the JUSTIFI software and continuous improvement methodology. This approach enables practitioners to generate clear, plant-specific insights into operational performance, financial impact, and project payback.\nREopt\nThe free, publicly available REopt® web tool helps guide investment decisions in economic and resilient distributed energy technologies, including energy storage, geothermal heat pumps, and diesel technologies. The REopt optimization tool also incorporates combined heat and power technologies and allows users to quantify the economic, environmental, and resilience benefits of hybrid combined heat and power.\nURBANopt\nURBANopt™ is an advanced analytics platform for high-performance buildings and energy systems within one geographically cohesive area within a city.\nWaterTAP: Water treatment Technoeconomic Assessment Platform",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.nrel.gov",
+  "crawled_at": "2026-03-01T18:18:00.486953",
+  "parent_url": "https://www.nrel.gov/news/news.html",
+  "article_number": 55,
+  "website_id": 77
+}

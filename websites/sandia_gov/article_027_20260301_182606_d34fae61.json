@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/a-novel-peridynamics-based-approach-to-predict-pharmaceutical-tablet-robust-2025-05-31/",
+  "title": "A novel peridynamics-based approach to predict pharmaceutical tablet robustness",
+  "description": null,
+  "text": "A novel peridynamics-based approach to predict pharmaceutical tablet robustness\nGarner, Sean; Silling, Stewart; Ketterhagen, William; Strong, John\nThe pharmaceutical drug product development process can be greatly accelerated through the use of modeling and simulation techniques to predict the manufacturability and performance of a given formulation. The anticipation and possible mitigation of tablet damage due to manufacturing stresses represents a specific area of interest in the pharmaceutical industry for predicting formulation and tableting performance. While the finite element method (FEM) has been extensively used for predicting the mechanical behavior of powder material in the compaction processes, a shortcoming of the approach is the inherent difficulty to predict discontinuities (e.g., damage or cracking) within a tablet as FEM is a continuum-based approach. In this work, we propose a novel method utilizing peridynamics (PD), a numerical method that can capture discontinuities such as tablet fracture, to predict the evolution of damage and breakage in pharmaceutical tablets. The approach links (1) the finite element method – to elucidate the behavior of powders during die compaction – with (2) the peridynamics modeling technique – to model the discontinuous nature of damage and predict tablet breakage during the critical stages of unloading and ejection from the compression die. This short communication presents a proof of concept including a workflow to calibrate the linked FEM-PD simulation models. It demonstrates promising results from a preliminary experimental validation of the approach. Following further development, this approach could be used to guide the optimization of compression processes through targeted changes to formulation material properties, compression process conditions, and/or tooling geometries to deliver improved process efficiency and tablet robustness.",
+  "authors": [],
+  "date_publish": "2025-05-31 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:26:06.425176",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 27,
+  "website_id": 80
+}

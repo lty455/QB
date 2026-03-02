@@ -1,0 +1,14 @@
+{
+  "url": "https://afresearchlab.com/multi-domain-command-control-execution-management-and-workflows/",
+  "title": "MULTI-DOMAIN COMMAND & CONTROL EXECUTION MANAGEMENT AND WORKFLOWS",
+  "description": null,
+  "text": "Workflow-Centric, Domain-Agnostic Development\nFlyleaf is a capability that models operations-floor actors, actions and activities as a set of processes represented as instrumented workflows.\nThese workflows enable, track, monitor, manage and assess C2 application performance in a multi-domain context.\nBy developing a core local and distributed mission applications environment, actions performed on an operations floor are documented as machine-readable representations.\nThis allows software, algorithms and machine learning techniques to evaluate and investigate process-relevant data.\nDev/Ops of Multi-Domain Command & Control (MDC2) Applications at Speed & Scale\nThe development and assessment of Command and Control (C2) applications at speed and scale is critical as the Air Force moves toward a multi-domain (MD) (air, space & cyber, etc.) decision-making environment.\nThis environment must coexist with the massive amounts of data that are collected, produced, stored and analyzed across an enterprise. Current operations centers are challenged with insufficient situational awareness, minimal process automation, excessive staffing requirements and cross-domain threats. This combination threatens response times.\nDocumenting warfighter operations in the form of machine-readable workflows is the first step to enable the application of artificial intelligence and machine learning techniques to improve operations center efficiency and effectiveness.\nA New Paradigm for Software Development & Deployment\nThe Air Force has outlined a new vision for MDC2 – a vision that separates the development, acquisition and sustainment information systems from their constituent components (user interfaces and visualization, C2 mission applications, infrastructure and data). These components move the Air Force to a world characterized by perpetual enhancement in operations.\nFollowing a design-to-test approach, user-centered solutions will be rapidly designed, prototyped and developed with integration, security, test, deployment and sustainment in mind – allowing for rapid test and promotion of new applications and networks to operation centers.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "afresearchlab.com",
+  "crawled_at": "2026-03-01T13:37:50.042874",
+  "parent_url": "https://afresearchlab.com/technology/sensors/",
+  "article_number": 98,
+  "website_id": 16
+}

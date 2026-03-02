@@ -1,0 +1,14 @@
+{
+  "url": "https://www.nrel.gov/buildings/facilities",
+  "title": "Facilities",
+  "description": null,
+  "text": "Commercial Buildings Research Infrastructure\nThe Commercial Buildings Research Infrastructure, located within the Energy Systems Integration Facility, is dedicated to research and development to learn how commercial grid-interactive efficient buildings can provide load flexibility for the future grid.\nSystems Performance Laboratory\nThe ESIF’ Systems Performance Laboratory is designed to validate building-to-grid integration and performance of emerging residential technologies. Featuring hardware-in-the-loop capabilities and three mock homes, the lab provides a dynamic test bed where researchers can implement and evaluate control strategies for residential loads, exploring how intelligent devices and data interact in real-world scenarios.\nEnergy Systems Integration Facility\nThe Energy Systems Integration Facility (ESIF) is the United States' premier lab focused on energy systems research, development, and demonstration. The facility offers plug-and-play research across electrical, thermal, data, and fueling systems; expert on-site engineering; and a robust catalog of energy devices that can be configured to fit a multitude of grid scenarios.\nOptimization and Control Laboratory\nThe ESIF’s Optimization and Control Laboratory integrates commercial building infrastructure, energy storage equipment, and an electric vehicle test bed to evaluate how loads can provide flexibility to the grid and lower energy bills while providing comfort to building occupants. The space features a fluid conditioning module connected to hot- and cold-water loops, electrical infrastructure for three commercial buildings, a building automation system test bed, and an integrated data acquisition system.\nThermal Test Facility\nNLR’s Thermal Testing Facility is a world-class space with unique airflow and climate controls for the ability to dynamically evaluate building technologies across climate zones—all under one roof. While a separate building on campus, the Thermal Testing Facility is integrated with the Energy Systems Integration Facility’s hardware-in-the-loop evaluation, meaning that components can be integrated with nearly any simulated environment, energy source, or building type.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.nrel.gov",
+  "crawled_at": "2026-03-01T18:22:16.304522",
+  "parent_url": "https://www.nrel.gov/news/news.html",
+  "article_number": 97,
+  "website_id": 77
+}

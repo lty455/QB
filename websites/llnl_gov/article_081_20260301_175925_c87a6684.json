@@ -1,0 +1,14 @@
+{
+  "url": "https://ebit.llnl.gov/",
+  "title": "Electron Beam Ion Trap",
+  "description": "The Electron Beam Ion Trap (EBIT) at Lawrence Livermore National Laboratory (LLNL) is a groundbreaking device for creating and trapping highly charged ions using a high current density electron beam. Pioneered at LLNL, EBIT facilitates advanced research in atomic, plasma, and astrophysics by enabling the production of highly charged ions, including bare uranium, under laboratory conditions.",
+  "text": "Welcome to the Electron Beam Ion Trap (EBIT) at Lawrence Livermore National Laboratory (LLNL), home of the first EBIT.\nWhat is EBIT?\nAn EBIT is a device that makes and traps very highly charged ions by means of a high current density electron beam. The EBIT was developed at LLNL by Mort Levine and Ross Marrs. With this device, we perform a wide range of laboratory astrophysics and high accuracy atomic physics experiments. Using EBIT-I or SuperEBIT, we can produce all astrophysically relevant ions and ions of most high-Z material up to bare uranium (U92+) in the lab.\nThe operation of EBIT is based upon the Electron Beam Ion Source (EBIS), a design for an ion source intended for use in atomic physics and as an injector into heavy-ion accelerators. The EBIT is the only ion source in the world that can create highly charged ions that are practically at rest. All other sources of highly charged ions involve accelerators that accelerate the ions to very high energies. Therefore, EBIT allows us to study an otherwise inaccessible domain in which the potential energy of the ion is comparable to or exceeds its kinetic energy.\nExperiments with highly charged ions are at the forefront of physics research in several areas today. These ions are used for studies in the areas of atomic, nuclear, plasma, astro, and surface physics. Following the LLNL EBIT-I and SuperEBIT, other EBITs have been built throughout the world. They can now be found in Oxford (England), Berlin, Heidelberg and Dresden (Germany), Tokyo (Japan), Shanghai (China), Belfast (Northern Ireland), Stockholm (Sweden), and Vancouver (Canada), and Gaithersburg, MD.\nHow does EBIT work?\nEBIT consists of a high-current-density electron beam (up to 5000 A/cm2) passing through a series of three drift tubes. Ions are trapped radially by the charge of the electron beam itself, and axially by voltages applied to the end drift tubes.\nThe electron beam is magnetically compressed by a high magnetic field from a pair of superconducting Helmholtz coils. The electron beam energy in the trap is determined by the voltage applied to the central drift tube.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "ebit.llnl.gov",
+  "crawled_at": "2026-03-01T17:59:25.533686",
+  "parent_url": "https://www.llnl.gov/news",
+  "article_number": 81,
+  "website_id": 59
+}

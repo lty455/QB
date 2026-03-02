@@ -1,0 +1,14 @@
+{
+  "url": "https://www.sandia.gov/research/publications/details/smart-meter-data-a-gateway-for-reducing-solar-soft-costs-with-model-free-ho-2025-04-01/",
+  "title": "Smart Meter Data: A Gateway for Reducing Solar Soft Costs with Model",
+  "description": null,
+  "text": "Smart Meter Data: A Gateway for Reducing Solar Soft Costs with Model-Free Hosting Capacity Maps\nReno, Matthew J.; Azzolini, Joseph A.\nPublic-facing solar hosting capacity (HC) maps, which show the maximum amount of solar energy that can be installed at a location without adverse effects, have proven to be a key driver of solar soft cost reductions through a variety of pathways (e.g., streamlining interconnection, siting, and customer acquisition processes). However, current methods for generating HC maps require detailed grid models and time-consuming simulations that limit both their accuracy and scalability—today, only a handful out of almost 2,000 utilities provide these maps. This project developed and validated data-driven algorithms for calculating solar HC using data from AMI without the need of detailed grid models or simulations. The algorithms were validated on utility datasets and incorporated as an application into NRECA’s Open Modeling Framework (OMF.coop) for the over 260 coops and vendors throughout the US to use. The OMF is free and open-source for everyone.",
+  "authors": [],
+  "date_publish": "2025-04-01 00:00:00",
+  "language": "en",
+  "source_domain": "www.sandia.gov",
+  "crawled_at": "2026-03-01T18:27:56.839022",
+  "parent_url": "https://www.sandia.gov/research/publications/search/",
+  "article_number": 42,
+  "website_id": 80
+}

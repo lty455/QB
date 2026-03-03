@@ -1,0 +1,22 @@
+{
+  "url": "https://www.rand.org/pubs/research_reports/RRA4086-1.html",
+  "title": "Assessing the Practical Feasibility of the Clader-Jacobs-Sprouse Quantum Algorithm for Calculating Radar Cross Sections",
+  "description": "The authors of this report examine the Clader-Jacobs-Sprouse quantum computing algorithm's potential practical utility for modeling a target's radar cross section.",
+  "text": "Shor's algorithm, which could allow quantum computers to solve cryptographic problems that are intractable for classical computers, has led to decades of intense research into realizing quantum computers physically and finding other quantum algorithms that provide exponential speedups relative to their classical counterparts.\nIn 2008, Harrow, Hassidim, and Lloyd discovered an algorithm with the potential for such speedup when solving certain linear systems of equations, and in 2013, Clader, Jacobs, and Sprouse developed an extension of that algorithm, the Clader-Jacobs-Sprouse (CJS) algorithm, that solves electromagnetic scattering problems and demonstrates an end-to-end exponential speedup over classical algorithms for the same problem. If quantum computers of sufficient size are realized, then this CJS algorithm could theoretically solve many radio frequency problems, such as the modeling of a target's radar cross section (RCS), much more rapidly than is possible as of 2026. This would be important for modeling and predicting radar behavior against emerging targets.\nIn this report, the authors compare the end-to-end computational complexity and resource costs of the CJS algorithm (including the read-in and read-out steps that are not always analyzed in the quantum algorithms research literature) with the closest classical approach to the same problem (the frequency-domain finite-element method with a conjugate gradient solver). The authors assess the likelihood that the CJS algorithm will deliver a practically useful quantum advantage over classical computers.\nFunding for this independent research was was made possible by RAND National Defense Research Institute (NDRI) exploratory research funding. The research was conducted within the Acquisition and Technology Policy Program of the RAND National Security Research Division (NSRD).\nThis publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.\nThis work is licensed under Creative Commons Attribution NonCommercial 4.0 International License. All users of the publication are permitted to copy and redistribute the material in any medium or format and transform and build upon the material, including for any purpose (excluding commercial) without further permission or fees being required.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Edward Parker",
+    "Nicholas A. O'Donoughue",
+    "Alvin Moon",
+    "Nicolas M. Robles",
+    "O'Donoughue",
+    "Nicholas A",
+    "Nicolas M"
+  ],
+  "date_publish": "2026-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:09:56.352864",
+  "parent_url": "https://www.rand.org/topics/cyber-and-data-sciences.html",
+  "article_number": 36,
+  "website_id": 97
+}

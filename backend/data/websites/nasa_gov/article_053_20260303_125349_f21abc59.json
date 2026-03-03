@@ -1,0 +1,16 @@
+{
+  "url": "https://www.nasa.gov/blogs/missions/2026/02/26/teams-begin-artemis-ii-repairs-in-vehicle-assembly-building/",
+  "title": "Teams Begin Artemis II Repairs in Vehicle Assembly Building",
+  "description": "Once NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft arrived at the Vehicle Assembly Building (VAB) Feb. 25, technicians immediately",
+  "text": "Once NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft arrived at the Vehicle Assembly Building (VAB) Feb. 25, technicians immediately began addressing why the flow of helium to the SLS upper stage was interrupted as engineers were reconfiguring the rocket following a successful wet dress rehearsal on Feb. 21.\nTo make the repairs, teams are installing two sets of internal access platforms inside the launch vehicle stage adapter and must remove thermal blankets that cover the area they are interested in – a point on the rocket’s interim cryogenic propulsion system, or upper stage. The area provides connections for multiple umbilicals, including tubing used to fill the upper stage with helium. Helium is used to maintain proper environmental conditions, and to pressurize the stage for flight.\nEngineers have narrowed the issue preventing the helium flow to two potential components: a seal on the tubing’s quick disconnect and a check valve on the other end of that tubing.\nWhile the rocket and spacecraft are in the VAB, teams also will install new batteries for the SLS’s upper stage, core stage, and solid rocket boosters, as well as retest its flight termination system and avionics and control systems.\nThe Orion spacecraft’s launch abort system batteries will be recharged, and engineers may refresh some of the stowed items inside the crew module.",
+  "authors": [
+    "Brandi Dean"
+  ],
+  "date_publish": "2026-02-26 16:50:00",
+  "language": "en",
+  "source_domain": "www.nasa.gov",
+  "crawled_at": "2026-03-03T12:53:49.239313",
+  "parent_url": "https://www.nasa.gov/news/all-news/",
+  "article_number": 53,
+  "website_id": 68
+}

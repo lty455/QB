@@ -1,0 +1,16 @@
+{
+  "url": "https://www.sda.mil/sda-issues-draft-solicitation-for-tranche-2-transport-layer-alpha-variant-space-vehicles/",
+  "title": "SDA issues DRAFT Solicitation for Tranche 2 Transport Layer",
+  "description": null,
+  "text": "Response Date: June 5, 2023\nSDA issued a DRAFT solicitation for one of several types of Tranche 2 Transport Layer (T2TL) space vehicles—T2TL Alpha. This DRAFT solicitation expands upon the foundation for Tranche 2 of the Proliferated Warfighter Space Architecture (PWSA) previously described in the T2TL Beta solicitation.\nSDA expects to procure approx. 100 T2TL- Alpha space vehicles, which will share certain common characteristics with the other T2TL variants (Beta and Gamma). Baseline payloads and subsystems on all T2TL satellites include:\nThree optical communication terminals (OCTs)\nKa-band mission payload\nNetworking and data routing subsystem\nNavigation subsystem\nS-band backup telemetry, tracking, and control (TT&C) subsystem\nT2TL-Alpha space vehicles specifically will include the following additional payloads/capabilities:\nFourth OCT\nLink 16 mission payload\nBattle Management, Command, Control, and Communications (BMC3) module\nGlobal Navigation Satellite Systems (GNSS) Situational Awareness (SA) capability within navigation subsystem\nWarlock mission payload\nT2TL features multiple space vehicle and mission configuration variants procured through a multi-solicitation and multi-vendor acquisition approach.\nPlease review the full DRAFT solicitation for details and instructions to provide feedback. Information gathered as a result of this DRAFT solicitation may be used to inform future solicitations.",
+  "authors": [
+    "Team"
+  ],
+  "date_publish": "2023-05-12 13:36:56",
+  "language": "en",
+  "source_domain": "www.sda.mil",
+  "crawled_at": "2026-03-03T13:20:59.045835",
+  "parent_url": "https://www.sda.mil/home/news/",
+  "article_number": 86,
+  "website_id": 82
+}

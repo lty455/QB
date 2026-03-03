@@ -1,0 +1,10 @@
+{
+  "url": "https://www.rand.org/content/rand/pubs/tools/TLA4547-1/_jcr_content/par/product.TLA4547-1.bib",
+  "title": "无标题",
+  "text": "@book{TL-A4547-1,\nauthor=\"Dev, Sunishchal and Andrew Sloan and Joshua Kavner and Nicholas Kong and Morgan Sandler and William Marcellino\",\ntitle=\"Judge Reliability Harness\",\naddress=\"Santa Monica, CA\",\nyear=\"2026\",\ndoi=\"10.7249/TLA4547-1\",\npublisher=\"RAND Corporation\"\n}%n",
+  "crawled_at": "2026-03-03T11:20:03.931635",
+  "parent_url": "https://www.rand.org/topics/cyber-and-data-sciences.html",
+  "page_number": 93,
+  "website_id": 97,
+  "type": "fallback_page"
+}

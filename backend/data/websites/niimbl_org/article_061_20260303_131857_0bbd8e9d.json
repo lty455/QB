@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/next-generation-factory-business-data-mapping/",
+  "title": "Next Gen Factory Business & Data Mapping",
+  "description": "Collaboratively document standard biopharmaceutical manufacturing data workflows and identify future-state improvements for data creation, transformation and use.",
+  "text": "Data flow and information systems in biopharmaceutical manufacturing are often fragmented and misaligned leading to production inefficiencies and delayed decision making. Without a shared framework, efforts to digitalize and optimize manufacturing remain limited, slowing progress toward more agile and resilient manufacturing.\nThe project team will develop a comprehensive taxonomy and hierarchical structure of current biomanufacturing domains and map them using business process model and notation (BPMN) to capture shared processes, data inputs/outputs, responsibilities, and interconnections. In addition, the team will use the BPMN maps across all domains to identify best practices to guide the industry toward incremental optimization and digitalization.\nUsing and tailoring the BPMN maps to an organization's processes provides a clear end-to-end view of manufacturing workflows and data flows, enabling better visibility and alignment, reducing inefficiencies, and supports faster, data-driven decision-making. The inclusion of typical, better, and best practices offers a practical roadmap for incremental improvements.",
+  "authors": [],
+  "date_publish": "2026-03-02 16:18:33",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:18:57.950276",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 61,
+  "website_id": 74
+}

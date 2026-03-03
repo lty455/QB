@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/obtaining-extensive-in-and-at-line-input-and-output-analytics-combined-with-machine-learning-to-improve-predictive-cqa/",
+  "title": "line input and output analytics combined with machine learning to improve predictive CQA",
+  "description": "This project will combine an existing multiscale antibody titer and glycosylation model with a newly developed machine-learning integration to create a workflow that improves the efficient development of new antibody-expressing cell lines.",
+  "text": "Over the past decade, regulatory agencies and the biopharmaceutical industry have been working to implement a ‘Quality by Design’ framework, wherein quality related to drug product safety and efficacy is built into every process stage, per ICH Q8 guidelines. Typical bioprocess control variables can be measured during fermentation via pH, temperature, gas probes, and online Raman and refractive index measurements. However, the ability to connect spent media measurement on- or at-line to product quality depends on a framework that links these measurements to the glycan profile or other CQAs. Furthermore, during early clone selection and identification of growth conditions, cell growth, and product titers can be low, and optimizing media conditions and feeding strategies to obtain a desired product quality is challenging. Metabolic models are helpful but creating a definitive and robust relationship without heuristic approaches is problematic.\nHere, we intend to develop a generalized framework and workflow to apply to any desired cell line. This project will also alter the machine learning paradigm as applied to process development, as this will serve as an integral component of developing a generalized model for correlating process inputs to important CQAs. Altering CQAs, particularly glycosylation, by optimizing feeding strategies has been an ongoing effort in our previous funded work and other studies. Our recent study of additives that alter glycosylation but not other culture attributes (e.g., titer, viability) shows promise in batch cultures. Leveraging our prior successes and experimental data, we will employ model-based design of experiments (MBDoE) in this proposed project to minimize experimental\nparameter space and accelerate process development, using the NISTCHO system as a case study.",
+  "authors": [],
+  "date_publish": "2026-03-02 19:35:33",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:19:46.802552",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 65,
+  "website_id": 74
+}

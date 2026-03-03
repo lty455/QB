@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/single-particle-analyzer-for-high-throughput-and-high-content-characterization-of-nanoparticle-based-rna-therapy/",
+  "title": "content characterization of Nanoparticle",
+  "description": "This project develops a high-throughput single-particle analyzer using fluorescence and microfluidics to characterize RNA-loaded lipid nanoparticles, enabling precise analysis of RNA payload and empty particles to improve RNA drug development and safety.",
+  "text": "Current lipid nanoparticle (LNP) methods primarily rely on bulk measurements, failing to provide critical insights into individual particles. Two emerging quality attributes, the fraction of empty particles and RNA payload quantity and its distribution in LNPs, remain challenging to quantify with existing technologies, leading to challenges in process development, quality control, and regulatory compliance.\nOur team has developed a novel single particle analyzer based on Cylindrical Illumination Confocal Spectroscopy (CICS) technology that achieves single-molecule sensitivity, enabling the accurate quantification of the unaddressed properties at single-particle resolution. This analytical platform has demonstrated the potential to accelerate product development, improve manufacturing consistency, and enhance regulatory compliance and address key challenges in RNA-LNP research and development, and manufacturing settings.\nBy implementing optimized LNP formulation and enhanced quality control processes, an organization could reduce manufacturing costs by an estimated 15–25% through improved process efficiency and fewer batch failures, enabling faster development cycles and more reliable production for advanced therapeutics.",
+  "authors": [],
+  "date_publish": "2026-03-01 19:35:20",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:20:58.367055",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 70,
+  "website_id": 74
+}

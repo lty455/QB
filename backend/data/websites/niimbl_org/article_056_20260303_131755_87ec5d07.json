@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/a-multiscale-metabolic-model-for-fed-batch-culture-process-control/",
+  "title": "A Multiscale Metabolic Model for Fed Batch Culture Process Control",
+  "description": "This project will develop a mechanistic model of cell metabolism that can be integrated with a multiscale cell growth model to predict of metabolic behavior in fed-batch culture.",
+  "text": "Cells in culture have a high flux of glucose consumption and convert a large portion of the consumed glucose to lactate. In the late stage of fed-batch culture, the high flux metabolism may switch to low flux. The occurrence, or the lack thereof, of metabolic shift in fed-batch cultures affects the productivity and quality of therapeutic proteins.\nThis project will integrate a mechanistic model of cell metabolism with a multiscale cell growth model to predict of metabolic behavior in fed-batch culture.\nBy implementing a mechanistic metabolic modeling approach for fed-batch CHO cell culture, an organization could reduce process variability and metabolite-related inefficiencies by optimizing glycolytic flux and growth rate balance, enabling robust biomanufacturing processes that improve product quality and scalability.",
+  "authors": [],
+  "date_publish": "2026-02-21 05:51:19",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:17:55.134292",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 56,
+  "website_id": 74
+}

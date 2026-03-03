@@ -1,0 +1,21 @@
+{
+  "url": "https://www.rand.org/pubs/tools/TLA4547-1.html",
+  "title": "Judge Reliability Harness",
+  "description": "RAND researchers developed the Judge Reliability Harness, an open-source library that orchestrates standardized, reproducible evaluations of large language model–based judges through systematic perturbation testing and human-in-the-loop validation.",
+  "text": "Large Language Models (LLMs) are increasingly employed as judges to evaluate open-ended outputs from AI systems in benchmarking and evaluation tasks. Prior work has shown that automated LLM judges (a.k.a. autograders) can approach human-level agreement in evaluating open-ended text responses, often outperforming traditional metrics. However, research also highlights reliability concerns: prompt sensitivity, verbosity bias, self-preference bias, miscalibration, and hallucination. Recent studies confirm that a simple rubric-based autograder performed as well or better than more complex methods across multiple domains, while being orders of magnitude faster and cheaper than non-expert human graders. This underscores the need not for more complex graders, but for reliable ones. We developed the Judge Reliability Harness (JRH) to directly address this gap: an end-to-end framework for evaluating the reliability of automated large language model (LLM) judges. JRH generates and executes configurable test suites to systematically stress-test any LLM judge (model + rubric) in a variety of situations where it may grade unreliably due to ambiguities or nuances in the content being graded. By making reliability testing configurable, reproducible, and inexpensive, JRH gives model evaluators the ability to develop more reliable LLM judges for any given benchmark and to understand the potential weaknesses so they can appropriately interpret evaluation results, supporting more transparent use of LLM judges in research and deployment contexts.\nView the Documentation\nThis tool was developed by RAND as a subcontractor for a Software Engineering Institute (SEI) project, part of Carnegie Mellon University (CMU). At RAND, this work was performed within the RAND National Security Research Division.\nThis publication is part of the RAND tool series. RAND tools include models, databases, calculators, computer code, GIS mapping tools, practitioner guidelines, web applications, and various other toolkits and applied research products. All RAND tools undergo rigorous peer review to ensure both high data standards and appropriate methodology in keeping with RAND's commitment to quality and objectivity.\nThis code is Copyright (C) 2025 RAND Corporation, and provided under the MIT license\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Sunishchal Dev",
+    "Andrew Sloan",
+    "Joshua Kavner",
+    "Nicholas Kong",
+    "Morgan Sandler",
+    "William Marcellino"
+  ],
+  "date_publish": "2026-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T10:55:26.959292",
+  "parent_url": "https://www.rand.org/topics/science-and-technology.html",
+  "article_number": 8,
+  "website_id": 100
+}

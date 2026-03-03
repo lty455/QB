@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/a-multivariate-in-line-optochemical-sensor-platform-for-continuous-monitoring-of-cross-category-process-parameters-and-product-attributes-in-bioreactors/",
+  "title": "Line Optochemical Sensor Platform for Continuous Monitoring of Cross",
+  "description": "This project develops a multi-attribute inline optochemical sensor platform for continuous monitoring of bioreactors at all scales. This multiplexed fiber-optic sensor platform will monitor, glucose, DO and DCO.",
+  "text": "Current biomanufacturing relies on long lead-time analytical tests for both in-process monitoring (IPM) and final product release. These testing methods significantly increases the cost and the product-to-market release time.\nCurrent in-line or on-line analytical methods can't measure multiple variables across different categories simultaneously. Tracking various process parameters and product attributes requires integrating multiple sensing technologies, increasing system integration challenges and costs. There's an urgent need for adaptable, multi-attribute, cross-category in-line sensing technology for different biomanufacturing steps, regardless of scale or product.\nThis project develops a multi-attribute in-line optochemical sensor platform for continuous monitoring of bioreactors at all scales. The optochemical sensor employs low-cost hydrogel sensors and miniature optical fiber devices, for in-situ monitoring of key process parameters and product quality attributes in both solution and vapor phases. This multiplexed fiber-optic sensor platform will monitor, for the first time, crosscategory variables, such as dissolved O2 (DO), dissolved CO2 (DCO), metabolites (e.g., glucose), and volatile emissions from cell cultures. A prototype device will be demonstrated and validated for continuous monitoring of Chinese hamster ovary (CHO) cell bioreactors within the project period.\nBy implementing a multi-attribute, in-line optochemical sensing platform with low-cost, miniature, fiber-coupled hydrogel sensors, an organization could reduce bioprocessing costs by over 50% and lead times by over 30%, enabling real-time monitoring of critical process variables (e.g., glucose and CO₂) with minimal bioreactor modifications. This improvement accelerates the transition from batch to continuous biomanufacturing, enhances process control, and supports rapid, cost-effective production of biopharmaceuticals—delivering strategic benefits to the broader biopharmaceutical industry.",
+  "authors": [],
+  "date_publish": "2026-02-18 15:07:20",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:17:30.903155",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 54,
+  "website_id": 74
+}

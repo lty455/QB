@@ -1,0 +1,14 @@
+{
+  "url": "https://www.mda.mil/news/21news0011.html",
+  "title": "MDA News Release",
+  "description": null,
+  "text": "The Missile Defense Agency-developed Joint Track Management Capability (JTMC) and Open Systems Gateway (OSG) linked multiple sensor and fire control systems from multiple services into one integrated network during a July 15 flight test at White Sands Missile Range, New Mexico. The integration led to the successful engagement of a cruise missile target by an Army Patriot Advanced Capability-3 interceptor while the system was simultaneously under electronic attack from a second target missile.\n“This is a huge step toward joint interoperability,” said Vice Adm. Jon Hill, Missile Defense Agency director. “This gives the warfighter right-sensor-right-shooter capabilities. Using technology developed by the MDA team, this test demonstrated a truly joint, cross-service kill chain.”\nJTMC allows any two disparate tracking, integrated fire control networks to work together. It and the OSG support a multi-service and industry effort called Joint Tactical Integrated Fire Control (JTIFC). JTIFC aims to enhance integrated fire control capabilities across the services by linking existing sensors, command and control and weapon systems through real-time sensor networks.\nFor the Army-led White Sands test, the JTMC Bridge connected the Army’s Integrated Air and Missile Defense Battle Command System (IBCS) Integrated Fire Control Network (IFCN) with the Navy’s Cooperative Engagement Capability (CEC). The OSG further provided data from two Air Force F-35 Joint Strike Fighters to the IFCN, and the JTMC Bridge brought in data from a Marine Corps AN/TPS Ground/Air Task-Oriented Radar. This created a single, composite tracking network that allowed integrated fire control across Army, Air Force, Navy and Marine Corps systems.\nMDA plans further demonstrations of JTMC and the OSG later this year.\nPlease direct media queries to MDA Press Operations at MDAPressOperations@mda.mil.\nABOUT MDA: The mission of the Missile Defense Agency is to develop and deploy a layered Missile Defense System to defend the United States, its deployed forces, allies and friends from missile attacks in all phases of flight.",
+  "authors": [],
+  "date_publish": "None",
+  "language": "en",
+  "source_domain": "www.mda.mil",
+  "crawled_at": "2026-03-03T12:37:19.198825",
+  "parent_url": "https://www.mda.mil/news/news.html",
+  "article_number": 84,
+  "website_id": 61
+}

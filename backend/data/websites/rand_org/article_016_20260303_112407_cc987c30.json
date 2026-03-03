@@ -1,0 +1,19 @@
+{
+  "url": "https://www.rand.org/pubs/research_reports/RRA1596-1.html",
+  "title": "Developing Models and Metrics to Assess the Impacts of Complexity in Operational Settings",
+  "description": "The authors of this report assess mathematical strategies for quantifying complexity in wartime environments and provide a framework that will help make complexity a concrete consideration in operational settings.",
+  "text": "Modern warfare is characterized by an environment of complex, multidomain operations deployed against an adversary who, likewise, responds with a complex array of tactics. Although the challenges of operating in this environment have long been recognized, the complexities of this environment have rarely been framed or studied in a structured way.\nIn this report, the authors assess mathematical strategies for quantifying complexity in wartime environments. After comparing approaches based in linear algebra with Monte Carlo simulation strategies, they were able to provide a general road map that defined the advantages and limitations of each. These methods are demonstrated in two operational vignettes: one examining a simplified suppression of enemy air defenses scenario and a second examining the Cuban Missile Crisis.\nNote: As a component of this project, researchers created a Julia implementation for some Markov chain processes, including defining and implementing transition matrix from a sparse text file using variables, finding steady states and absorption probabilities, and simulating random walks. Research teams that would like to apply these processes to their own work can find the underlying code in this GitHub repository:\nView the repository on GitHub\nThe research described in this report was prepared for the Department of the Air Force and conducted by the Force Modernization and Employment Program within RAND Project AIR FORCE.\nThis publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.\nThis document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Matthew Sargent",
+    "Edward Parker",
+    "James Syme",
+    "Vikram Kilambi"
+  ],
+  "date_publish": "2021-08-26 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:24:07.228313",
+  "parent_url": "https://www.rand.org/topics/air-warfare.html",
+  "article_number": 16,
+  "website_id": 94
+}

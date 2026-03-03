@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/rapid-continuous-production-of-room-temperature-stable-mrna-vaccines/",
+  "title": "Rapid Continuous Production of Room Temperature Stable mRNA Vaccines",
+  "description": "The goal of this project is to produce continuous automated compact mRNA producing machine, mRNA with improved stability and thermostabilized vaccine unit as output.",
+  "text": "The COVID-19 pandemic demonstrated the need for readily available mRNA vaccines that do not require ultra-cold storage.\nUMass, Sepragen and the University of Pennsylvania will create a continuous, automated, compact mRNA producing machine.\nTo do this, the team will:\nProduce a mRNA purification device, inline UV sensor to feedback control and maintain set point concentrations.\nBuild algorithms and control strategies that utilize biosensor signals in an algorithm for overall feedback control.\nThis project replaces centralized, cold-chain-dependent batch manufacturing with a compact, automated unit capable of producing thermostabilized mRNA at the point of need. By utilizing inline ultraviolet sensors and feedback algorithms, the system minimizes \"out-of-spec\" waste, projected to increase process consistency and material utilization by 20–30%. Transitioning to this continuous, decentralized model is estimated to reduce total logistics and facility overhead by 45% by eliminating the need for -80-degree Celsius infrastructure and high-intensity manual labor.",
+  "authors": [],
+  "date_publish": "2026-02-22 05:55:35",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:27:34.613537",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 89,
+  "website_id": 74
+}

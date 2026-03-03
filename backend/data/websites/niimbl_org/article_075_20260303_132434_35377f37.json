@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/cell-culture-glycosylation-multi-scale-mechanistic-modeling-phase-1/",
+  "title": "Scale Mechanistic Modeling (Phase 1)",
+  "description": "Develop software for next-generation N- and O-linked glycosylation mechanistic models for control for fed-batch Chinese Hamster Ovary (CHO) cell culture",
+  "text": "Glycosylation, one of the most common post-translational modifications (PTMs) for proteins, occurs via a complex set of reactions by which sugars are added to and removed from proteins. These glycans can impact folding stability, intracellular and extracellular targeting, and mediation of binding to host cells. In therapies, the glycoform distribution can impact the immunogenicity, circulatory half-life, pharmacokinetics, and effector functions. To ensure consistent product quality and glycoform distribution, an understanding of factors that affect the glycoforms is required. These factors range from protein structure around the glycosylation site to various genetic mutations, to host enzyme expression levels to culture conditions. The models for this range from data-driven to mechanistic. Data-driven models can be constructed without needing mechanistic information, but their lack of a mechanistic basis makes development of a broadly applicable control strategy more challenging. Additionally, knowledge gained from data-driven models are not necessarily additive, which makes utilization of different observations in the literature difficult.",
+  "authors": [],
+  "date_publish": "2026-02-22 21:40:05",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:24:34.916730",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 75,
+  "website_id": 74
+}

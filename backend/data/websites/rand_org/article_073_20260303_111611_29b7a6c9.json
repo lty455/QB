@@ -1,0 +1,20 @@
+{
+  "url": "https://www.rand.org/pubs/external_publications/EP70924.html",
+  "title": "Orbitomics",
+  "description": "Orbitomics examines the economic impact of advanced technologies, Federated Learning, Edge Computing and Quantum, in Space Situational Awareness. This paper provides a Theory of Change for enhancing space security and governance by 2035.",
+  "text": "This paper investigates the economic impact of cutting-edge technologies in space asset monitoring, focusing on the development of the Space Situational Awareness (SSA) commercial sector and projecting their integration through 2035. Central to this analysis is the concept of Orbitomics, a multidisciplinary field that examines the spatial pathways and interactions of in-orbit assets, satellites, and space debris. Orbitomics is essential for grasping the intricate dynamics of in-orbit objects, merging economics, geopolitics, stakeholder management, and technology assessment to refine in-orbit strategic decisions. As space becomes more congested, the demand for In-Orbit Services, Assembly, and Manufacturing (ISAM) capabilities, such as repair and refueling, is expected to rise. This study evaluates the holistic value creation for the SSA sector from integrating novel technologies like Machine Learning (ML), Quantum Computing, and the Internet of Things (IoT), which enhance the accuracy and reliability of space monitoring systems. By focusing on a future outlook to 2035, the research aims to provide insights that are strategically valuable for fostering a thriving global SSA sector. The methodology involves a three-phase approach: Horizon Scanning to identify emerging trends and technologies; Theory of Change to craft an Orbitomical Paradigm demonstrating how these innovations can revolutionize the SSA space economy; and Impact Evaluation to appraise the added value of these innovations on commercial ISAM and SSA activities through a cost-benefit analysis. The research emphasizes the convergence of Federated Learning (FL), Edge Computing (EC), and Quantum Communications, which collectively boost operational efficiency in SSA systems. The Four-Ps framework-power, precision, privacy, and propagation-examines how these innovations enhance SSA capabilities. FL stands out as the most promising innovation, providing notable advantages in precision and privacy, while EC improves power and propagation. Quantum Communications, despite its promise for secure communication, encounters challenges due to high expenses and early development stages. The impact on stakeholders is multifaceted, affecting decision-makers, policy-makers, and end users differently. The study highlights the necessity for flexible policy frameworks and regulatory advancements to fully harness these innovations' potential while overcoming implementation challenges. Ultimately, this research offers a roadmap for leveraging technological advancements to enhance space sustainability, safety, and security, ensuring the growing in-orbit space economy remains a meticulously governed resource.\nThis publication is part of the RAND external publication series. Many RAND studies are published in peer-reviewed scholarly journals, as chapters in commercial books, or as documents published by other organizations.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Mélusine Lebret",
+    "Ryan J. Bain",
+    "Billy Bryan",
+    "Anca Agachi",
+    "Ryan J"
+  ],
+  "date_publish": "2025-05-22 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:16:11.265504",
+  "parent_url": "https://www.rand.org/topics/cyber-and-data-sciences.html",
+  "article_number": 73,
+  "website_id": 97
+}

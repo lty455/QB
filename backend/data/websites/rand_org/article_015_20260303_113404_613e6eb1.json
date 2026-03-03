@@ -1,0 +1,25 @@
+{
+  "url": "https://www.rand.org/pubs/research_reports/RRA2441-1.html",
+  "title": "An Integrated Model of Recruiting Resources",
+  "description": "This report documents the Integrated Recruiting Resource Model, which predicts contract and accession production for both the Regular Army and U.S. Army Reserve and provides optimal resource allocation recommendations for both components.",
+  "text": "The Recruiting Resource Model (RRM) is a multipart statistical and optimization model of the relationship among U.S. Army recruiting resources, the recruiting environment, and Army recruiting production. The model predicts enlistment contracts and accessions and includes an optimizer that provides information on how the Army can allocate its recruiting budget among recruiting resources to maximize accessions and enlistment contracts. The goal of the RRM is to show how the Army can meet its recruiting mission at the lowest cost, given assumptions about the recruiting environment. The RRM can also make recommendations on the allocation of Army spending if the recruiting environment changes.\nIn this report, the authors present their results from developing a third version of the RRM, the Integrated Recruiting Resource Model (iRRM). The iRRM jointly models contract and accession production for both the Regular Army and the U.S. Army Reserve and includes an optimizer that provides resource allocation recommendations for both components. The iRRM also includes, for the first time in the RRM series, data from fiscal years (FYs) 2019 to 2022, providing the first RRM examination of recruiting after the coronavirus 2019 pandemic and further information on how the evolution of digital advertising and television consumption has affected the return on investment for Army advertising.\nThis research was conducted within the Personnel, Training, and Health Program of RAND Arroyo Center.\nThis publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.\nThis document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Avery Calkins",
+    "Jeffrey B. Wenger",
+    "Jeremy M. Eckhause",
+    "Craig A. Bond",
+    "Tiffany Berglund",
+    "Jack Kroger",
+    "Daniel Schwam",
+    "Jeffrey B",
+    "Jeremy M",
+    "Craig A"
+  ],
+  "date_publish": "2025-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:34:04.459566",
+  "parent_url": "https://www.rand.org/ard/pubs.html",
+  "article_number": 15,
+  "website_id": 92
+}

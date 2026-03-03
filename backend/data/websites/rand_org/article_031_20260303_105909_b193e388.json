@@ -1,0 +1,20 @@
+{
+  "url": "https://www.rand.org/pubs/external_publications/EP71188.html",
+  "title": "Stay Tuned",
+  "description": "We consider fine-tuning strategies to improve performance—including cross-target tuning using an assumption of congressmembers’ stance based on party affiliation—and strategies for fine-tuning LLMs, including few shot and chain-of-thought prompting.",
+  "text": "Sentiment analysis and stance detection are key tasks in text analysis, with applications ranging from understanding political opinions to tracking policy positions. Recent advances in large language models (LLMs) offer significant potential to enhance sentiment analysis techniques and to evolve them into the more nuanced task of detecting stances expressed toward specific subjects. In this study, we evaluate lexicon-based models, supervised models, and LLMs for stance detection using two corpuses of social media data—a large corpus of tweets posted by members of the U.S. Congress on Twitter and a smaller sample of tweets from general users—which both focus on opinions concerning presidential candidates during the 2020 election. We consider several fine-tuning strategies to improve performance—including cross-target tuning using an assumption of congressmembers’ stance based on party affiliation—and strategies for fine-tuning LLMs, including few shot and chain-of-thought prompting. Our findings demonstrate that: 1) LLMs can distinguish stance on a specific target even when multiple subjects are mentioned, 2) tuning leads to notable improvements over pretrained models, 3) cross-target tuning can provide a viable alternative to in-target tuning in some settings, and 4) complex prompting strategies lead to improvements over pretrained models but underperform tuning approaches.\nThis publication is part of the RAND external publication series. Many RAND studies are published in peer-reviewed scholarly journals, as chapters in commercial books, or as documents published by other organizations.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Max Griswold",
+    "Michael W. Robbins",
+    "Michael S. Pollard",
+    "Michael W",
+    "Michael S"
+  ],
+  "date_publish": "2025-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T10:59:09.850756",
+  "parent_url": "https://www.rand.org/topics/science-and-technology.html",
+  "article_number": 31,
+  "website_id": 100
+}

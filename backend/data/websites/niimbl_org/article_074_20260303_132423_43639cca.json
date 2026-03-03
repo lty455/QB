@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/opensourced-biopharmaceutical-manufacturing-ontology/",
+  "title": "Sourced Biopharmaceutical Manufacturing Ontology",
+  "description": "NIIMBL contributed collaboratively developed ontologies produced by its Big Data Program to an open-source platform (OAGi), which aims to accelerate development and adoption of data-driven innovation and standards within biopharmaceutical manufacturing.",
+  "text": "Poor data interoperability in Product Development and Manufacturing owing to different computerized design, analysis, and manufacturing software and hardware systems among functions within and between different companies.\nUse Opensource communally developed and implemented Ontologies to provide an integrating environment for information repositories to enable semantic annotation, search/retrieval, and knowledge representation between systems throughout the design to manufacture lifecycle, within and between companies.\nBy implementing open-source ontologies to bridge data gaps across the manufacturing lifecycle, companies can resolve interoperability issues that currently hinder knowledge transfer between systems. This initiative addresses a $300,000 risk per product in potential lost sales by reducing the 10% probability that data silos will delay a critical-path launch.",
+  "authors": [],
+  "date_publish": "2026-02-22 22:00:06",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:24:23.434312",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 74,
+  "website_id": 74
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://www.rand.org/pubs/perspectives/PEA2679-1.html",
+  "title": "The Rise of Generative AI and the Coming Era of Social Media Manipulation 3.0",
+  "description": "This Perspective explores the implications that generative artificial intelligence (AI) might have for social media manipulation. The authors argue that generative AI presents a revolutionary improvement for the social media manipulation process.",
+  "text": "The world may remember 2022 as the year of generative artificial intelligence (AI): the year that large language models (LLMs), such as OpenAI's GPT-3, and text-to-image models, such as Stable Diffusion, marked a sea change in the potential for social media manipulation. LLMs that have been optimized for conversation (such as ChatGPT) can generate naturalistic, human-sounding text content at scale, while open-source text-to-image models can generate photorealistic images of anything (real or imagined) and can do so at scale. Using existing technology, U.S. adversaries could build digital infrastructure to manufacture realistic but inauthentic (fake) content that could fuel similarly realistic but inauthentic online human personae: accounts on Twitter, Reddit, or Facebook that seem real but are synthetic constructs, fueled by generative AI and advancing narratives that serve the interests of those governments.\nIn this Perspective, the authors argue that the emergence of ubiquitous, powerful generative AI poses a potential national security threat in terms of the risk of misuse by U.S. adversaries (in particular, for social media manipulation) that the U.S. government and broader technology and policy community should proactively address now. Although the authors focus on China and its People's Liberation Army as an illustrative example of the potential threat, a variety of actors could use generative AI for social media manipulation, including technically sophisticated nonstate actors (domestic as well as foreign). The capabilities and threats discussed in this Perspective are likely also relevant to other actors, such as Russia and Iran, that have already engaged in social media manipulation.\nFunding for this research was made possible by the independent research and development provisions of RAND's contracts for the operation of its U.S. Department of Defense federally funded research and development centers. This research was conducted within the International Security and Defense Policy Program of the RAND RAND National Security Research Division (NSRD).\nThis publication is part of the RAND expert insights series. The expert insights series presents perspectives on timely policy issues.\nThis document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "William Marcellino",
+    "Nathan Beauchamp-Mustafaga",
+    "Amanda Kerrigan",
+    "Lev Navarre Chao",
+    "Jackson Smith",
+    "Beauchamp-Mustafaga",
+    "Navarre Chao"
+  ],
+  "date_publish": "2024-11-05 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:08:53.505464",
+  "parent_url": "https://www.rand.org/topics/geopolitical-strategic-competition.html",
+  "article_number": 62,
+  "website_id": 98
+}

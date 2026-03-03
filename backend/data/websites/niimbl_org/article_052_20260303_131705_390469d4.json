@@ -1,0 +1,14 @@
+{
+  "url": "https://www.niimbl.org/projects/spectro-acoustic-process-analytical-technology-for-real-time-monitoring-of-biopharmaceuticals/",
+  "title": "acoustic process analytical technology for real",
+  "description": "Development of an integrated Process Analytical Technology (PAT) for real time monitoring in biopharmaceutical manufacturing.",
+  "text": "The pharmaceutical industry continues to predominantly use batch processes due to the limitations of current technology, such as advanced control strategies and improved process monitoring. CM of biopharmaceuticals offers notable benefits compared to traditional batch production, such as increased agility, flexibility, improved quality, cost reductions, and social advantages. (Fisher et al. 2016) Therefore, reliable real-time monitoring sensors are crucial for pharmaceutical companies.\nThis project aims to develop an integrated Process Analytical Technology (PAT) for real time monitoring in biopharmaceutical manufacturing. The focus is on combining acoustofluidic device to enrich particles with Raman and Fourier Transform Infrared (FTIR) spectroscopy to create a spectro-acoustic PAT system. This innovative approach addresses the limitations of current monitoring techniques by providing real-time, nondestructive measurements with enhanced sensitivity.\nBy integrating acoustofluidic particle enrichment with Raman and FTIR spectroscopy, this project enables real-time, in-line monitoring of viral particles, potentially reducing product release lead times from weeks to mere hours—a 90% reduction in hold times. Transitioning from traditional batch production to this continuous manufacturing (CM) approach targets an overall manufacturing cost reduction of 15% to 30% through improved process agility and reduced material waste. Furthermore, the acoustofluidic concentration of particles significantly enhances sensitivity, providing instantaneous detection of critical quality attributes that current off-line methods cannot monitor in real-time.",
+  "authors": [],
+  "date_publish": "2026-03-02 19:35:32",
+  "language": "en",
+  "source_domain": "www.niimbl.org",
+  "crawled_at": "2026-03-03T13:17:05.771340",
+  "parent_url": "https://www.niimbl.org/news/",
+  "article_number": 52,
+  "website_id": 74
+}

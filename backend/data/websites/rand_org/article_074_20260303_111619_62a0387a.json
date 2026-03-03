@@ -1,0 +1,25 @@
+{
+  "url": "https://www.rand.org/pubs/research_reports/RRA1020-1.html",
+  "title": "The Quantum Age and Its Impacts on the Civil Justice System",
+  "description": "The authors evaluate the future impacts of quantum computing for insurers, law firms, courts, and regulatory agencies in the civil justice system with regard to potential implications for cryptography, liability and insurance, and privacy.",
+  "text": "For the past half-century, computer processing power has doubled roughly every 24 months. As transistors — the basic elements of digital computers — become smaller, they also become faster, more efficient, and more resilient. Engineers are now at the point where they cannot make transistors any smaller without fundamentally changing the way they physically operate. As a result, the major players in digital computing are now looking toward the next big innovation that may fuel yet another new era of exponential growth in technological capabilities and opportunities: quantum computing.\nIn this report, the authors investigate the future impacts of quantum computing on the civil justice system. The U.S. justice system has struggled to adapt to the existing reality of the digital computer age. Both national and international cyber laws are still evolving as they try to catch up with emerging cybersecurity threats while data privacy laws are continuously lagging behind big data analytics and artificial intelligence technologies.\nThe authors conducted a comprehensive review of relevant legal and regulatory frameworks that will be affected by quantum computing, and interviewed stakeholders in the justice system, including lawyers, judges, and court technology experts. Their findings are intended to help those in the civil justice system think proactively about the potential legal, policy, and regulatory implications of quantum computing in the context of the U.S. civil justice system, specifically for cryptography, liability and insurance, and privacy.\nFunding for this research was provided by gifts from RAND supporters and income from operations. The research was conducted in the Justice Policy Program within RAND Social and Economic Well-Being.\nThis publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.\nThis document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "James Dimarogonas",
+    "Michelle Grisé",
+    "Maya Buenaventura",
+    "Erik Silfversten",
+    "Andrew J. Lohn",
+    "James M. Anderson",
+    "Bethany Saunders-Medina",
+    "Andrew J",
+    "James M",
+    "Saunders-Medina"
+  ],
+  "date_publish": "2025-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:16:19.693701",
+  "parent_url": "https://www.rand.org/topics/cyber-and-data-sciences.html",
+  "article_number": 74,
+  "website_id": 97
+}

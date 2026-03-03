@@ -1,0 +1,25 @@
+{
+  "url": "https://www.rand.org/pubs/research_reports/RRA4490-1.html",
+  "title": "Developing a Risk-Scoring Tool for Artificial Intelligence-Enabled Biological Design",
+  "description": "A rise in artificial intelligence (AI) use in biology has driven transformative developments but could also pose dual-use risks. This report presents a multifaceted scoring system to assess the risks of using AI to modify select viral capabilities.",
+  "text": "Biological research enabled by artificial intelligence (AI) has driven transformative developments in biology but poses significant dual-use risks. In this report, the authors identify five biological functions that could be modified using AI tools: altered host range or tropism, increased genome replication, immune or medical countermeasure evasion, increased environmental stability, and increased transmission dynamics.\nThe authors also introduce a dual-component risk-scoring tool to assess the risks of these modifications. The first component — a biological modification risk-scoring system — evaluates the impact of modifying each of the five functions. The second component — an actor capability scoring system — assesses the technical skill levels required to modify these functions and how much AI tools might enhance those skill levels. Together, these scores form a risk-scoring tool that allows the authors to evaluate the severity of potential misuse in AI-enabled biological design. The authors also demonstrate how the risk-scoring tool could be applied to hypothetical use cases, including anticipating misuse from published research or developing redlines for biosecurity protocols.\nAs AI tools and equipment become more accessible and advanced, the technical barriers to modifying dangerous biological functions could decrease. The authors envision that this scoring tool could serve as a foundation for a more robust decisionmaking framework that helps identify risks from AI-enabled biological research while ensuring that such work occurs safely and securely without stifling responsible innovation.\nThis research was independently initiated and conducted by the Center on AI, Security, and Technology within RAND Global and Emerging Risks using income from operations and gifts and grants from philanthropic supporters.\nThis publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.\nThis document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit www.rand.org/pubs/permissions.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Adeline E. Williams",
+    "Barbara Del Castello",
+    "Jeffrey Lee",
+    "Derek Roberts",
+    "John P. Tarangelo",
+    "Jay Atanda",
+    "Alejandro Colman-Lerner",
+    "Jeff Gerold",
+    "Roger Brent",
+    "Adeline E"
+  ],
+  "date_publish": "2026-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:20:31.031900",
+  "parent_url": "https://www.rand.org/topics/artificial-intelligence.html",
+  "article_number": 21,
+  "website_id": 95
+}

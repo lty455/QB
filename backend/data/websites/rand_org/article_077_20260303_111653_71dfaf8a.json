@@ -1,0 +1,22 @@
+{
+  "url": "https://www.rand.org/pubs/external_publications/EP70733.html",
+  "title": "Evaluating Cryptographic Vulnerabilities Created by Quantum Computing in Industrial Control Systems",
+  "description": "We assessed quantum computing-facilitated cryptographic vulnerabilities in Industrial Control Systems and Operational Technology systems. We offer recommendations related to the protection of these vulnerabilities.",
+  "text": "Quantum computing is expected to eventually be able to break the public-key cryptography algorithms currently used throughout information technology (IT) infrastructure, undermining foundational tools used to maintain information security across the country's critical infrastructure. As these systems converge, the security posture of operational technology (OT) systems has to adapt to a new threat landscape and adopt some of the same security controls as those used in enterprise IT, especially cryptographic controls that rely on public-key cryptography, which are ubiquitous in enterprise IT systems. Operators and manufacturers of industrial control systems (ICSs) and OT systems will need to understand and address the unique ways in which these systems will be vulnerable to adversaries equipped with quantum computers. We assessed quantum computing-facilitated cryptographic vulnerabilities in ICSs and OT systems to identify the issues in need of the most-urgent attention from ICS and OT owners, operators, and manufacturers. Employing a modified consequence-driven, cyber-informed engineering process informed by literature review and analysis, we mapped protocols using or enabling cryptographic protections across common ICS network topologies as part of an assessment of how an attacker could cause harm, especially damaging physical consequences resulting from manipulation of cyber-physical systems, through the cryptographic compromise of ICS and OT networks and components. Our evaluation of identified and ranked risks to related control systems was also informed by relevant literature on ICS risk assessment and mitigation, cyber harms, and historical attacks on critical infrastructure. Using our analysis, we assessed the overall difficulty in mitigating risk from each of the identified vulnerability archetypes. The resulting analysis identified vulnerabilities associated with code-signing processes as the highest priority for attention when updating systems for a postquantum future. This risk was followed by vulnerabilities associated with forged certificates for identification and vulnerabilities associated with forged session keys, identified as lower priorities but still of concern. Informed by our findings, we offer recommendations related to the protection of these vulnerabilities and the improvement of ICS security in developed systems.\nThis publication is part of the RAND external publication series. Many RAND studies are published in peer-reviewed scholarly journals, as chapters in commercial books, or as documents published by other organizations.\nRAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.",
+  "authors": [
+    "Michael J. D. Vermeer",
+    "Chad Heitzenrater",
+    "Edward Parker",
+    "Alvin Moon",
+    "Domenique Lumpkin",
+    "Jalal Awan",
+    "Michael J. D"
+  ],
+  "date_publish": "2024-03-03 00:00:00",
+  "language": "en",
+  "source_domain": "www.rand.org",
+  "crawled_at": "2026-03-03T11:16:53.831034",
+  "parent_url": "https://www.rand.org/topics/cyber-and-data-sciences.html",
+  "article_number": 77,
+  "website_id": 97
+}

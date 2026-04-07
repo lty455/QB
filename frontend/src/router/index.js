@@ -8,6 +8,22 @@ const routes = [
     component: () => import('../views/HomeView.vue')
   },
   {
+    path: '/entity-recognition',
+    name: 'EntityRecognition',
+    component: () => import('../views/EntityRecognitionView.vue')
+  },
+  {
+    path: '/visual',
+    name: 'Visual',
+    component: () => import('../views/VisualView.vue')
+  },
+  {
+    path: '/chat',
+    name: 'ChatBox',
+    component: () => import('../views/ChatBoxView.vue')
+  },
+
+  {
     path: '/about',
     name: 'About',
     component: () => import('../views/AboutView.vue')

@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <h1>网站数据源管理系统</h1>
-    <p>管理500+个网站数据源，支持自动分类和智能爬取</p>
+    <h1>多源情报数据源扫描与管理系统</h1>
+    <p>管理500+个数据源，支持自动分类和智能扫描</p>
 
     <!-- 数据统计 -->
     <div v-if="stats.total > 0" class="stats">
@@ -12,7 +12,7 @@
               <div class="stat-icon total">🌐</div>
               <div class="stat-info">
                 <div class="stat-number">{{ stats.total }}</div>
-                <div class="stat-label">总网站数</div>
+                <div class="stat-label">总数据源</div>
               </div>
             </div>
           </el-card>
@@ -36,7 +36,7 @@
               <div class="stat-icon crawling">🕷️</div>
               <div class="stat-info">
                 <div class="stat-number">{{ stats.by_status['抓取中'] || 0 }}</div>
-                <div class="stat-label">抓取中</div>
+                <div class="stat-label">扫描中</div>
               </div>
             </div>
           </el-card>
@@ -48,7 +48,7 @@
               <div class="stat-icon pending">⏳</div>
               <div class="stat-info">
                 <div class="stat-number">{{ stats.by_status['待抓取'] || 0 }}</div>
-                <div class="stat-label">待抓取</div>
+                <div class="stat-label">待扫描</div>
               </div>
             </div>
           </el-card>
@@ -60,7 +60,7 @@
     <div v-if="Object.keys(stats.by_category || {}).length > 0" class="category-stats">
       <el-card>
         <template #header>
-          <span>📊 分类分布</span>
+          <span>📊 数据源类别</span>
         </template>
         <div class="category-tags">
           <el-tag
@@ -81,7 +81,7 @@
     <el-card v-if="crawlStatusData" class="crawl-status-card">
       <template #header>
         <div class="status-header">
-          <span>📊 爬虫统计 (持久化)</span>
+          <span>📊 扫描统计 (持久化)</span>
           <el-button
             type="text"
             @click="loadCrawlStatus"
@@ -95,19 +95,19 @@
 
       <div class="crawl-stats">
         <div class="crawl-stat-item">
-          <div class="crawl-stat-label">总网站数</div>
+          <div class="crawl-stat-label">总数据源</div>
           <div class="crawl-stat-value">{{ crawlStatusData.statistics.total_websites }}</div>
         </div>
 
         <div class="crawl-stat-item">
-          <div class="crawl-stat-label">待抓取</div>
+          <div class="crawl-stat-label">待扫描</div>
           <div class="crawl-stat-value" style="color: #909399;">
             {{ crawlStatusData.statistics.pending }}
           </div>
         </div>
 
         <div class="crawl-stat-item">
-          <div class="crawl-stat-label">抓取中</div>
+          <div class="crawl-stat-label">扫描中</div>
           <div class="crawl-stat-value" style="color: #E6A23C;">
             {{ crawlStatusData.statistics.processing }}
           </div>
@@ -151,15 +151,15 @@
     <div class="crawl-presets" v-if="showCrawlPresets">
       <el-card>
         <template #header>
-          <span>⚙️ 爬取参数预设</span>
+          <span>⚙️ 扫描参数预设</span>
         </template>
 
         <div class="preset-options">
           <el-radio-group v-model="selectedPreset" @change="applyPreset">
-            <el-radio-button label="quick">快速爬取</el-radio-button>
-            <el-radio-button label="standard">标准爬取</el-radio-button>
-            <el-radio-button label="deep">深度爬取</el-radio-button>
-            <el-radio-button label="comprehensive">全面爬取</el-radio-button>
+            <el-radio-button label="quick">快速扫描</el-radio-button>
+            <el-radio-button label="standard">标准扫描</el-radio-button>
+            <el-radio-button label="deep">深度扫描</el-radio-button>
+            <el-radio-button label="comprehensive">全面扫描</el-radio-button>
           </el-radio-group>
 
           <el-button
@@ -174,10 +174,10 @@
         <!-- 当前参数显示 -->
         <div class="current-params" v-if="crawlParams">
           <el-descriptions :column="4" size="small" border>
-            <el-descriptions-item label="最大页面数">
+            <el-descriptions-item label="最大情报数目">
               <el-tag size="small">{{ crawlParams.max_pages }}</el-tag>
             </el-descriptions-item>
-            <el-descriptions-item label="爬取深度">
+            <el-descriptions-item label="扫描深度">
               <el-tag size="small">{{ crawlParams.max_depth }}</el-tag>
             </el-descriptions-item>
             <el-descriptions-item label="延迟">
@@ -194,17 +194,17 @@
           <el-form :model="crawlParams" label-width="120px">
             <el-row :gutter="20">
               <el-col :span="12">
-                <el-form-item label="最大页面数">
+                <el-form-item label="最大情报数目">
                   <el-slider
                     v-model="crawlParams.max_pages"
                     :min="1"
-                    :max="100"
+                    :max="200"
                     :step="1"
                     show-input
                   />
                 </el-form-item>
 
-                <el-form-item label="爬取深度">
+                <el-form-item label="扫描深度">
                   <el-slider
                     v-model="crawlParams.max_depth"
                     :min="1"
@@ -212,7 +212,7 @@
                     :step="1"
                     show-input
                   />
-                  <div class="param-help">深度1：只爬取首页<br>深度2：爬取首页链接的页面</div>
+                  <div class="param-help">深度1：只扫描首页<br>深度2：扫描首页链接的页面</div>
                 </el-form-item>
               </el-col>
 
@@ -225,7 +225,7 @@
                     :step="0.1"
                     show-input
                   />
-                  <div class="param-help">爬取每个页面的间隔时间，避免被封</div>
+                  <div class="param-help">扫描每个页面的间隔时间，避免被封</div>
                 </el-form-item>
 
                 <el-form-item label="超时时间（秒）">
@@ -236,12 +236,12 @@
                     :step="10"
                     show-input
                   />
-                  <div class="param-help">单个页面爬取的最大时间</div>
+                  <div class="param-help">单个情报扫描的最大时间</div>
                 </el-form-item>
               </el-col>
             </el-row>
 
-            <el-form-item label="递归爬取">
+            <el-form-item label="递归扫描">
               <el-switch
                 v-model="crawlParams.recursive"
                 active-text="开启"
@@ -269,11 +269,11 @@
       </el-button>
 
       <el-button type="success" @click="startRecursiveCrawl" :disabled="selectedWebsites.length === 0">
-        🌐 递归爬取 ({{ selectedWebsites.length }}个)
+        🌐 递归扫描 ({{ selectedWebsites.length }}个)
       </el-button>
 
       <el-button type="warning" @click="showCrawlPresets = true">
-        ⚙️ 设置爬取参数
+        ⚙️ 设置扫描参数
       </el-button>
 
       <el-button type="info" @click="showTaskStatus = true">
@@ -298,7 +298,7 @@
       <el-card>
         <template #header>
           <div class="table-header">
-            <span>📋 网站列表 ({{ filteredWebsites.length }} 个)</span>
+            <span>📋 数据源列表 ({{ filteredWebsites.length }} 个)</span>
             <div class="header-info">
               <el-tag type="info" size="small">
                 当前参数: {{ crawlParams.max_pages }}页/{{ crawlParams.max_depth }}层
@@ -944,65 +944,179 @@ watch([selectedCategory, selectedStatus], () => {
 </script>
 
 <style scoped>
+/* ========== 军事科技主题变量 ========== */
+:root {
+  --bg-deep: #0a0e17;
+  --bg-panel: #111827;
+  --bg-panel-hover: #1e293b;
+  --primary: #00f0ff;
+  --primary-dim: rgba(0, 240, 255, 0.12);
+  --success: #00ff41;
+  --warning: #ff9900;
+  --danger: #ff3366;
+  --info: #7c3aed;
+  --text-main: #37daf4;
+  --text-dim: #94a3b8;
+  --border-glow: 0 0 12px rgba(0, 240, 255, 0.4);
+  --transition: all 0.25s ease;
+}
+
+/* ========== 基础排版 ========== */
 h1 {
-  color: #303133;
-  margin-bottom: 10px;
-  font-size: 28px;
+  color: var(--primary);
+  margin-bottom: 8px;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-shadow: 0 0 10px rgba(0, 240, 255, 0.5);
+  position: relative;
+  display: inline-block;
+}
+
+h1::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--primary), transparent);
+  animation: scanline 2.5s linear infinite;
+}
+
+@keyframes scanline {
+  0% { transform: scaleX(0); opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { transform: scaleX(1); opacity: 0; }
 }
 
 h1 + p {
-  color: #606266;
-  margin-bottom: 30px;
-  font-size: 16px;
+  color: var(--text-dim);
+  margin-bottom: 28px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  font-family: 'Fira Code', 'Consolas', monospace;
+  text-transform: uppercase;
 }
 
+/* ========== 布局容器 ========== */
+.home {
+  padding: 20px;
+  max-width: 1600px;
+  margin: 0 auto;
+  background:
+    linear-gradient(145deg, rgba(17, 24, 39, 0.5), rgba(10, 14, 23, 0.7)),
+    radial-gradient(circle at 20% 80%, rgba(124, 58, 237, 0.08), transparent 40%),
+    radial-gradient(circle at 80% 20%, rgba(0, 240, 255, 0.06), transparent 40%);
+  border-radius: 6px;
+  min-height: calc(100vh - 120px);
+}
+
+/* ========== 操作按钮区域 ========== */
 .action-buttons {
   display: flex;
-  gap: 10px;
-  margin-bottom: 30px;
+  gap: 12px;
+  margin-bottom: 28px;
   align-items: center;
   flex-wrap: wrap;
+  padding: 16px;
+  background: rgba(17, 24, 39, 0.8);
+  border: 1px solid rgba(0, 240, 255, 0.25);
+  border-radius: 4px;
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.3);
+  position: relative;
 }
 
+.action-buttons::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--primary), transparent);
+  opacity: 0.7;
+}
+
+/* ========== 统计卡片 ========== */
 .stats {
-  margin-bottom: 30px;
+  margin-bottom: 28px;
+}
+
+:deep(.el-card) {
+  background: linear-gradient(145deg, rgba(17, 24, 39, 0.9), rgba(11, 16, 29, 0.95)) !important;
+  border: 1px solid rgba(0, 240, 255, 0.2) !important;
+  border-radius: 4px !important;
+  box-shadow: var(--border-glow), 0 4px 20px rgba(0, 0, 0, 0.3) !important;
+  transition: var(--transition) !important;
+  backdrop-filter: blur(8px);
+}
+
+:deep(.el-card:hover) {
+  border-color: var(--primary) !important;
+  box-shadow: 0 0 20px rgba(0, 240, 255, 0.6), 0 8px 30px rgba(0, 0, 0, 0.4) !important;
+  transform: translateY(-2px);
+}
+
+:deep(.el-card__body) {
+  padding: 0 !important;
 }
 
 .stat-item {
   display: flex;
   align-items: center;
-  padding: 15px;
+  padding: 18px 20px;
 }
 
 .stat-icon {
-  font-size: 32px;
-  margin-right: 15px;
-  width: 60px;
-  height: 60px;
+  font-size: 28px;
+  margin-right: 14px;
+  width: 56px;
+  height: 56px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 10px;
+  border-radius: 6px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.stat-icon::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(255,255,255,0.15), transparent 60%);
+  pointer-events: none;
 }
 
 .stat-icon.total {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(135deg, #00f0ff 0%, #7c3aed 100%);
+  color: #0a0e17;
+  box-shadow: 0 0 15px rgba(0, 240, 255, 0.5);
 }
 
 .stat-icon.completed {
-  background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
-  color: white;
+  background: linear-gradient(135deg, #00ff41 0%, #00c48c 100%);
+  color: #0a0e17;
+  box-shadow: 0 0 15px rgba(0, 255, 65, 0.4);
 }
 
 .stat-icon.crawling {
-  background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
-  color: white;
+  background: linear-gradient(135deg, #ff9900 0%, #ff6b35 100%);
+  color: #0a0e17;
+  box-shadow: 0 0 15px rgba(255, 153, 0, 0.4);
+  animation: pulse-warning 2s infinite;
+}
+
+@keyframes pulse-warning {
+  0%, 100% { box-shadow: 0 0 15px rgba(255, 153, 0, 0.4); }
+  50% { box-shadow: 0 0 25px rgba(255, 153, 0, 0.7); }
 }
 
 .stat-icon.pending {
-  background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+  background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 100%);
   color: white;
+  box-shadow: 0 0 15px rgba(124, 58, 237, 0.4);
 }
 
 .stat-info {
@@ -1010,221 +1124,791 @@ h1 + p {
 }
 
 .stat-number {
-  font-size: 24px;
-  font-weight: bold;
-  color: #303133;
-  margin-bottom: 5px;
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--text-main);
+  margin-bottom: 4px;
+  font-family: 'Fira Code', monospace;
+  letter-spacing: -0.5px;
 }
 
 .stat-label {
-  color: #909399;
-  font-size: 14px;
+  color: var(--text-dim);
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
 }
 
+/* ========== 分类统计 ========== */
 .category-stats {
-  margin-bottom: 30px;
+  margin-bottom: 28px;
+}
+
+:deep(.category-stats .el-card__header) {
+  background: rgba(0, 240, 255, 0.08) !important;
+  border-bottom: 1px solid rgba(0, 240, 255, 0.3) !important;
+  padding: 14px 20px !important;
+}
+
+:deep(.category-stats .el-card__header span) {
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.3px;
 }
 
 .category-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  padding: 16px 20px 20px;
 }
 
-.category-tag {
-  cursor: pointer;
-  transition: transform 0.3s;
+:deep(.category-tag.el-tag) {
+  background: rgba(17, 24, 39, 0.8) !important;
+  border: 1px solid rgba(0, 240, 255, 0.3) !important;
+  color: var(--text-main) !important;
+  padding: 8px 16px !important;
+  font-weight: 500 !important;
+  font-size: 13px !important;
+  transition: var(--transition) !important;
+  cursor: pointer !important;
+  border-radius: 3px !important;
 }
 
-.category-tag:hover {
-  transform: scale(1.05);
+:deep(.category-tag.el-tag:hover) {
+  background: var(--primary-dim) !important;
+  border-color: var(--primary) !important;
+  color: var(--primary) !important;
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.4) !important;
+  transform: translateY(-1px);
 }
 
-.table-header {
+:deep(.category-tag.el-tag--danger) { border-color: rgba(255, 51, 102, 0.5) !important; }
+:deep(.category-tag.el-tag--primary) { border-color: rgba(0, 240, 255, 0.5) !important; }
+:deep(.category-tag.el-tag--success) { border-color: rgba(0, 255, 65, 0.5) !important; }
+:deep(.category-tag.el-tag--warning) { border-color: rgba(255, 153, 0, 0.5) !important; }
+:deep(.category-tag.el-tag--info) { border-color: rgba(124, 58, 237, 0.5) !important; }
+
+/* ========== 爬虫状态卡片 ========== */
+.crawl-status-card {
+  margin-bottom: 28px;
+}
+
+:deep(.crawl-status-card .el-card__header) {
+  background: rgba(0, 240, 255, 0.06) !important;
+  border-bottom: 1px solid rgba(0, 240, 255, 0.25) !important;
+  padding: 14px 20px !important;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-/* 状态分布 */
-.status-distribution {
-  margin: 20px 0;
-}
-.header-actions {
-  display: flex;
-  gap: 10px;
-}
-.header-info {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-.website-url {
-  line-height: 1.4;
+
+:deep(.crawl-status-card .el-card__header span) {
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.3px;
 }
 
-.url-link {
-  color: #409EFF;
-  text-decoration: none;
-  font-weight: 500;
-  word-break: break-all;
+:deep(.crawl-status-card .el-button--text) {
+  color: var(--text-dim) !important;
+  font-size: 13px !important;
 }
 
-.url-link:hover {
-  text-decoration: underline;
-}
-
-.domain {
-  font-size: 12px;
-  color: #909399;
-  margin-top: 2px;
-}
-
-.pagination {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-  padding-top: 20px;
-  border-top: 1px solid #ebeef5;
-}
-
-.empty-state {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 400px;
-}
-
-.upload-instructions {
-  margin-bottom: 20px;
-  padding: 15px;
-  background-color: #f8f9fa;
-  border-radius: 6px;
-  border-left: 4px solid #409EFF;
-}
-
-.upload-instructions pre {
-  margin: 10px 0;
-  padding: 10px;
-  background-color: #e9ecef;
-  border-radius: 4px;
-  font-family: 'Courier New', monospace;
-  white-space: pre-wrap;
-  word-break: break-all;
-}
-
-.upload-instructions p {
-  margin: 5px 0;
-}
-
-.upload-instructions em {
-  color: #f56c6c;
-  font-style: normal;
-}
-
-.crawl-status-card {
-  margin-bottom: 30px;
+:deep(.crawl-status-card .el-button--text:hover) {
+  color: var(--primary) !important;
 }
 
 .crawl-stats {
   display: flex;
-  gap: 30px;
+  gap: 24px;
   margin-bottom: 20px;
+  padding: 20px;
+  background: rgba(10, 14, 23, 0.4);
+  border-radius: 4px;
+  border: 1px solid rgba(0, 240, 255, 0.15);
 }
 
 .crawl-stat-item {
   text-align: center;
   flex: 1;
+  padding: 8px 0;
+  border-right: 1px dashed rgba(0, 240, 255, 0.2);
+}
+
+.crawl-stat-item:last-child {
+  border-right: none;
 }
 
 .crawl-stat-label {
-  color: #909399;
-  font-size: 14px;
-  margin-bottom: 5px;
+  color: var(--text-dim);
+  font-size: 12px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  font-weight: 500;
 }
 
 .crawl-stat-value {
-  font-size: 24px;
-  font-weight: bold;
-  color: #303133;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-main);
+  font-family: 'Fira Code', monospace;
 }
 
-.crawled-data {
-  border-top: 1px solid #ebeef5;
-  padding-top: 15px;
+.progress-section {
+  padding: 0 20px 20px;
 }
 
-.crawled-data h4 {
+.progress-label {
+  color: var(--text-dim);
+  font-size: 13px;
   margin-bottom: 10px;
-  color: #303133;
-}
-
-.data-stats {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 15px;
-}
-
-.domain-list {
-  max-height: 200px;
-  overflow-y: auto;
-}
-
-.domain-item {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 8px 0;
-  border-bottom: 1px solid #f0f0f0;
+  font-family: 'Fira Code', monospace;
 }
 
-.domain-item:last-child {
-  border-bottom: none;
+:deep(.el-progress-bar__outer) {
+  background: rgba(17, 24, 39, 0.8) !important;
+  border-radius: 3px !important;
+  border: 1px solid rgba(0, 240, 255, 0.2) !important;
+  overflow: hidden;
 }
 
-.more-domains {
-  text-align: center;
-  padding: 10px;
-  color: #909399;
-  font-size: 14px;
-}
-.home {
-  padding: 20px;
-  max-width: 1600px;
-  margin: 0 auto;
+:deep(.el-progress-bar__inner) {
+  background: linear-gradient(90deg, var(--primary), #7c3aed) !important;
+  border-radius: 3px !important;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.5) !important;
+  position: relative;
 }
 
-/* 爬虫参数预设 */
+:deep(.el-progress-bar__inner::after) {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.queue-status {
+  padding: 0 20px 20px;
+  display: flex;
+  gap: 12px;
+}
+
+:deep(.queue-status .el-tag) {
+  background: rgba(17, 24, 39, 0.9) !important;
+  border: 1px solid rgba(0, 240, 255, 0.3) !important;
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 12px !important;
+  padding: 4px 12px !important;
+}
+
+:deep(.queue-status .el-tag--success) {
+  border-color: rgba(0, 255, 65, 0.4) !important;
+  color: #00ff41 !important;
+}
+
+/* ========== 参数预设卡片 ========== */
 .crawl-presets {
-  margin-bottom: 30px;
+  margin-bottom: 28px;
+}
+
+:deep(.crawl-presets .el-card__header) {
+  background: rgba(124, 58, 237, 0.08) !important;
+  border-bottom: 1px solid rgba(124, 58, 237, 0.3) !important;
+  padding: 14px 20px !important;
+}
+
+:deep(.crawl-presets .el-card__header span) {
+  color: #a78bfa;
+  font-weight: 600;
+  font-size: 15px;
 }
 
 .preset-options {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
+  padding: 0 20px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+:deep(.preset-options .el-radio-button__inner) {
+  background: rgba(17, 24, 39, 0.8) !important;
+  border: 1px solid rgba(0, 240, 255, 0.3) !important;
+  color: var(--text-main) !important;
+  font-weight: 500 !important;
+  font-size: 13px !important;
+  padding: 10px 18px !important;
+  transition: var(--transition) !important;
+  border-radius: 3px !important;
+}
+
+:deep(.preset-options .el-radio-button__inner:hover) {
+  color: var(--primary) !important;
+  border-color: var(--primary) !important;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.3) !important;
+}
+
+:deep(.el-radio-button__orig-radio:checked + .el-radio-button__inner) {
+  background: var(--primary) !important;
+  color: #0a0e17 !important;
+  border-color: var(--primary) !important;
+  box-shadow: 0 0 15px rgba(0, 240, 255, 0.6) !important;
+  font-weight: 600 !important;
 }
 
 .current-params {
   margin: 20px 0;
+  padding: 0 20px;
+}
+
+:deep(.current-params .el-descriptions) {
+  background: rgba(10, 14, 23, 0.4) !important;
+  border: 1px solid rgba(0, 240, 255, 0.15) !important;
+  border-radius: 4px !important;
+}
+
+:deep(.current-params .el-descriptions__cell) {
+  border-color: rgba(0, 240, 255, 0.15) !important;
+}
+
+:deep(.current-params .el-descriptions__label) {
+  background: rgba(17, 24, 39, 0.6) !important;
+  color: var(--text-dim) !important;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+}
+
+:deep(.current-params .el-descriptions__content) {
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+}
+
+:deep(.current-params .el-tag) {
+  background: rgba(0, 240, 255, 0.1) !important;
+  border-color: rgba(0, 240, 255, 0.4) !important;
+  color: var(--primary) !important;
+  font-family: 'Fira Code', monospace !important;
 }
 
 .advanced-params {
   margin-top: 20px;
   padding: 20px;
-  background-color: #f8f9fa;
-  border-radius: 8px;
+  background: rgba(10, 14, 23, 0.5);
+  border-radius: 4px;
+  border: 1px solid rgba(124, 58, 237, 0.25);
+}
+
+:deep(.advanced-params .el-form-item__label) {
+  color: var(--text-dim) !important;
+  font-weight: 500 !important;
+  font-size: 13px !important;
+}
+
+:deep(.advanced-params .el-slider__runway) {
+  background: rgba(17, 24, 39, 0.8) !important;
+  border: 1px solid rgba(0, 240, 255, 0.2) !important;
+}
+
+:deep(.advanced-params .el-slider__bar) {
+  background: linear-gradient(90deg, var(--primary), #7c3aed) !important;
+}
+
+:deep(.advanced-params .el-slider__button) {
+  border: 2px solid var(--primary) !important;
+  background: #0a0e17 !important;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.5) !important;
+}
+
+:deep(.advanced-params .el-input-number) {
+  background: rgba(17, 24, 39, 0.8) !important;
+  border-color: rgba(0, 240, 255, 0.3) !important;
+}
+
+:deep(.advanced-params .el-input-number__inner) {
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
 }
 
 .param-help {
-  font-size: 12px;
-  color: #909399;
-  margin-top: 5px;
-  line-height: 1.4;
+  font-size: 11px;
+  color: var(--text-dim);
+  margin-top: 6px;
+  line-height: 1.5;
+  font-family: 'Fira Code', monospace;
+  padding-left: 4px;
+  border-left: 2px solid rgba(0, 240, 255, 0.3);
 }
 
 .preset-footer {
   display: flex;
   justify-content: flex-end;
+  gap: 12px;
+  padding: 16px 20px 20px;
+  border-top: 1px solid rgba(0, 240, 255, 0.15);
+}
+
+:deep(.preset-footer .el-button) {
+  border-radius: 3px !important;
+  font-weight: 500 !important;
+  font-size: 13px !important;
+  padding: 10px 20px !important;
+}
+
+:deep(.preset-footer .el-button--primary) {
+  background: linear-gradient(135deg, var(--primary), #7c3aed) !important;
+  border: none !important;
+  box-shadow: 0 0 15px rgba(0, 240, 255, 0.4) !important;
+}
+
+:deep(.preset-footer .el-button--primary:hover) {
+  box-shadow: 0 0 25px rgba(0, 240, 255, 0.7) !important;
+  transform: translateY(-1px);
+}
+
+/* ========== 表格区域 ========== */
+.website-list {
+  margin-bottom: 20px;
+}
+
+:deep(.website-list .el-card__header) {
+  background: rgba(0, 240, 255, 0.05) !important;
+  border-bottom: 1px solid rgba(0, 240, 255, 0.2) !important;
+  padding: 14px 20px !important;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.table-header span {
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+}
+
+.header-info {
+  display: flex;
+  align-items: center;
   gap: 10px;
+}
+
+:deep(.header-info .el-tag) {
+  background: rgba(17, 24, 39, 0.8) !important;
+  border: 1px solid rgba(124, 58, 237, 0.4) !important;
+  color: #a78bfa !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 11px !important;
+  padding: 3px 10px !important;
+}
+
+/* ========== Element Table 深度定制 ========== */
+:deep(.el-table) {
+  background: #0b1120 !important;  /* 【修改】改为深色 */
+  --el-table-border-color: rgba(0, 240, 255, 0.15) !important;
+  --el-table-header-bg-color: rgba(17, 24, 39, 0.9) !important;
+  --el-table-row-hover-bg-color: rgba(0, 240, 255, 0.08) !important;
+  --el-table-text-color: var(--text-main) !important;
+  --el-table-header-text-color: var(--primary) !important;
+}
+
+:deep(.el-table__header-wrapper) {
+  border-bottom: 2px solid rgba(0, 240, 255, 0.3) !important;
+}
+
+:deep(.el-table th.el-table__cell) {
+  background: rgba(17, 24, 39, 0.95) !important;
+  color: var(--primary) !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  border-color: rgba(0, 240, 255, 0.15) !important;
+}
+
+:deep(.el-table td.el-table__cell) {
+  border-color: rgba(0, 240, 255, 0.1) !important;
+  background: #0b1120 !important;  /* 【修改】从 rgba(10, 14, 23, 0.3) 改为 #0b1120 */
+  transition: var(--transition) !important;
+  color: #e2e8f0 !important;  /* 【添加】文字改为浅色 */
+}
+
+:deep(.el-table--enable-row-hover .el-table__body tr:hover > td) {
+  background: rgba(0, 240, 255, 0.15) !important;
+  box-shadow: inset 0 0 0 1px rgba(0, 240, 255, 0.3) !important;
+}
+
+:deep(.el-table__empty-block) {
+  background: rgba(17, 24, 39, 0.5) !important;
+  border: 1px dashed rgba(0, 240, 255, 0.2) !important;
+  border-radius: 4px !important;
+}
+
+:deep(.el-table__empty-text) {
+  color: var(--text-dim) !important;
+  font-family: 'Fira Code', monospace !important;
+}
+
+/* 网址列样式 */
+.website-url {
+  line-height: 1.5;
+  padding: 4px 0;
+}
+
+.url-link {
+  color: var(--primary) !important;
+  text-decoration: none !important;
+  font-weight: 500 !important;
+  word-break: break-all !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+  transition: var(--transition) !important;
+  position: relative;
+}
+
+.url-link::after {
+  content: '↗';
+  margin-left: 4px;
+  opacity: 0;
+  transition: var(--transition);
+  font-size: 11px;
+}
+
+.url-link:hover {
+  text-shadow: 0 0 8px rgba(0, 240, 255, 0.6) !important;
+}
+
+.url-link:hover::after {
+  opacity: 1;
+}
+
+.domain {
+  font-size: 11px;
+  color: var(--text-dim);
+  margin-top: 3px;
+  font-family: 'Fira Code', monospace;
+  letter-spacing: 0.3px;
+}
+
+/* 状态标签 */
+:deep(.el-table .el-tag) {
+  border-radius: 3px !important;
+  font-weight: 500 !important;
+  font-size: 11px !important;
+  padding: 4px 10px !important;
+  border-width: 1px !important;
+}
+
+:deep(.el-table .el-tag--success) {
+  background: rgba(0, 255, 65, 0.12) !important;
+  border-color: rgba(0, 255, 65, 0.4) !important;
+  color: #00ff41 !important;
+}
+
+:deep(.el-table .el-tag--warning) {
+  background: rgba(255, 153, 0, 0.12) !important;
+  border-color: rgba(255, 153, 0, 0.4) !important;
+  color: #ff9900 !important;
+  animation: pulse-warning 2s infinite;
+}
+
+:deep(.el-table .el-tag--danger) {
+  background: rgba(255, 51, 102, 0.12) !important;
+  border-color: rgba(255, 51, 102, 0.4) !important;
+  color: #ff3366 !important;
+}
+
+:deep(.el-table .el-tag--info) {
+  background: rgba(124, 58, 237, 0.12) !important;
+  border-color: rgba(124, 58, 237, 0.4) !important;
+  color: #a78bfa !important;
+}
+
+:deep(.el-table .el-tag--primary) {
+  background: rgba(0, 240, 255, 0.12) !important;
+  border-color: rgba(0, 240, 255, 0.4) !important;
+  color: var(--primary) !important;
+}
+
+/* 操作按钮组 */
+:deep(.el-table .el-button-group .el-button) {
+  border-radius: 3px !important;
+  font-size: 12px !important;
+  padding: 6px 12px !important;
+  font-weight: 500 !important;
+  margin: 0 2px !important;
+}
+
+:deep(.el-table .el-button--primary) {
+  background: rgba(0, 240, 255, 0.15) !important;
+  border-color: rgba(0, 240, 255, 0.4) !important;
+  color: var(--primary) !important;
+}
+
+:deep(.el-table .el-button--primary:hover) {
+  background: var(--primary) !important;
+  color: #0a0e17 !important;
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.5) !important;
+}
+
+:deep(.el-table .el-button--success) {
+  background: rgba(0, 255, 65, 0.15) !important;
+  border-color: rgba(0, 255, 65, 0.4) !important;
+  color: #00ff41 !important;
+}
+
+:deep(.el-table .el-button--success:hover) {
+  background: #00ff41 !important;
+  color: #0a0e17 !important;
+  box-shadow: 0 0 12px rgba(0, 255, 65, 0.5) !important;
+}
+
+:deep(.el-table .el-button--info) {
+  background: rgba(124, 58, 237, 0.15) !important;
+  border-color: rgba(124, 58, 237, 0.4) !important;
+  color: #a78bfa !important;
+}
+
+:deep(.el-table .el-button--info:hover) {
+  background: #7c3aed !important;
+  color: white !important;
+  box-shadow: 0 0 12px rgba(124, 58, 237, 0.5) !important;
+}
+
+/* ========== 分页组件深度定制 ========== */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(0, 240, 255, 0.2);
+  gap: 8px;
+}
+
+:deep(.pagination .el-pagination) {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* 总数量文字 */
+:deep(.pagination .el-pagination__total) {
+  color: var(--text-dim) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+  margin-right: 8px !important;
+}
+
+/* 每页数量下拉框 */
+:deep(.pagination .el-pagination__sizes) {
+  margin-right: 8px !important;
+}
+
+:deep(.pagination .el-select .el-input__wrapper) {
+  background: rgba(17, 24, 39, 0.9) !important;
+  border: 1px solid rgba(0, 240, 255, 0.3) !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+  padding: 0 12px !important;
+  min-height: 32px !important;
+}
+
+:deep(.pagination .el-select .el-input__wrapper:hover) {
+  border-color: var(--primary) !important;
+  box-shadow: 0 0 0 2px rgba(0, 240, 255, 0.15) !important;
+}
+
+:deep(.pagination .el-select .el-input__inner) {
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+}
+
+:deep(.pagination .el-select-dropdown) {
+  background: rgba(11, 16, 29, 0.98) !important;
+  border: 1px solid rgba(0, 240, 255, 0.3) !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5), 0 0 15px rgba(0, 240, 255, 0.2) !important;
+}
+
+:deep(.pagination .el-select-dropdown__item) {
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+}
+
+:deep(.pagination .el-select-dropdown__item.selected) {
+  color: var(--primary) !important;
+  background: rgba(0, 240, 255, 0.15) !important;
+  font-weight: 600 !important;
+}
+
+:deep(.pagination .el-select-dropdown__item.hover) {
+  background: rgba(0, 240, 255, 0.1) !important;
+}
+
+/* 页码按钮 */
+:deep(.pagination .el-pagination .el-pager li) {
+  background: rgba(17, 24, 39, 0.9) !important;
+  border: 1px solid rgba(0, 240, 255, 0.25) !important;
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  min-width: 32px !important;
+  height: 32px !important;
+  line-height: 32px !important;
+  margin: 0 2px !important;
+  border-radius: 4px !important;
+  transition: all 0.25s ease !important;
+}
+
+:deep(.pagination .el-pagination .el-pager li:hover) {
+  color: var(--primary) !important;
+  border-color: var(--primary) !important;
+  background: rgba(0, 240, 255, 0.12) !important;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.3) !important;
+  transform: translateY(-1px) !important;
+}
+
+:deep(.pagination .el-pagination .el-pager li.is-active) {
+  background: linear-gradient(135deg, var(--primary), #7c3aed) !important;
+  color: #0a0e17 !important;
+  border-color: var(--primary) !important;
+  font-weight: 600 !important;
+  box-shadow: 0 0 15px rgba(0, 240, 255, 0.6) !important;
+  transform: translateY(-1px) !important;
+}
+
+/* 上一页/下一页按钮 */
+:deep(.pagination .el-pagination .btn-prev),
+:deep(.pagination .el-pagination .btn-next) {
+  background: rgba(17, 24, 39, 0.9) !important;
+  border: 1px solid rgba(0, 240, 255, 0.25) !important;
+  color: var(--text-main) !important;
+  min-width: 32px !important;
+  height: 32px !important;
+  border-radius: 4px !important;
+  transition: all 0.25s ease !important;
+}
+
+:deep(.pagination .el-pagination .btn-prev:hover),
+:deep(.pagination .el-pagination .btn-next:hover) {
+  color: var(--primary) !important;
+  border-color: var(--primary) !important;
+  background: rgba(0, 240, 255, 0.12) !important;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.3) !important;
+  transform: translateY(-1px) !important;
+}
+
+:deep(.pagination .el-pagination .btn-prev:disabled),
+:deep(.pagination .el-pagination .btn-next:disabled) {
+  opacity: 0.4 !important;
+  cursor: not-allowed !important;
+  background: rgba(17, 24, 39, 0.6) !important;
+}
+
+/* 更多按钮 (...) */
+:deep(.pagination .el-pagination .el-pager li.more) {
+  background: transparent !important;
+  border: none !important;
+  color: var(--text-dim) !important;
+}
+
+/* 跳转框 */
+:deep(.pagination .el-pagination__jump) {
+  margin-left: 12px !important;
+  color: var(--text-dim) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+}
+
+:deep(.pagination .el-pagination__jump .el-input__wrapper) {
+  background: rgba(17, 24, 39, 0.9) !important;
+  border: 1px solid rgba(0, 240, 255, 0.3) !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+  padding: 0 10px !important;
+  min-height: 32px !important;
+  margin: 0 4px !important;
+}
+
+:deep(.pagination .el-pagination__jump .el-input__inner) {
+  color: var(--text-main) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-size: 13px !important;
+  text-align: center !important;
+}
+
+/* ========== 加载状态 ========== */
+:deep(.el-loading-mask) {
+  background: rgba(10, 14, 23, 0.85) !important;
+  backdrop-filter: blur(4px);
+}
+
+:deep(.el-loading-spinner .path) {
+  stroke: var(--primary) !important;
+}
+
+:deep(.el-loading-text) {
+  color: var(--primary) !important;
+  font-family: 'Fira Code', monospace !important;
+  font-weight: 500 !important;
+  margin-top: 12px !important;
+}
+
+/* ========== 响应式适配 ========== */
+@media (max-width: 768px) {
+  .home {
+    padding: 12px;
+  }
+
+  .action-buttons {
+    padding: 12px;
+  }
+
+  .crawl-stats {
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  .crawl-stat-item {
+    flex: 0 0 calc(50% - 12px);
+    border-right: none !important;
+    border-bottom: 1px dashed rgba(0, 240, 255, 0.2);
+    padding-bottom: 12px;
+  }
+
+  .preset-options {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .table-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 </style>

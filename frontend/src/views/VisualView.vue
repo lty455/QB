@@ -1,48 +1,49 @@
 <template>
-  <div class="about">
-    <h1>关于知识图谱平台</h1>
-    
+  <div class="visual">
+    <h1>关于可视化模块</h1>
+
     <el-card>
-      <h2>项目概述</h2>
-      <p>这是一个从500+个网站数据源爬取数据，构建知识图谱并进行可视化展示的研究生项目。</p>
-      
-      <h3>项目功能</h3>
+      <h2>模块概述</h2>
+      <p>这是知识图谱平台的核心展示模块，支持大规模图数据的交互式可视化、分析与探索，兼容百万级节点的高效渲染。</p>
+
+      <h3>核心功能</h3>
       <ul>
-        <li>📊 网站数据源管理</li>
-        <li>🕷️ 分布式网络爬虫</li>
-        <li>🧹 数据清洗与标注</li>
-        <li>🗺️ 知识图谱可视化</li>
-        <li>💬 基于图的RAG对话系统</li>
+        <li>📈 知识图谱交互式渲染</li>
+        <li>🔍 节点/关系精准搜索与筛选</li>
+        <li>🖱️ 拖拽/缩放/旋转视图操作</li>
+        <li>🎨 多主题样式自定义（颜色/大小/形状）</li>
+        <li>📤 可视化结果导出（PNG/SVG/JSON）</li>
       </ul>
-      
+
       <h3>技术栈</h3>
       <el-row :gutter="20">
         <el-col :span="8">
           <el-card>
-            <h4>前端</h4>
+            <h4>可视化核心</h4>
+            <p>Vis.js / D3.js</p>
+          </el-card>
+        </el-col>
+        <el-col :span="8">
+          <el-card>
+            <h4>前端框架</h4>
             <p>Vue 3 + Element Plus</p>
           </el-card>
         </el-col>
         <el-col :span="8">
           <el-card>
-            <h4>后端</h4>
-            <p>Python Flask</p>
-          </el-card>
-        </el-col>
-        <el-col :span="8">
-          <el-card>
-            <h4>数据处理</h4>
-            <p>Scrapy / BeautifulSoup</p>
+            <h4>性能优化</h4>
+            <p>Web Worker / 分块加载</p>
           </el-card>
         </el-col>
       </el-row>
-      
+
       <h3>使用说明</h3>
       <ol>
-        <li>确保后端服务已启动 (http://localhost:5000)</li>
-        <li>点击"加载网站数据"按钮获取数据</li>
-        <li>可以搜索和筛选网站</li>
-        <li>点击网址链接可以访问对应网站</li>
+        <li>确保已加载知识图谱数据（点击"加载图谱"按钮）</li>
+        <li>使用左侧筛选栏选择要展示的节点/关系类型</li>
+        <li>鼠标滚轮缩放视图，拖拽画布移动视角</li>
+        <li>点击节点可展开关联关系，右键节点查看详情</li>
+        <li>点击右上角"导出"按钮可保存当前可视化结果</li>
       </ol>
     </el-card>
   </div>
@@ -50,7 +51,7 @@
 
 <script>
 export default {
-  name: 'AboutView'
+  name: 'VisualizationView'
 }
 </script>
 
@@ -73,7 +74,7 @@ export default {
 }
 
 /* ========== 整体布局 ========== */
-.about {
+.visual {
   padding: 20px;
   max-width: 1200px;
   margin: 0 auto;
@@ -162,7 +163,7 @@ h4 {
 }
 
 /* 主卡片特殊处理 */
-:deep(.about > .el-card) {
+:deep(.visual > .el-card) {
   border-left: 3px solid var(--primary) !important;
 }
 
@@ -276,7 +277,7 @@ code, pre, .mono, p, li, h4 + p {
 
 /* ========== 响应式适配 ========== */
 @media (max-width: 768px) {
-  .about {
+  .visual {
     padding: 16px;
   }
 

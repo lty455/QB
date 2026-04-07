@@ -1,0 +1,3234 @@
+[
+  {
+    "filename": "81_cn/fallback/page_003_20260313_171407_e42aef39.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "无标题",
+    "url": "http://www.81.cn/bq_208581/16447853.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_010_20260313_171535_25a42048.json",
+    "score": 75,
+    "matched_entities": "None",
+    "title": "无标题",
+    "url": "http://www.81.cn/wh_208575/16442018.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_010_20260313_171601_850e4a67.json",
+    "score": 75,
+    "matched_entities": "None",
+    "title": "无标题",
+    "url": "http://www.81.cn/wh_208575/jdt_208576/16445377.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_012_20260313_171758_267774e1.json",
+    "score": 75,
+    "matched_entities": "Xi Jinping (Tier 1)",
+    "title": "无标题",
+    "url": "http://www.81.cn/zq_208553/16445708.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_029_20260313_172137_9c6984d8.json",
+    "score": 75,
+    "matched_entities": "Xi Jinping (Tier 1)",
+    "title": "无标题",
+    "url": "http://www.81.cn/bz_208549/jdt_208550/16445503.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_029_20260313_172141_cda630f6.json",
+    "score": 75,
+    "matched_entities": "Xi Jinping (Tier 1)",
+    "title": "无标题",
+    "url": "http://www.81.cn/bz_208549/16448476.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_061_20260313_173354_9c2f98c5.json",
+    "score": 75,
+    "matched_entities": "Xi Jinping (Tier 1)",
+    "title": "无标题",
+    "url": "http://www.81.cn/kj_208559/16445347.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "81_cn/fallback/page_077_20260313_173820_50feccd7.json",
+    "score": 75,
+    "matched_entities": "Xi Jinping (Tier 1)",
+    "title": "直击沙场 - 中国军网",
+    "url": "http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/zjsc_244132/index.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "aerospacetestinginternational_com/fallback/page_027_20260312_024326_fa395ca8.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Defense News | Aerospace Testing International",
+    "url": "https://www.aerospacetestinginternational.com/news/defense",
+    "date": "Unknown"
+  },
+  {
+    "filename": "aerospacetestinginternational_com/fallback/page_025_20260305_153751_fa395ca8.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Defense News | Aerospace Testing International",
+    "url": "https://www.aerospacetestinginternational.com/news/defense",
+    "date": "Unknown"
+  },
+  {
+    "filename": "aerospacetestinginternational_com/fallback/page_130_20260312_025803_9947c88b.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Defense News | Aerospace Testing International",
+    "url": "https://www.aerospacetestinginternational.com/news/defense/page/3",
+    "date": "Unknown"
+  },
+  {
+    "filename": "aerotime_aero/fallback/page_005_20260305_152701_7312e86e.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Volodymyr Zelenskyy (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2)",
+    "title": "Defense - AeroTime",
+    "url": "https://www.aerotime.aero/category/defense",
+    "date": "Unknown"
+  },
+  {
+    "filename": "aerotime_aero/fallback/page_013_20260305_204512_7312e86e.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Volodymyr Zelenskyy (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2)",
+    "title": "Defense - AeroTime",
+    "url": "https://www.aerotime.aero/category/defense",
+    "date": "Unknown"
+  },
+  {
+    "filename": "aerotime_aero/fallback/page_141_20260312_034101_bc95f821.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "无标题",
+    "url": "https://www.aerotime.aero/category/airport/feed",
+    "date": "Unknown"
+  },
+  {
+    "filename": "afresearchlab_com/fallback/page_017_20260311_155906_48210575.json",
+    "score": 75,
+    "matched_entities": "Directed Energy Weapon (Tier 2)",
+    "title": "BLU-111 Engineering Change Proposal (From Lab to Warfighter in 14 Weeks) | Air Force Research Laboratory",
+    "url": "https://afresearchlab.com/blu-111-enhanced-capability-program-from-lab-to-warfighter-in-14-weeks/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "asiapacificdefencereporter_com/fallback/page_016_20260311_220251_84d8047c.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Rare Earth Elements (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Electronic Warfare (EW) (Tier 2), Defense Contractors (Tier 2), Unmanned Naval Vehicle (USV) (Tier 2)",
+    "title": "Greek Navy acquires CAMCOPTER S-100s for frigates - APDR",
+    "url": "https://asiapacificdefencereporter.com/greek-navy-acquires-camcopter-s-100s-for-frigates/#comment-16014",
+    "date": "Unknown"
+  },
+  {
+    "filename": "asiapacificdefencereporter_com/fallback/page_048_20260312_104002_9135d667.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Rare Earth Elements (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Electronic Warfare (EW) (Tier 2), Defense Contractors (Tier 2)",
+    "title": "Greek Navy acquires CAMCOPTER S-100s for frigates - APDR",
+    "url": "https://asiapacificdefencereporter.com/greek-navy-acquires-camcopter-s-100s-for-frigates/#comment-15985",
+    "date": "Unknown"
+  },
+  {
+    "filename": "breakingdefense_com/fallback/page_130_20260311_234805_2b9ac699.json",
+    "score": 72,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "Japanese defense budget 2025 Coverage - Breaking Defense",
+    "url": "https://breakingdefense.com/tag/japanese-defense-budget-2025/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_001_20260305_130609_9bbfc68d.json",
+    "score": 75,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_005_20260305_131834_9bbfc68d.json",
+    "score": 75,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_006_20260305_131306_25c8d133.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Hypersonic Weapon (Tier 1), Electronic Warfare (EW) (Tier 2)",
+    "title": "CENTCOM releases footage of more strikes in Iran, US assets launching attacks",
+    "url": "https://www.c4isrnet.com/video/2026/03/02/centcom-releases-footage-of-more-strikes-in-iran-us-assets-launching-attacks/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_007_20260305_130723_25c8d133.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Hypersonic Weapon (Tier 1), Electronic Warfare (EW) (Tier 2)",
+    "title": "CENTCOM releases footage of more strikes in Iran, US assets launching attacks",
+    "url": "https://www.c4isrnet.com/video/2026/03/02/centcom-releases-footage-of-more-strikes-in-iran-us-assets-launching-attacks/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_007_20260305_131324_9bbfc68d.json",
+    "score": 72,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_007_20260305_131348_9bbfc68d.json",
+    "score": 75,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_011_20260305_130848_9bbfc68d.json",
+    "score": 72,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_011_20260305_131543_9bbfc68d.json",
+    "score": 72,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_013_20260305_131902_9bbfc68d.json",
+    "score": 75,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_023_20260305_130859_aa438b35.json",
+    "score": 72,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/?contentFeatureId=f0finyqZXdsP54A&contentQuery=%7B%22includeSections%22%3A%22%2Fartificial-intelligence%22%2C%22excludeSections%22%3A%22%2Fvideo%2C%2Fvideos%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A19%7D",
+    "date": "Unknown"
+  },
+  {
+    "filename": "c4isrnet_com/fallback/page_047_20260305_130819_9bbfc68d.json",
+    "score": 72,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "Artificial Intelligence & Machine Learning | C4ISRNET",
+    "url": "https://www.c4isrnet.com/artificial-intelligence/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "caixin_com/fallback/page_006_20260313_024735_d0350195.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strait of Hormuz (Tier 1), Ali Khamenei (Tier 1), Kim Jong Un (Tier 1), IRGC (Tier 1)",
+    "title": "泰国货船霍尔木兹海峡遭袭 伊朗承认出动战机_图片频道_财新网",
+    "url": "https://photos.caixin.com/2026-03-12/102422113.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "cyberscoop_com/fallback/page_068_20260304_213844_f046eb1c.json",
+    "score": 72,
+    "matched_entities": "FSB/GRU (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "espionage Archives | CyberScoop",
+    "url": "https://cyberscoop.com/tag/espionage/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defence-industries_com/fallback/page_026_20260312_133743_8c208e34.json",
+    "score": 75,
+    "matched_entities": "Critical Cyberattack (Tier 1), South China Sea (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.defence-industries.com/news/philippines-awards-contract-for-seven-armored-vehicles-from-south-koreas-kovico-to-bolster-marine-corps-defenses",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensenews_com/fallback/page_001_20260312_141718_1acf1a3a.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Joe Biden (Tier 1), US CENTCOM (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Military Space – Military Space Systems | Defense News",
+    "url": "https://www.defensenews.com/space/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensenews_com/fallback/page_002_20260312_135213_1acf1a3a.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Joe Biden (Tier 1), US CENTCOM (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Military Space – Military Space Systems | Defense News",
+    "url": "https://www.defensenews.com/space/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_006_20260304_215630_1c1b0611.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Hypersonic Weapon (Tier 1), Defense Contractors (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Weapons Archives | DefenseScoop",
+    "url": "https://defensescoop.com/news/weapons/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_009_20260312_003218_8b719765.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "Cyber Archives | DefenseScoop",
+    "url": "https://defensescoop.com/news/cyber/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_011_20260312_001417_8b719765.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "Cyber Archives | DefenseScoop",
+    "url": "https://defensescoop.com/news/cyber/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_011_20260312_003702_8b719765.json",
+    "score": 73,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "Cyber Archives | DefenseScoop",
+    "url": "https://defensescoop.com/news/cyber/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_016_20260312_001509_f2894a91.json",
+    "score": 72,
+    "matched_entities": "Volodymyr Zelenskyy (Tier 1)",
+    "title": "deepfakes Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/deepfakes/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_034_20260304_221712_193c72de.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "SpaceX Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/spacex/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_037_20260312_003520_f385c7b0.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Owen West Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/owen-west/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_042_20260304_220141_6e72b45f.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Directed Energy Weapon (Tier 2), Nuclear Assets (Tier 1), Defense Contractors (Tier 2), Unmanned Naval Vehicle (USV) (Tier 2)",
+    "title": "battleship Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/battleship/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_043_20260304_220511_74f16ebf.json",
+    "score": 74,
+    "matched_entities": "Space Warfare / ASAT (Tier 1)",
+    "title": "ground moving target indicator (GMTI) Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/ground-moving-target-indicator-gmti/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_043_20260304_220458_02d32e76.json",
+    "score": 72,
+    "matched_entities": "Space Warfare / ASAT (Tier 1)",
+    "title": "AMTI Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/amti/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_043_20260304_222247_9a460661.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Joint Task Force Southern Border Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/joint-task-force-southern-border/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_064_20260312_003755_8801a96b.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Defense Contractors (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Northrop Grumman Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/northrop-grumman/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_068_20260312_003853_599fcdb1.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "yfq-48A Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/yfq-48a/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_072_20260312_004129_de127049.json",
+    "score": 72,
+    "matched_entities": "Space Warfare / ASAT (Tier 1)",
+    "title": "Commercial Augmentation Space Reserve (CASR) Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/commercial-augmentation-space-reserve-casr/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_073_20260312_004245_cd126d70.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "National Reconnaissance Office Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/national-reconnaissance-office/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_075_20260312_003059_9d4e57ac.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "cybercom Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/cybercom/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_078_20260304_222053_de127049.json",
+    "score": 72,
+    "matched_entities": "Space Warfare / ASAT (Tier 1)",
+    "title": "Commercial Augmentation Space Reserve (CASR) Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/commercial-augmentation-space-reserve-casr/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_081_20260304_222802_a8bea9d0.json",
+    "score": 73,
+    "matched_entities": "Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Switchblade Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/switchblade/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_082_20260304_220757_48ef8718.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1)",
+    "title": "Joint Staff Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/joint-staff/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_083_20260304_222841_e74b0f8d.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1)",
+    "title": "uas Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/uas/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_086_20260304_222321_cd126d70.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "National Reconnaissance Office Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/national-reconnaissance-office/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_088_20260312_004450_2f82645f.json",
+    "score": 76,
+    "matched_entities": "Hypersonic Weapon (Tier 1), Donald Trump (Tier 1), Lloyd Austin (Tier 1)",
+    "title": "PrSM Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/prsm/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_092_20260304_222611_b20472fa.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "missile defense Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/missile-defense/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_097_20260312_004458_4e28e469.json",
+    "score": 74,
+    "matched_entities": "Space Warfare / ASAT (Tier 1)",
+    "title": "Gregory Gagnon Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/gregory-gagnon/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_098_20260304_222719_8801a96b.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Defense Contractors (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Northrop Grumman Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/northrop-grumman/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_098_20260304_222726_8aa8c0ce.json",
+    "score": 76,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Donald Trump (Tier 1), Hypersonic Weapon (Tier 1)",
+    "title": "FOO Fighter Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/foo-fighter/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_100_20260304_223253_ae37c31c.json",
+    "score": 74,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "MUX TACAIR Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/mux-tacair/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_103_20260312_003458_48ef8718.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1)",
+    "title": "Joint Staff Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/joint-staff/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_103_20260312_004709_f3fe1c85.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Travis Metz Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/travis-metz/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_103_20260312_004729_f385c7b0.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Owen West Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/owen-west/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_108_20260312_004642_b20472fa.json",
+    "score": 78,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "missile defense Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/missile-defense/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_115_20260312_005037_0a8d11f9.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Donald Trump (Tier 1), Hypersonic Weapon (Tier 1), Air Defense & Interceptors (Tier 2)",
+    "title": "hypersonic weapons Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/hypersonic-weapons/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_115_20260312_005022_1af899c3.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "jhto Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/jhto/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_115_20260312_005042_331e7a01.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "hypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/hypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_115_20260312_005046_2238a925.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "halo engines Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/halo-engines/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_116_20260312_005105_35dc513b.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "National Security Technology Accelerator Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/national-security-technology-accelerator/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_116_20260312_005101_e0c171f9.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "NSTXL Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/nstxl/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_118_20260312_005125_db0053d9.json",
+    "score": 77,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "special aerospace services Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/special-aerospace-services/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_117_20260312_005113_166c58cc.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "gohypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/gohypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_122_20260312_004828_c64517c2.json",
+    "score": 76,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "HALO Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/halo/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_130_20260312_004327_2f82645f.json",
+    "score": 76,
+    "matched_entities": "Hypersonic Weapon (Tier 1), Donald Trump (Tier 1), Lloyd Austin (Tier 1)",
+    "title": "PrSM Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/prsm/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_134_20260312_003326_9d4e57ac.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "cybercom Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/cybercom/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_134_20260312_004458_f385c7b0.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Owen West Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/owen-west/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_134_20260312_004955_8aa8c0ce.json",
+    "score": 76,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Donald Trump (Tier 1), Hypersonic Weapon (Tier 1)",
+    "title": "FOO Fighter Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/foo-fighter/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_134_20260312_005003_8801a96b.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Fighter Jet (Tier 2), Defense Contractors (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Northrop Grumman Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/northrop-grumman/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_136_20260312_004546_a8bea9d0.json",
+    "score": 72,
+    "matched_entities": "Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Switchblade Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/switchblade/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_137_20260312_005430_9d4e57ac.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "cybercom Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/cybercom/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_138_20260312_004634_28069fad.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "border security Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/border-security/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_138_20260312_004623_9a460661.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Joint Task Force Southern Border Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/joint-task-force-southern-border/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_141_20260312_004733_1af899c3.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "jhto Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/jhto/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_141_20260312_004751_331e7a01.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "hypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/hypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_141_20260312_004755_2238a925.json",
+    "score": 73,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "halo engines Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/halo-engines/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_141_20260312_004806_e0c171f9.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "NSTXL Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/nstxl/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_141_20260312_004810_35dc513b.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "National Security Technology Accelerator Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/national-security-technology-accelerator/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_142_20260312_004817_166c58cc.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "gohypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/gohypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_143_20260312_004723_a26c8f51.json",
+    "score": 72,
+    "matched_entities": "Space Warfare / ASAT (Tier 1)",
+    "title": "GMTI Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/gmti/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_142_20260312_004821_cd26d911.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "Joint Hypersonics Transition Office Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/joint-hypersonics-transition-office/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_143_20260312_004828_db0053d9.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "special aerospace services Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/special-aerospace-services/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_145_20260312_004911_58782a76.json",
+    "score": 73,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Shahed drones Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/shahed-drones/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_151_20260312_004903_7be3f19b.json",
+    "score": 72,
+    "matched_entities": "Unmanned Naval Vehicle (USV) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "USV Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/usv/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_151_20260312_003843_58782a76.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Shahed drones Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/shahed-drones/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_152_20260312_003938_2f82645f.json",
+    "score": 75,
+    "matched_entities": "Hypersonic Weapon (Tier 1), Donald Trump (Tier 1), Lloyd Austin (Tier 1)",
+    "title": "PrSM Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/prsm/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_156_20260312_005452_2f82645f.json",
+    "score": 76,
+    "matched_entities": "Hypersonic Weapon (Tier 1), Donald Trump (Tier 1), Lloyd Austin (Tier 1)",
+    "title": "PrSM Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/prsm/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_161_20260312_005645_a8bea9d0.json",
+    "score": 73,
+    "matched_entities": "Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Switchblade Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/switchblade/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_162_20260312_005354_9d4e57ac.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), NATO (Tier 1)",
+    "title": "cybercom Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/cybercom/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_163_20260312_005727_65314157.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Directed Energy Weapon (Tier 2)",
+    "title": "FAA Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/faa/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_163_20260312_005736_28069fad.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "border security Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/border-security/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_165_20260312_004249_4651f88c.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1)",
+    "title": "Timothy Haugh Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/timothy-haugh/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_165_20260312_005523_7170d48d.json",
+    "score": 72,
+    "matched_entities": "Critical Cyberattack (Tier 1), Electronic Warfare (EW) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "RF-enabled cyber Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/rf-enabled-cyber/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_166_20260312_005844_1af899c3.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "jhto Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/jhto/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_166_20260312_005920_e0c171f9.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "NSTXL Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/nstxl/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_166_20260312_005909_2238a925.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "halo engines Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/halo-engines/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_166_20260312_005900_0a8d11f9.json",
+    "score": 75,
+    "matched_entities": "Defense Contractors (Tier 2), Donald Trump (Tier 1), Hypersonic Weapon (Tier 1), Air Defense & Interceptors (Tier 2)",
+    "title": "hypersonic weapons Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/hypersonic-weapons/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_166_20260312_005906_331e7a01.json",
+    "score": 73,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "hypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/hypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_166_20260312_005924_35dc513b.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "National Security Technology Accelerator Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/national-security-technology-accelerator/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_167_20260312_005931_166c58cc.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "gohypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/gohypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_168_20260312_005943_db0053d9.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "special aerospace services Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/special-aerospace-services/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_176_20260312_005351_1fc265ea.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Hypersonic Weapon (Tier 1), Lloyd Austin (Tier 1), Taiwan Strait (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2)",
+    "title": "Japan Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/japan/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_179_20260312_004546_f385c7b0.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Owen West Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/owen-west/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_179_20260312_004604_28069fad.json",
+    "score": 73,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "border security Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/border-security/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_181_20260312_004707_2238a925.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "halo engines Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/halo-engines/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_181_20260312_004643_1af899c3.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "jhto Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/jhto/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_181_20260312_004720_e0c171f9.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "NSTXL Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/nstxl/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_181_20260312_004704_331e7a01.json",
+    "score": 75,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "hypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/hypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_181_20260312_004724_35dc513b.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "National Security Technology Accelerator Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/national-security-technology-accelerator/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_182_20260312_004732_166c58cc.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "gohypersonic Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/gohypersonic/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_183_20260312_004744_db0053d9.json",
+    "score": 77,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "special aerospace services Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/special-aerospace-services/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_195_20260312_010046_d11a968f.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Directed Energy Weapon (Tier 2), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Defense Contractors (Tier 2)",
+    "title": "lasers Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/lasers/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "defensescoop_com/fallback/page_197_20260312_005653_f385c7b0.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Owen West Archives | DefenseScoop",
+    "url": "https://defensescoop.com/tag/owen-west/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "diu_mil/fallback/page_001_20260311_174939_d4c868be.json",
+    "score": 72,
+    "matched_entities": "Nuclear Assets (Tier 1), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "The latest news and events from DIU",
+    "url": "https://www.diu.mil/latest",
+    "date": "Unknown"
+  },
+  {
+    "filename": "diu_mil/fallback/page_014_20260311_175333_f4836b1f.json",
+    "score": 76,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "The latest news and events from DIU",
+    "url": "https://www.diu.mil/latest?page=4",
+    "date": "Unknown"
+  },
+  {
+    "filename": "diu_mil/fallback/page_028_20260311_175632_0b1c5fa8.json",
+    "score": 72,
+    "matched_entities": "Nuclear Assets (Tier 1), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "The latest news and events from DIU",
+    "url": "https://www.diu.mil/latest?page=1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "forcesnews_com/fallback/page_013_20260314_181811_5215a63f.json",
+    "score": 73,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Technology",
+    "url": "https://www.forcesnews.com/technology",
+    "date": "Unknown"
+  },
+  {
+    "filename": "huxiu_com/fallback/page_006_20260313_151303_85494296.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), ICBM / Strategic Missile (Tier 1)",
+    "title": "以军称一天内空袭伊朗中西部超200处目标。-虎嗅网",
+    "url": "https://www.huxiu.com/moment/1227126.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "huxiu_com/fallback/page_022_20260310_125438_d5774e40.json",
+    "score": 75,
+    "matched_entities": "Strait of Hormuz (Tier 1), Nuclear Assets (Tier 1), Ali Khamenei (Tier 1), IRGC (Tier 1)",
+    "title": "伊朗降温美以升级，战争进入第二阶段-虎嗅网",
+    "url": "https://www.huxiu.com/article/4840469.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ifeng_com/fallback/page_005_20260313_030607_d127232f.json",
+    "score": 70,
+    "matched_entities": "NATO (Tier 1)",
+    "title": "德国军费大增难解基建困局 还需要670亿投资_凤凰网",
+    "url": "https://mil.ifeng.com/c/8rNOV2JZIDy",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ifeng_com/fallback/page_019_20260313_030952_08749001.json",
+    "score": 75,
+    "matched_entities": "Strait of Hormuz (Tier 1), Armed Groups (Tier 2), Red Sea / Bab el-Mandeb (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "马克龙：将派军舰到霍尔木兹海峡“护航”_凤凰网",
+    "url": "https://news.ifeng.com/c/8rOm6WjNqG2",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ifeng_com/fallback/page_069_20260313_032338_f163fc22.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Taiwan Strait (Tier 1)",
+    "title": "中东战乱对台海有何影响？李义虎：美军亚太部署削弱，你想想对谁有利_凤凰网",
+    "url": "https://news.ifeng.com/c/8rPa7mIYDxf",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ifeng_com/fallback/page_079_20260313_040815_aae1ad34.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "隐身性能提升，军事专家解读“万吨大驱”上新_凤凰网",
+    "url": "https://mil.ifeng.com/c/8rQgMCfEnsR",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ifeng_com/fallback/page_148_20260313_050229_256732a2.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Taiwan Strait (Tier 1)",
+    "title": "中东战乱对台海有何影响？李义虎：美军亚太部署削弱，你想想对谁有利_凤凰网",
+    "url": "http://news.ifeng.com/c/8rPa7mIYDxf",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_001_20260312_184139_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_013_20260312_173704_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_014_20260312_173039_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Strategic Bomber (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_014_20260312_173832_33977826.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "Commercial Aerospace | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/commercial-aerospace",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_014_20260312_174517_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_014_20260312_175927_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_014_20260312_184000_6c15e47c.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Electronic Warfare (EW) (Tier 2)",
+    "title": "Power | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/power",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_014_20260312_183928_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_016_20260312_174138_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_017_20260312_185100_bbd66157.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2)",
+    "title": "Trusted Computing | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/trusted-computing",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_018_20260312_172704_a89ce24e.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "Sensors | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/sensors",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_018_20260312_173257_33977826.json",
+    "score": 72,
+    "matched_entities": "Defense Contractors (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "Commercial Aerospace | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/commercial-aerospace",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_019_20260312_184814_6c15e47c.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Electronic Warfare (EW) (Tier 2)",
+    "title": "Power | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/power",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryaerospace_com/fallback/page_019_20260312_185157_6c15e47c.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Electronic Warfare (EW) (Tier 2)",
+    "title": "Power | Military Aerospace",
+    "url": "https://www.militaryaerospace.com/power",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryembedded_com/fallback/page_156_20260312_021833_a9e77e7d.json",
+    "score": 75,
+    "matched_entities": "Defense Contractors (Tier 2), Electronic Warfare (EW) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "General Micro Systems debuts Nano cross domain system chassis at AUSA 2025 - Military Embedded Systems",
+    "url": "https://militaryembedded.com/radar-ew/sigint/general-micro-systems-debuts-nano-cross-domain-system-chassis-at-ausa-2025",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryembedded_com/fallback/page_159_20260312_021930_a9e77e7d.json",
+    "score": 75,
+    "matched_entities": "Defense Contractors (Tier 2), Electronic Warfare (EW) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "General Micro Systems debuts Nano cross domain system chassis at AUSA 2025 - Military Embedded Systems",
+    "url": "https://militaryembedded.com/radar-ew/sigint/general-micro-systems-debuts-nano-cross-domain-system-chassis-at-ausa-2025",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryembedded_com/fallback/page_160_20260312_021508_a9e77e7d.json",
+    "score": 75,
+    "matched_entities": "Defense Contractors (Tier 2), Electronic Warfare (EW) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "General Micro Systems debuts Nano cross domain system chassis at AUSA 2025 - Military Embedded Systems",
+    "url": "https://militaryembedded.com/radar-ew/sigint/general-micro-systems-debuts-nano-cross-domain-system-chassis-at-ausa-2025",
+    "date": "Unknown"
+  },
+  {
+    "filename": "militaryembedded_com/fallback/page_161_20260312_021409_a9e77e7d.json",
+    "score": 75,
+    "matched_entities": "Defense Contractors (Tier 2), Electronic Warfare (EW) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "General Micro Systems debuts Nano cross domain system chassis at AUSA 2025 - Military Embedded Systems",
+    "url": "https://militaryembedded.com/radar-ew/sigint/general-micro-systems-debuts-nano-cross-domain-system-chassis-at-ausa-2025",
+    "date": "Unknown"
+  },
+  {
+    "filename": "military_china_com_cn/fallback/page_001_20260310_091824_4ab371a7.json",
+    "score": 70,
+    "matched_entities": "South China Sea (Tier 1)",
+    "title": "071级登陆舰_中国网",
+    "url": "http://military.china.com.cn/node_7163226.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_172125_6c095583.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_172146_6c095583.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_172158_1825e039.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_172217_1825e039.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_172654_6c05ed9b.json",
+    "score": 75,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/airpower/page/2/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_172658_62a0cae5.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1), Vladimir Putin (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/strategy/page/2/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_173210_6c095583.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_173246_1825e039.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_173712_62a0cae5.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1), Vladimir Putin (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/strategy/page/2/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260304_173709_6c05ed9b.json",
+    "score": 75,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/airpower/page/2/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260306_095513_6c095583.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260306_100433_1825e039.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260306_100834_1825e039.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition",
+    "date": "Unknown"
+  },
+  {
+    "filename": "mitchellaerospacepower_org/fallback/page_001_20260306_101011_1825e039.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "无标题",
+    "url": "https://www.mitchellaerospacepower.org/issue/acquisition",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_un_org/fallback/page_132_20260313_081151_e0d7831f.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "孟加拉国六名遭苏丹无人机袭击遇难维和人员遗体被运送回国 | | 1联合国新闻",
+    "url": "https://news.un.org/zh/story/2025/12/1141313",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_usni_org/fallback/page_174_20260311_163622_6c755904.json",
+    "score": 72,
+    "matched_entities": "Red Sea / Bab el-Mandeb (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Latest - USNI News",
+    "url": "https://news.usni.org/latest/page/4",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_160742_bb22ce87.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Air Defense & Interceptors (Tier 2), Lloyd Austin (Tier 1), Volodymyr Zelenskyy (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Kim Jong Un (Tier 1), South China Sea (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "军事_\n        新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/index.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_160758_8e04f6b6.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), IRGC (Tier 1)",
+    "title": "伊朗军方在冲突中首次使用“哈迪德110”高速无人机_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202603/t20260305_16539902.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_160753_62348811.json",
+    "score": 75,
+    "matched_entities": "Strategic Bomber (Tier 2), Fighter Jet (Tier 2), South China Sea (Tier 1)",
+    "title": "轰-6K西太平洋训练 飞出“第一岛链”千余公里_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260227_16529877.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_160847_8cce7798.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "印度空军确认：失联的苏-30战机已坠毁_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202603/t20260306_16542242.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_160852_97f4a0c5.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Lloyd Austin (Tier 1)",
+    "title": "美防长称对伊朗的军事行动将进一步升级_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202603/t20260306_16542042.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_160931_0b803c05.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Fighter Jet (Tier 2)",
+    "title": "外媒：多架美军F-22战斗机已部署至以色列_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260225_16526517.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161031_77ca5795.json",
+    "score": 75,
+    "matched_entities": "Armed Groups (Tier 2), Air Defense & Interceptors (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称打击乌物流中心 乌称击退俄军进攻_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260223_16523708.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161037_c2df5249.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Taiwan Strait (Tier 1), South China Sea (Tier 1), Benjamin Netanyahu (Tier 1), Kim Jong Un (Tier 1), Armed Groups (Tier 2)",
+    "title": "军事_\n        新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/index_3.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161053_8b914022.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "“组团”形式多样 歼-16的“混搭”伙伴都有谁_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260227_16529871.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161443_199f5e0b.json",
+    "score": 70,
+    "matched_entities": "IRGC (Tier 1)",
+    "title": "伊朗启动“真实承诺4”第24轮军事行动_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202603/t20260307_16543967.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161454_75e987b2.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Donald Trump (Tier 1), Strategic Bomber (Tier 2), Fighter Jet (Tier 2)",
+    "title": "1.8万余名兵力参加、22场野外机动训练，韩美启动“自由之盾”联合军演_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202603/t20260310_16548980.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161522_5f192daf.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), IRGC (Tier 1)",
+    "title": "知情人士称五角大楼承认伊朗无人机破坏力超出预期_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202603/t20260308_16545684.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161644_67f3f2ab.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "伊朗称对美以军事目标进行大规模打击_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gj/202603/t20260307_16544517.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161819_459ffdfd.json",
+    "score": 75,
+    "matched_entities": "Korean Peninsula (Tier 1)",
+    "title": "朝鲜称将考虑针对美核武力示威采取应对措施_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251225_16428685.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161920_84120c1e.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称打击乌方目标 乌称袭击俄炼油设施_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gj/202601/t20260102_16442160.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_161926_1788e312.json",
+    "score": 75,
+    "matched_entities": "Taiwan Strait (Tier 1)",
+    "title": "东部战区开展“正义使命-2025”演习 专家解读_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251229_16435288.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162015_111b109a.json",
+    "score": 70,
+    "matched_entities": "None",
+    "title": "东部战区陆军部队对台岛北部相关海域实施远程火力实弹射击_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251230_16437150.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162037_d2905c7d.json",
+    "score": 70,
+    "matched_entities": "None",
+    "title": "现场视频！东部战区发布远程火力实弹射击画面_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251230_16437580.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162155_fb8ded7b.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "柬方再称泰军使用集束炸弹 泰方暂无回应_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gj/202512/t20251224_16427271.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162329_b51db34a.json",
+    "score": 75,
+    "matched_entities": "Volodymyr Zelenskyy (Tier 1), Vladimir Putin (Tier 1)",
+    "title": "俄称仍控制库皮扬斯克 乌否认俄说法_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251228_16433744.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162431_8064a2bf.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2), Strategic Bomber (Tier 2), Taiwan Strait (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "东部战区位台湾海峡中部海空域开展对陆机动目标打击演练_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251229_16435157.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162649_832b3bd4.json",
+    "score": 75,
+    "matched_entities": "Kim Jong Un (Tier 1)",
+    "title": "朝鲜首次试射新型高空远程防空导弹，精确打击假想高空目标_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251225_16428562.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_162654_8cf9ca68.json",
+    "score": 75,
+    "matched_entities": "None",
+    "title": "东部战区部队对台岛南部相关海域实施远程火力实弹射击_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251230_16437629.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163043_21efc760.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "无侦-8：采用火箭发动机、可清晰定位航母_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260113_16459668.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163105_eebdc31c.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Joe Biden (Tier 1)",
+    "title": "美国正向中东增派包括航母在内的兵力_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260116_16464807.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163143_5839790b.json",
+    "score": 75,
+    "matched_entities": "Armed Groups (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称打击乌能源设施 乌称袭击俄多个目标_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260111_16456243.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163244_26133d2e.json",
+    "score": 75,
+    "matched_entities": "South China Sea (Tier 1)",
+    "title": "菲公务机非法闯入中国黄岩岛领空 南部战区依法依规警告驱离_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gn/202601/t20260120_16472769.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163401_68f99dd9.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "外销型战机歼-10CE首次官宣取得实战战果，意味着什么？_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gn/202601/t20260114_16461092.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163349_37469528.json",
+    "score": 75,
+    "matched_entities": "Armed Groups (Tier 2)",
+    "title": "以军称打击多个黎巴嫩真主党目标_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260122_16475234.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163523_6f46e035.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1)",
+    "title": "欧洲多国将向格陵兰岛派遣军事人员_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260115_16462889.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163602_abb6acda.json",
+    "score": 70,
+    "matched_entities": "Taiwan Strait (Tier 1)",
+    "title": "东部战区：组织海空兵力对美舰过航台湾海峡行动全程跟监警戒_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260117_16467486.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_163618_4659177e.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Fighter Jet (Tier 2)",
+    "title": "丹麦两架F-35战机在格陵兰岛东南部完成训练演习_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260117_16466699.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_164217_118afb9d.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "美军称空袭叙利亚境内极端组织目标_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251220_16418981.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_164317_9f714492.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "美军称空袭叙利亚境内极端组织目标_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gj/202512/t20251220_16419061.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_164355_bfa02697.json",
+    "score": 75,
+    "matched_entities": "Armed Groups (Tier 2), Air Defense & Interceptors (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称打击乌百余目标 乌称击退俄进攻_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251219_16417114.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_001_20260310_164612_46f7e074.json",
+    "score": 75,
+    "matched_entities": "Armed Groups (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称继续向纵深推进 乌称撤出多个阵地_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202512/t20251222_16421810.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_164857_9cf9586a.json",
+    "score": 75,
+    "matched_entities": "Strait of Hormuz (Tier 1), IRGC (Tier 1), US CENTCOM (Tier 1)",
+    "title": "在霍尔木兹海峡实弹演习？伊朗回应_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260202_16493966.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_164952_bcaadac8.json",
+    "score": 75,
+    "matched_entities": "South China Sea (Tier 1)",
+    "title": "南海某海域舰艇部队开展实战化全训考核 多图直击高燃现场_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260212_16512762.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_165420_35b61048.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称实施集群打击 乌称击退俄军进攻_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202601/t20260131_16491371.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_165404_83c56092.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strait of Hormuz (Tier 1), Ali Khamenei (Tier 1), ICBM / Strategic Missile (Tier 1), Nuclear Assets (Tier 1)",
+    "title": "美伊释放谈判信号 战争阴云依然密布_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202602/t20260202_16493677.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_165542_1b479e54.json",
+    "score": 70,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "俄称打击乌军部署点 乌称打击俄重要设施_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gj/202509/t20250925_16258148.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_165726_1bbbc6cb.json",
+    "score": 75,
+    "matched_entities": "None",
+    "title": "海军三型舰载机成功在福建舰完成起降训练_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gn/202509/t20250922_16252542.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_165929_fdc237be.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2)",
+    "title": "看得远、打得准 当歼-20遇到空警-500战力倍增_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202510/t20251005_16274631.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_170246_d7e3c595.json",
+    "score": 70,
+    "matched_entities": "Gaza Strip / Rafah (Tier 2)",
+    "title": "以军称有两枚火箭弹自加沙北部向以发射_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/js/202509/t20250921_16250254.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "news_youth_cn/fallback/page_002_20260310_170507_0a38eae1.json",
+    "score": 70,
+    "matched_entities": "Armed Groups (Tier 2), Red Sea / Bab el-Mandeb (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "以军空袭也门首都萨那 已致8死142伤_新闻频道_中国青年网",
+    "url": "https://news.youth.cn/gj/202509/t20250926_16260352.htm",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_037_20260313_144229_1f6fed4b.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Fighter Jet (Tier 2)",
+    "title": "美军飞机在伊拉克坠毁：正在支援伊朗战争_加油机_死亡_人员",
+    "url": "https://www.sohu.com/a/995854961_656058?scm=10001.279_13-101000-0_922.0-0.0-0-0-0-0.a2_5X162X1532",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_037_20260313_144251_22348357.json",
+    "score": 72,
+    "matched_entities": "Armed Groups (Tier 2), IRGC (Tier 1)",
+    "title": "镜头直击丨伊朗和黎巴嫩真主党“首次”协同打击以色列_哈尼尔_袭击_地点",
+    "url": "https://www.sohu.com/a/995745664_267106?scm=10001.2024_13-101000-0_922.0-0.0-0-0-0-0.a2_5X151X618",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_175326_5d065731.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Gaza Strip / Rafah (Tier 2), Volodymyr Zelenskyy (Tier 1), Benjamin Netanyahu (Tier 1), Kim Jong Un (Tier 1), Armed Groups (Tier 2)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20251005/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_175331_6922b290.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Joe Biden (Tier 1), Military Chip Export Control (Tier 1), Air Defense & Interceptors (Tier 2), NATO (Tier 1), Mossad (Tier 1), Armed Groups (Tier 2)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20260107/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_175356_399e3013.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Air Defense & Interceptors (Tier 2), Ali Khamenei (Tier 1), Volodymyr Zelenskyy (Tier 1), Natanz/Fordow (Tier 1), Benjamin Netanyahu (Tier 1), IRGC (Tier 1), Armed Groups (Tier 2)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20260304/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_180532_6a9ea9ba.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Air Defense & Interceptors (Tier 2), Xi Jinping (Tier 1), Ali Khamenei (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Mossad (Tier 1)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20250621/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_180645_8727a9a5.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Xi Jinping (Tier 1), Vladimir Putin (Tier 1), ICBM / Strategic Missile (Tier 1), South China Sea (Tier 1), Benjamin Netanyahu (Tier 1), IRGC (Tier 1)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20250616/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_181108_47196748.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Air Defense & Interceptors (Tier 2), Xi Jinping (Tier 1), Ali Khamenei (Tier 1), Gaza Strip / Rafah (Tier 2), ICBM / Strategic Missile (Tier 1), Benjamin Netanyahu (Tier 1), IRGC (Tier 1), Armed Groups (Tier 2)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20260301/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "sohu_com/fallback/page_132_20260313_181304_5ccdbe95.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Xi Jinping (Tier 1), Benjamin Netanyahu (Tier 1), IRGC (Tier 1)",
+    "title": "新闻频道_最新新闻_深度报道 - 搜狐",
+    "url": "https://mt.sohu.com/kindfeed/news/20260308/1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "thedefensecircuit_com/fallback/page_023_20260314_190056_79984718.json",
+    "score": 74,
+    "matched_entities": "Defense Contractors (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "US Military – The Defense Circuit",
+    "url": "https://thedefensecircuit.com/category/us-military/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "thedefensepost_com/fallback/page_026_20260312_215105_5e1aa52c.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Unmanned Naval Vehicle (USV) (Tier 2)",
+    "title": "Sea • The Defense Post",
+    "url": "https://thedefensepost.com/category/sea/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "thedefensepost_com/fallback/page_171_20260312_223401_a16dc343.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Armed Groups (Tier 2)",
+    "title": "autonomous aerial vehicle",
+    "url": "https://thedefensepost.com/tag/autonomous-aerial-vehicle/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "tmtpost_com/fallback/page_018_20260313_154705_b1f55d37.json",
+    "score": 75,
+    "matched_entities": "Joe Biden (Tier 1)",
+    "title": "美政府首次公开估算战事成本，称伊朗战事上周烧钱110亿美元",
+    "url": "https://www.tmtpost.com/nictation/7912762.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "tmtpost_com/fallback/page_053_20260313_155544_a3667779.json",
+    "score": 75,
+    "matched_entities": "Strait of Hormuz (Tier 1)",
+    "title": "国际能源署：中东局势升级，全球石油供应面临史上最大规模中断",
+    "url": "https://www.tmtpost.com/nictation/7911151.html",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_001_20260305_232618_73889f62.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Big Deck Amphibious Assault Ships  | The War Zone",
+    "url": "https://www.twz.com/category/big-deck-amphibious-assault-ships",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_001_20260305_233715_73889f62.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Big Deck Amphibious Assault Ships  | The War Zone",
+    "url": "https://www.twz.com/category/big-deck-amphibious-assault-ships",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_001_20260312_214131_aef8f171.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_001_20260312_215015_941546f8.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Procurement  | The War Zone",
+    "url": "https://www.twz.com/category/procurement",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_001_20260312_215336_aef8f171.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_001_20260313_040734_aef8f171.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_002_20260312_215152_aef8f171.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_002_20260313_043405_aef8f171.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_002_20260313_043507_aef8f171.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_004_20260305_232956_aef8f171.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Carriers  | The War Zone",
+    "url": "https://www.twz.com/category/carriers",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_007_20260305_234442_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_007_20260305_233407_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_007_20260305_234054_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_008_20260312_215613_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_008_20260312_215752_ab7fdb89.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18A-D  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18a-d",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_008_20260313_041156_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_009_20260312_220958_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_009_20260313_043935_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_009_20260313_043946_c8ac1aaa.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), ICBM / Strategic Missile (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Early Warning/DSP/SBIRS | The War Zone",
+    "url": "https://www.twz.com/category/early-warning-dsp-sbirs",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_009_20260313_044316_01a7bffd.json",
+    "score": 76,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "AEGIS Combat System  | The War Zone",
+    "url": "https://www.twz.com/category/aegis-combat-system",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_009_20260313_044403_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_010_20260312_215958_8905e5d9.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Ground Vehicles  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-ground-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_011_20260312_222317_36e6130f.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_011_20260313_044316_73889f62.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Big Deck Amphibious Assault Ships  | The War Zone",
+    "url": "https://www.twz.com/category/big-deck-amphibious-assault-ships",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_011_20260313_044804_73889f62.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Big Deck Amphibious Assault Ships  | The War Zone",
+    "url": "https://www.twz.com/category/big-deck-amphibious-assault-ships",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_012_20260305_235057_c2874738.json",
+    "score": 75,
+    "matched_entities": "Strategic Bomber (Tier 2), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Taiwan Strait (Tier 1), Directed Energy Weapon (Tier 2), Nuclear Assets (Tier 1), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "News & Features | Page 82 of 143 | The War Zone",
+    "url": "https://www.twz.com/category/news-features/page/82",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_012_20260305_234036_095a6b12.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "KC-135  | The War Zone",
+    "url": "https://www.twz.com/category/kc-135",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_014_20260305_234115_36e6130f.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_014_20260312_220617_36e6130f.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_014_20260312_220746_36e6130f.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_014_20260313_041743_36e6130f.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_014_20260313_045205_0454423a.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Strategic Nuclear Submarine (Tier 1), Unmanned Naval Vehicle (USV) (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Unmanned Underwater Vehicles (UUVs)  | The War Zone",
+    "url": "https://www.twz.com/category/unmanned-underwater-vehicles",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_014_20260313_045241_36e6130f.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_015_20260305_234455_36e6130f.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_015_20260305_235236_36e6130f.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_015_20260313_044612_36e6130f.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Anti-Aircraft Artillery (AAA)  | The War Zone",
+    "url": "https://www.twz.com/category/anti-aircraft-artillery",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_016_20260305_234546_ac840d6b.json",
+    "score": 75,
+    "matched_entities": "Strategic Bomber (Tier 2), Air Defense & Interceptors (Tier 2), Taiwan Strait (Tier 1), Hypersonic Weapon (Tier 1), ICBM / Strategic Missile (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "LGM-30 Minuteman III  | The War Zone",
+    "url": "https://www.twz.com/category/lgm-30-minuteman-iii",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_023_20260313_042220_ac840d6b.json",
+    "score": 78,
+    "matched_entities": "Strategic Bomber (Tier 2), Air Defense & Interceptors (Tier 2), Taiwan Strait (Tier 1), Hypersonic Weapon (Tier 1), ICBM / Strategic Missile (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "LGM-30 Minuteman III  | The War Zone",
+    "url": "https://www.twz.com/category/lgm-30-minuteman-iii",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_031_20260312_231026_ab7fdb89.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18A-D  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18a-d",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_031_20260312_231016_54afb6ff.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-5  | The War Zone",
+    "url": "https://www.twz.com/category/f-5",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_033_20260312_231204_ed40270c.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-XX  | The War Zone",
+    "url": "https://www.twz.com/category/fa-xx",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_033_20260312_231245_d139aa3e.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-35A  | The War Zone",
+    "url": "https://www.twz.com/category/f-35a",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_035_20260312_224745_db58865d.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_037_20260313_045131_db58865d.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_039_20260312_225223_ed40270c.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-XX  | The War Zone",
+    "url": "https://www.twz.com/category/fa-xx",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_039_20260312_225258_d139aa3e.json",
+    "score": 78,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-35A  | The War Zone",
+    "url": "https://www.twz.com/category/f-35a",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_040_20260313_052839_e77efe55.json",
+    "score": 78,
+    "matched_entities": "Smart Munitions (Tier 2), Strategic Bomber (Tier 2), Joe Biden (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Around The Globe | Page 30 of 113 | The War Zone",
+    "url": "https://www.twz.com/category/around-the-globe/page/30",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_042_20260313_045529_ab7fdb89.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18A-D  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18a-d",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_043_20260313_045659_ed40270c.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-XX  | The War Zone",
+    "url": "https://www.twz.com/category/fa-xx",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_043_20260313_045744_d139aa3e.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-35A  | The War Zone",
+    "url": "https://www.twz.com/category/f-35a",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_045_20260312_224913_ab7fdb89.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18A-D  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18a-d",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_046_20260313_053522_ab7fdb89.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18A-D  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18a-d",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_046_20260313_053647_ed40270c.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-XX  | The War Zone",
+    "url": "https://www.twz.com/category/fa-xx",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_046_20260313_053730_d139aa3e.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-35A  | The War Zone",
+    "url": "https://www.twz.com/category/f-35a",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_047_20260312_225101_ed40270c.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-XX  | The War Zone",
+    "url": "https://www.twz.com/category/fa-xx",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_047_20260312_225150_d139aa3e.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-35A  | The War Zone",
+    "url": "https://www.twz.com/category/f-35a",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_050_20260313_052427_ab7fdb89.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-18A-D  | The War Zone",
+    "url": "https://www.twz.com/category/fa-18a-d",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_052_20260313_052610_ed40270c.json",
+    "score": 78,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F/A-XX  | The War Zone",
+    "url": "https://www.twz.com/category/fa-xx",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_052_20260313_052657_d139aa3e.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-35A  | The War Zone",
+    "url": "https://www.twz.com/category/f-35a",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_061_20260313_050618_5561c5c8.json",
+    "score": 74,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Procurement | Page 9 of 12 | The War Zone",
+    "url": "https://www.twz.com/category/procurement/page/9",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_064_20260312_230118_5561c5c8.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Procurement | Page 9 of 12 | The War Zone",
+    "url": "https://www.twz.com/category/procurement/page/9",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_069_20260313_054743_219e6aa4.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Arleigh Burke Class  | The War Zone",
+    "url": "https://www.twz.com/category/arleigh-burke-class",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_080_20260313_051127_893257a7.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Armed Groups (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Fateh-110 | The War Zone",
+    "url": "https://www.twz.com/category/fateh-110",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_086_20260313_054007_893257a7.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Armed Groups (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Fateh-110 | The War Zone",
+    "url": "https://www.twz.com/category/fateh-110",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_098_20260312_231004_7cf8c781.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "Cannons  | The War Zone",
+    "url": "https://www.twz.com/category/cannons",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_100_20260312_231106_e5c4b7b7.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "M1 Abrams  | The War Zone",
+    "url": "https://www.twz.com/category/m1-abrams",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_111_20260312_233859_5561c5c8.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Procurement | Page 9 of 12 | The War Zone",
+    "url": "https://www.twz.com/category/procurement/page/9",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_117_20260313_052139_0a29da68.json",
+    "score": 76,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Nimitz Class  | The War Zone",
+    "url": "https://www.twz.com/category/nimitz-class",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_116_20260312_232158_5561c5c8.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Procurement | Page 9 of 12 | The War Zone",
+    "url": "https://www.twz.com/category/procurement/page/9",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_118_20260313_052212_aaeddf04.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Izumo Class | The War Zone",
+    "url": "https://www.twz.com/category/izumo-class",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_120_20260313_052417_2b294dd2.json",
+    "score": 72,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Armed Groups (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "USS Harry S. Truman (CVN-75)  | The War Zone",
+    "url": "https://www.twz.com/category/uss-harry-s-truman",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_124_20260313_060606_5561c5c8.json",
+    "score": 73,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Procurement | Page 9 of 12 | The War Zone",
+    "url": "https://www.twz.com/category/procurement/page/9",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_128_20260312_231903_16f21348.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "M109 155mm Self-Propelled Howitzer | The War Zone",
+    "url": "https://www.twz.com/category/m109-155mm-self-propelled-howitzer",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_129_20260313_055052_0a29da68.json",
+    "score": 78,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), US CENTCOM (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Nimitz Class  | The War Zone",
+    "url": "https://www.twz.com/category/nimitz-class",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_130_20260313_055124_aaeddf04.json",
+    "score": 75,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), South China Sea (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Izumo Class | The War Zone",
+    "url": "https://www.twz.com/category/izumo-class",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_132_20260313_055338_2b294dd2.json",
+    "score": 72,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Armed Groups (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "USS Harry S. Truman (CVN-75)  | The War Zone",
+    "url": "https://www.twz.com/category/uss-harry-s-truman",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_151_20260313_060028_7de738cc.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "French Air Force  | The War Zone",
+    "url": "https://www.twz.com/category/french-air-force",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_155_20260313_060950_3581070b.json",
+    "score": 78,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "Luftwaffe  | The War Zone",
+    "url": "https://www.twz.com/category/luftwaffe",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_170_20260313_061716_c62f00b5.json",
+    "score": 72,
+    "matched_entities": "Nuclear Assets (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "SPY-1 | The War Zone",
+    "url": "https://www.twz.com/category/spy-1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_171_20260313_061746_45185f0a.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "USS Gerald R. Ford (CVN-78)  | The War Zone",
+    "url": "https://www.twz.com/category/uss-gerald-r-ford",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_184_20260313_062419_095a6b12.json",
+    "score": 78,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Space Warfare / ASAT (Tier 1)",
+    "title": "KC-135  | The War Zone",
+    "url": "https://www.twz.com/category/kc-135",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_187_20260312_234322_fc733010.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "F-117  | The War Zone",
+    "url": "https://www.twz.com/category/f-117",
+    "date": "Unknown"
+  },
+  {
+    "filename": "twz_com/fallback/page_199_20260313_054836_7de738cc.json",
+    "score": 76,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Hypersonic Weapon (Tier 1), Nuclear Assets (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Fighter Jet (Tier 2), Space Warfare / ASAT (Tier 1)",
+    "title": "French Air Force  | The War Zone",
+    "url": "https://www.twz.com/category/french-air-force",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_002_20260314_182249_680c452d.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Middle East | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/middle-east/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_002_20260314_200641_680c452d.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Middle East | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/middle-east/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_003_20260314_182356_680c452d.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Middle East | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/middle-east/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_003_20260314_200643_680c452d.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Middle East | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/middle-east/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_004_20260314_182300_01bfc30d.json",
+    "score": 72,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_004_20260314_183632_01bfc30d.json",
+    "score": 73,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_004_20260314_200656_01bfc30d.json",
+    "score": 72,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_005_20260314_183643_680c452d.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Middle East | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/middle-east/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_006_20260314_182416_0c457a1c.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Nuclear Assets (Tier 1), NATO (Tier 1)",
+    "title": "Royal Navy certifying Astute for under-ice operations",
+    "url": "https://ukdefencejournal.org.uk/royal-navy-certifying-astute-for-under-ice-operations/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_006_20260314_200606_01bfc30d.json",
+    "score": 73,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_006_20260314_200712_01bfc30d.json",
+    "score": 73,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_007_20260314_182309_01bfc30d.json",
+    "score": 72,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_007_20260314_183645_01bfc30d.json",
+    "score": 72,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_009_20260314_123312_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_009_20260314_183722_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_011_20260314_123316_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_012_20260314_123333_0ba26781.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Fighter Jet (Tier 2), Defense Contractors (Tier 2)",
+    "title": "Europe | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/europe/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_013_20260314_123323_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_014_20260314_123414_6c3d9243.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_017_20260314_183828_0ba26781.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Fighter Jet (Tier 2), Defense Contractors (Tier 2)",
+    "title": "Europe | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/europe/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_020_20260314_123401_01bfc30d.json",
+    "score": 72,
+    "matched_entities": "Fighter Jet (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "South America | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/south-america/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_021_20260314_182737_4caa8a6e.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Africa | UK Defence Journal - Part 2",
+    "url": "https://ukdefencejournal.org.uk/news/international/africa/page/2/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_021_20260314_201054_4caa8a6e.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Africa | UK Defence Journal - Part 2",
+    "url": "https://ukdefencejournal.org.uk/news/international/africa/page/2/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_022_20260314_183900_0ba26781.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Fighter Jet (Tier 2), Defense Contractors (Tier 2)",
+    "title": "Europe | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/europe/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_025_20260314_182728_6c3d9243.json",
+    "score": 75,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_025_20260314_201046_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_026_20260314_183840_34dca937.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Fighter Jet (Tier 2)",
+    "title": "Fire breaks out aboard American carrier in Red Sea",
+    "url": "https://ukdefencejournal.org.uk/fire-breaks-out-aboard-amercian-carrier-in-red-sea/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_026_20260314_184046_8cda1ff7.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Directed Energy Weapon (Tier 2), NATO (Tier 1), Fighter Jet (Tier 2), Black Sea (Tier 2)",
+    "title": "Turkey looking to put unmanned jets on helicopter carrier",
+    "url": "https://ukdefencejournal.org.uk/turkey-looking-to-put-unmanned-jets-on-helicopter-carrier/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_028_20260314_184214_fcad22d6.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "US and French Carrier Strike Groups operations together",
+    "url": "https://ukdefencejournal.org.uk/us-and-french-carrier-strike-groups-operations-together/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_033_20260314_184017_48e40ca8.json",
+    "score": 73,
+    "matched_entities": "NATO (Tier 1), Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1)",
+    "title": "Land | UK Defence Journal - Part 291",
+    "url": "https://ukdefencejournal.org.uk/news/land/page/291/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_035_20260314_201050_680c452d.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Hypersonic Weapon (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "Middle East | UK Defence Journal",
+    "url": "https://ukdefencejournal.org.uk/news/international/middle-east/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_036_20260314_184044_34dca937.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Fighter Jet (Tier 2)",
+    "title": "Fire breaks out aboard American carrier in Red Sea",
+    "url": "https://ukdefencejournal.org.uk/fire-breaks-out-aboard-amercian-carrier-in-red-sea/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_043_20260314_201039_8cda1ff7.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Directed Energy Weapon (Tier 2), NATO (Tier 1), Fighter Jet (Tier 2), Black Sea (Tier 2)",
+    "title": "Turkey looking to put unmanned jets on helicopter carrier",
+    "url": "https://ukdefencejournal.org.uk/turkey-looking-to-put-unmanned-jets-on-helicopter-carrier/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_043_20260314_201248_8cda1ff7.json",
+    "score": 75,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Directed Energy Weapon (Tier 2), NATO (Tier 1), Fighter Jet (Tier 2), Black Sea (Tier 2)",
+    "title": "Turkey looking to put unmanned jets on helicopter carrier",
+    "url": "https://ukdefencejournal.org.uk/turkey-looking-to-put-unmanned-jets-on-helicopter-carrier/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_044_20260314_201056_86d381bb.json",
+    "score": 73,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Strait of Hormuz (Tier 1), Vladimir Putin (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Armed Groups (Tier 2), Black Sea (Tier 2)",
+    "title": "Vessel attacked off coast of Yemen",
+    "url": "https://ukdefencejournal.org.uk/vessel-attacked-off-coast-of-yemen/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_046_20260314_201100_8cda1ff7.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Directed Energy Weapon (Tier 2), NATO (Tier 1), Fighter Jet (Tier 2), Black Sea (Tier 2)",
+    "title": "Turkey looking to put unmanned jets on helicopter carrier",
+    "url": "https://ukdefencejournal.org.uk/turkey-looking-to-put-unmanned-jets-on-helicopter-carrier/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_046_20260314_201409_fcad22d6.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "US and French Carrier Strike Groups operations together",
+    "url": "https://ukdefencejournal.org.uk/us-and-french-carrier-strike-groups-operations-together/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_052_20260314_201439_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_053_20260314_201236_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_053_20260314_201341_b142a8c1.json",
+    "score": 72,
+    "matched_entities": "Hypersonic Weapon (Tier 1)",
+    "title": "L3Harris completes review for new missile tracking satellite",
+    "url": "https://ukdefencejournal.org.uk/l3harris-completes-review-for-new-missile-tracking-satellite/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_057_20260314_201433_8cda1ff7.json",
+    "score": 72,
+    "matched_entities": "Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Directed Energy Weapon (Tier 2), NATO (Tier 1), Fighter Jet (Tier 2), Black Sea (Tier 2)",
+    "title": "Turkey looking to put unmanned jets on helicopter carrier",
+    "url": "https://ukdefencejournal.org.uk/turkey-looking-to-put-unmanned-jets-on-helicopter-carrier/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_059_20260314_201544_fcad22d6.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "US and French Carrier Strike Groups operations together",
+    "url": "https://ukdefencejournal.org.uk/us-and-french-carrier-strike-groups-operations-together/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_063_20260314_201641_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_066_20260314_184335_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_067_20260314_184342_d0da0789.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_067_20260314_201508_07c31803.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), Volodymyr Zelenskyy (Tier 1), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "BAE awarded $418m for M109A7 Howitzers and ammo carriers",
+    "url": "https://ukdefencejournal.org.uk/bae-awarded-418m-for-m109a7-howitzers-and-ammo-carriers/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_069_20260314_201507_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_069_20260314_201529_323e1722.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Unmanned Naval Vehicle (USV) (Tier 2)",
+    "title": "Northrop completes assembly of ‘Manta Ray’ naval drone",
+    "url": "https://ukdefencejournal.org.uk/northrop-completes-assembly-of-manta-ray-naval-drone/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_070_20260314_201515_d0da0789.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_072_20260314_184438_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_072_20260314_201555_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_075_20260314_184454_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_075_20260314_184608_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_075_20260314_201744_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_076_20260314_184503_d0da0789.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_075_20260314_201747_d0da0789.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_077_20260314_184651_323e1722.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Unmanned Naval Vehicle (USV) (Tier 2)",
+    "title": "Northrop completes assembly of ‘Manta Ray’ naval drone",
+    "url": "https://ukdefencejournal.org.uk/northrop-completes-assembly-of-manta-ray-naval-drone/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_080_20260314_184505_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_080_20260314_201759_54f03e38.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_080_20260314_201802_d0da0789.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_079_20260314_201801_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_081_20260314_201602_d0da0789.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_081_20260314_201559_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_084_20260314_184750_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_085_20260314_201707_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_085_20260314_201711_d0da0789.json",
+    "score": 74,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_087_20260314_184735_e3728ab6.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Air | UK Defence Journal - Part 545",
+    "url": "https://ukdefencejournal.org.uk/news/air/page/545/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_089_20260314_184747_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_091_20260314_184805_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_091_20260314_201937_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_093_20260314_184833_6c3d9243.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Air Defense & Interceptors (Tier 2), CIA (Tier 1), Hypersonic Weapon (Tier 1), Gaza Strip / Rafah (Tier 2), Vladimir Putin (Tier 1), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Benjamin Netanyahu (Tier 1), Armed Groups (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Britain boosting defence on Cyprus",
+    "url": "https://ukdefencejournal.org.uk/britain-boosting-defence-on-cyprus/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_094_20260314_184643_54f03e38.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_094_20260314_184827_0c457a1c.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Strategic Bomber (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2), Nuclear Assets (Tier 1), NATO (Tier 1)",
+    "title": "Royal Navy certifying Astute for under-ice operations",
+    "url": "https://ukdefencejournal.org.uk/royal-navy-certifying-astute-for-under-ice-operations/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_095_20260314_184652_d0da0789.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_095_20260314_184850_d0da0789.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_095_20260314_184847_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_097_20260314_202128_e3728ab6.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Air | UK Defence Journal - Part 545",
+    "url": "https://ukdefencejournal.org.uk/news/air/page/545/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_099_20260314_184700_d0da0789.json",
+    "score": 72,
+    "matched_entities": "Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "BAE delivers modernised M109 Howitzers to Brazil",
+    "url": "https://ukdefencejournal.org.uk/bae-delivers-modernised-m109-howitzers-to-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_099_20260314_184657_54f03e38.json",
+    "score": 72,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "The first Brazilian Gripen has flown in Brazil",
+    "url": "https://ukdefencejournal.org.uk/the-first-brazilian-gripen-has-flown-in-brazil/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_099_20260314_201949_e3728ab6.json",
+    "score": 75,
+    "matched_entities": "NATO (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "Air | UK Defence Journal - Part 545",
+    "url": "https://ukdefencejournal.org.uk/news/air/page/545/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "ukdefencejournal_org_uk/fallback/page_100_20260314_201957_eb1a03e9.json",
+    "score": 72,
+    "matched_entities": "Donald Trump (Tier 1), Unmanned Aerial Vehicle (UAV) (Tier 2), NATO (Tier 1), Electronic Warfare (EW) (Tier 2), Fighter Jet (Tier 2)",
+    "title": "New British military helicopter to enter service in 2031",
+    "url": "https://ukdefencejournal.org.uk/new-british-military-helicopter-to-enter-service-in-2031/",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_001_20260310_154900_548ffbad.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_008_20260313_070906_548ffbad.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_011_20260309_215200_0815c1a4.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2), Electronic Warfare (EW) (Tier 2)",
+    "title": "“戈达瓦里”级导弹护卫舰-印度“戈达瓦里”级导弹护卫舰图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-1481",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_042_20260313_072056_5255c8c5.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2)",
+    "title": "“赫尔辛基”级导弹艇-芬兰“赫尔辛基”级导弹艇图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-22295",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_069_20260313_072905_0815c1a4.json",
+    "score": 75,
+    "matched_entities": "Fighter Jet (Tier 2), Electronic Warfare (EW) (Tier 2)",
+    "title": "“戈达瓦里”级导弹护卫舰-印度“戈达瓦里”级导弹护卫舰图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-1481",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_072_20260313_073038_ac332b4b.json",
+    "score": 75,
+    "matched_entities": "Air Defense & Interceptors (Tier 2), Nuclear Assets (Tier 1), NATO (Tier 1), Red Sea / Bab el-Mandeb (Tier 1), Electronic Warfare (EW) (Tier 2), Black Sea (Tier 2)",
+    "title": "莫斯科号巡洋舰-俄罗斯/前苏联莫斯科号巡洋舰图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-22174",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_081_20260313_073455_bff09385.json",
+    "score": 75,
+    "matched_entities": "Electronic Warfare (EW) (Tier 2), Unmanned Aerial Vehicle (UAV) (Tier 2)",
+    "title": "中国人民解放军海军四川舰-中国中国人民解放军海军四川舰图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-22529",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_161_20260313_082253_7228e595.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619#7",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_162_20260313_082329_f87db8ea.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619#5",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_162_20260313_082321_597070a0.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619#9",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_162_20260313_082335_e5a3343b.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619#1",
+    "date": "Unknown"
+  },
+  {
+    "filename": "wuqidaquan_com/fallback/page_162_20260313_082348_af2fdc49.json",
+    "score": 75,
+    "matched_entities": "Nuclear Assets (Tier 1), NATO (Tier 1), ICBM / Strategic Missile (Tier 1)",
+    "title": "东风-5B液体洲际战略弹道核导弹（DF-5B）-中国东风-5B液体洲际战略弹道核导弹（DF-5B）图片性能技术参数怎么样-武器百科大全",
+    "url": "http://www.wuqidaquan.com/index.php?doc-view-4619#3",
+    "date": "Unknown"
+  }
+]

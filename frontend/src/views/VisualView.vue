@@ -1,42 +1,13 @@
-<script setup>
-import { ref } from 'vue'
-const iframeRef = ref(null)
-
-const onIframeLoad = () => {
-  try {
-    const iframe = iframeRef.value
-    const iframeDoc = iframe.contentDocument || iframe.contentWindow.document
-
-    const style = document.createElement('style')
-    style.textContent = `
-      .ant-tabs-nav, div[role="tablist"], .tabs-header {
-        display: none !important;
-      }
-      .ant-tabs-content-holder {
-        height: 100% !important;
-      }
-    `
-    iframeDoc.head.appendChild(style)
-
-    const win = iframe.contentWindow
-    const _push = win.history.pushState
-    win.history.pushState = (...args) => {
-      _push.apply(win.history, args)
-      window.history.replaceState({}, document.title, window.location.pathname)
-    }
-  } catch (e) {}
-}
-</script>
-
 <template>
   <div class="test-embed-page">
-    <iframe
-      ref="iframeRef"
-      src="http://localhost:9621/webui/#/knowledge-graph"
-      frameborder="0"
-      class="full-iframe"
-      @load="onIframeLoad"
-    ></iframe>
+    <!-- 1. 外层容器：设置 overflow: hidden 像一个相框 -->
+    <div class="iframe-clipper">
+      <iframe
+        src="http://localhost:9621/webui/#/knowledge-graph"
+        frameborder="0"
+        class="full-iframe"
+      ></iframe>
+    </div>
   </div>
 </template>
 
@@ -45,8 +16,21 @@ const onIframeLoad = () => {
   width: 100%;
   height: calc(100vh - 60px);
 }
-.full-iframe {
+
+.iframe-clipper {
   width: 100%;
   height: 100%;
+  overflow: hidden; /* 关键：剪掉超出部分 */
+  position: relative;
+}
+
+.full-iframe {
+  width: 100%;
+  /* 关键：把高度设置得比容器高，然后向上移动，把 header 推到视野之外 */
+  height: calc(100% + 37px);
+  margin-top: -37px; /* 这里的 44px 对应 h-11 的高度 */
+
+  /* 如果还有横向边距，也可以微调 */
+  border: none;
 }
 </style>

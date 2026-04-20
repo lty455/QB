@@ -152,6 +152,11 @@ export default {
     }
   }
 }
+const urlParams = new URLSearchParams(window.location.search);
+if (urlParams.get('hideHeader') === 'true') {
+  // 动态给 body 加个 class 隐藏 header
+  document.documentElement.classList.add('hide-my-header');
+}
 </script>
 
 <style>

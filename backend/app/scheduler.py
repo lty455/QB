@@ -3,7 +3,7 @@ import os
 from urllib.parse import urlparse
 from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime
-
+import pytz
 # === 【核心导入】引入你的 worker 中的任务队列 ===
 from app.crawler.worker import crawl_queue
 # === 【新增导入】引入你的大模型评分任务 ===
@@ -85,13 +85,26 @@ def daily_crawl_job():
 
 def start_scheduler():
     """启动后台调度器"""
-    scheduler = BackgroundScheduler(timezone="Asia/Shanghai")
+    # === 【新增】1. 初始化流量监控数据库 (必须在启动前调用) ===
+    init_db()
+    shanghai_tz = pytz.timezone("Asia/Shanghai")
+    scheduler = BackgroundScheduler(timezone=shanghai_tz)
 
-    #1. 设定每天 23:50 执行 daily_crawl_job
+    # 1. 重型爬虫任务：每天 23:50 执行 daily_crawl_job
     scheduler.add_job(daily_crawl_job, 'cron', hour=23, minute=50)
 
-    # 2. 【新增】主情报评分任务：每天中午 12:00 执行
+    # 2. 主情报评分任务：每天中午 12:00 执行
     scheduler.add_job(run_daily_scoring, 'cron', hour=12, minute=0, id='main_scoring_job')
 
+    # === 【新增】3. 轻量级 RSS 预警任务：每 5 分钟执行一次 ===
+    #scheduler.add_job(lightweight_rss_sniff, 'interval', minutes=120, id='rss_monitor_job', next_run_time=datetime.now(shanghai_tz))
+
     scheduler.start()
-    print("⏳ 后台定时调度器已启动 (等待每天 23:50 触发批量任务...)")
+
+    # 打印好看的启动日志，让你一眼看出系统在干嘛
+    print("\n" + "=" * 50)
+    print("⏳ 后台定时调度器已全面启动！")
+    print("   [每天 12:00] 🧠 大模型情报评分任务")
+    print("   [每天 23:50] 🕷️ 全网深度爬取存档任务")
+    print("   [每 20分钟 ] 📡 RSS 异常流量监控雷达")
+    print("=" * 50 + "\n")

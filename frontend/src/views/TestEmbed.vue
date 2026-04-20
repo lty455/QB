@@ -7,6 +7,7 @@ const onIframeLoad = () => {
     const iframe = iframeRef.value
     const iframeDoc = iframe.contentDocument || iframe.contentWindow.document
 
+    // 注入 CSS 隐藏顶部标签栏
     const style = document.createElement('style')
     style.textContent = `
       .ant-tabs-nav, div[role="tablist"], .tabs-header {
@@ -18,6 +19,7 @@ const onIframeLoad = () => {
     `
     iframeDoc.head.appendChild(style)
 
+    // 禁止 iframe 修改主页面地址栏
     const win = iframe.contentWindow
     const _push = win.history.pushState
     win.history.pushState = (...args) => {
@@ -32,7 +34,7 @@ const onIframeLoad = () => {
   <div class="test-embed-page">
     <iframe
       ref="iframeRef"
-      src="http://localhost:9621/webui/#/knowledge-graph"
+      src="http://localhost:9621/webui/#/documents"
       frameborder="0"
       class="full-iframe"
       @load="onIframeLoad"

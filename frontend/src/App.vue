@@ -92,11 +92,21 @@
       </div>
       <div class="nav-links">
         <router-link to="/" class="nav-link">网站列表</router-link>
-        <router-link to="/entity-recognition" class="nav-link">实体识别展示</router-link>
+<!--        <router-link to="/entity-recognition" class="nav-link">实体识别展示</router-link>-->
         <router-link to="/visual" class="nav-link">可视化</router-link>
         <router-link to="/chat" class="nav-link">智能聊天</router-link>
+        <router-link to="/test" class="nav-link">文档状态</router-link>
         <router-link to="/about" class="nav-link">关于</router-link>
-        <a href="https://icy-dogs-arrive.loca.lt/" target="_blank" class="nav-link">test</a>
+<!--        <a href="https://icy-dogs-arrive.loca.lt/" target="_blank" class="nav-link">test</a>-->
+
+<!--        # 1. 文档管理（默认首页）-->
+<!--http://localhost:9621/webui/#/documents-->
+
+<!--# 2. 知识图谱可视化-->
+<!--http://localhost:9621/webui/#/knowledge-graph-->
+
+<!--# 3. 检索测试 / 问答-->
+<!--http://localhost:9621/webui/#/retrieval-->
       </div>
     </nav>
     

@@ -1,22 +1,23 @@
 # app/monitor.py
+import os
 import sqlite3
 import time
 import feedparser
 from datetime import datetime, timedelta, timezone
 import statistics
 
-# 数据库文件路径
-DB_PATH = 'traffic_monitor.db'
+# === 【优化路径】确保文件始终建在项目的根目录 ===
+# 保持 BASE_DIR 指向 backend 目录（原写法不变）
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# 【配置你的 RSS 源列表】
-# 建议这里填入你 500 个网站对应的 RSS 链接。
-# 很多网站的 RSS 默认是 url/feed 或 url/rss.xml
-RSS_FEEDS = [
-    "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&Site=945",  # 示例：美国国防部RSS
-    "https://news.usni.org/feed",  # 示例：USNI RSS
-    # "https://你的其他网站.com/feed",
-]
+# DB_PATH 正确，无需修改
+DB_PATH = os.path.join(BASE_DIR, 'traffic_monitor.db')
 
+# RSS_FILE_PATH 修正：从 backend 再进入 app 目录
+RSS_FILE_PATH = os.path.join(BASE_DIR, 'app', 'valid_rss.txt')
+# ===================================================
+
+# ===================================================
 
 def init_db():
     """初始化用于记录流量的轻量级 SQLite 数据库"""
@@ -34,40 +35,64 @@ def init_db():
     conn.close()
 
 
+def get_rss_feeds():
+    """每次执行时，实时从 txt 文件中读取最新的 RSS 列表"""
+    if not os.path.exists(RSS_FILE_PATH):
+        print(f"⚠️ 警告: 找不到 RSS 列表文件 '{RSS_FILE_PATH}'")
+        return []
+
+    with open(RSS_FILE_PATH, 'r', encoding='utf-8') as f:
+        # 读取并过滤空行
+        feeds = [line.strip() for line in f if line.strip()]
+
+    return feeds
+
+
 def fetch_recent_rss_count():
-    """极速拉取所有 RSS，统计过去 15 分钟内的新增文章数"""
+    rss_urls = get_rss_feeds()
+    if not rss_urls:
+        return 0, 0
+
     new_articles_count = 0
 
-    # 获取 15 分钟前的 UTC 时间（因为 RSS 通常使用 UTC）
-    time_threshold = datetime.now(timezone.utc) - timedelta(minutes=15)
+    # 1. 获取现在的精确 UTC 时间
+    now_utc = datetime.now(timezone.utc)
+    # 2. 过去 15 分钟的底线
+    time_threshold = now_utc - timedelta(minutes=15)
+    # 3. 【新增】未来时间的上限（允许 5 分钟的误差，防止某些网站服务器时间稍微超前）
+    future_threshold = now_utc + timedelta(minutes=5)
 
-    for rss_url in RSS_FEEDS:
+    for rss_url in rss_urls:
         try:
-            # feedparser 解析极快，几乎不耗资源
             feed = feedparser.parse(rss_url)
-
             for entry in feed.entries:
-                # 解析 RSS 中的发布时间
                 if hasattr(entry, 'published_parsed') and entry.published_parsed:
                     pub_time = datetime.fromtimestamp(time.mktime(entry.published_parsed), timezone.utc)
 
-                    # 如果发布时间在过去 15 分钟内，计数 +1
-                    if pub_time >= time_threshold:
+                    # 【核心修改】：发布时间必须大于底线，且小于上限！
+                    if time_threshold <= pub_time <= future_threshold:
                         new_articles_count += 1
-        except Exception as e:
-            print(f"⚠️ 解析 RSS 失败 {rss_url}: {e}")
+
+                        # (可选) 如果你想抓出到底是哪两篇文章在捣鬼，可以加上这行打印：
+                        # print(f"发现新文章: {entry.title} | 时间: {pub_time}")
+
+        except Exception:
             continue
 
-    return new_articles_count
+    return new_articles_count, len(rss_urls)
 
 
 def lightweight_rss_sniff():
     """每 15 分钟执行一次的主监控函数"""
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] 📡 启动轻量级 RSS 流量雷达扫描...")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] 🚀 启动轻量级 RSS 流量雷达扫描...")
 
-    # 1. 获取过去 15 分钟的全网上新总数
-    current_count = fetch_recent_rss_count()
-    print(f"📊 本次扫描：全网过去 15 分钟新增 {current_count} 篇文章")
+    # 1. 接收返回的两个数字
+    current_count, total_sources = fetch_recent_rss_count()
+
+    # 【补上漏掉的这行日志】
+    if total_sources > 0:
+        print(f"📡 正在监控 {total_sources} 个数据源...")
+    print(f"📊 本次扫描：全网过去 30 分钟新增 {current_count} 篇文章")
 
     # 2. 存入数据库
     conn = sqlite3.connect(DB_PATH)

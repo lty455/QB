@@ -22,7 +22,9 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-backend/data/
+backend/data/sorted_intelligence
+backend/data/websites
+backend/data/websites-动态test
 backend/.env.local
 backend/.env.*.local
 

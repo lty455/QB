@@ -7,6 +7,14 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, 'data')
 CRAWL_DATA_DIR = os.path.join(DATA_DIR, 'websites')
 
+# ========== 数据库配置 ==========
+# 数据库类型: 'auto' | 'mysql' | 'sqlite'
+# 'auto': 自动模式，优先使用 MySQL，MySQL 失败则自动切换到 SQLite（推荐）
+# 'mysql': 强制使用 MySQL
+# 'sqlite': 强制使用 SQLite
+DB_TYPE = os.getenv('DB_TYPE', 'auto')
+
+# MySQL 配置
 DB_CONFIG = {
     'host': os.getenv('MYSQL_HOST', 'localhost'),
     'port': int(os.getenv('MYSQL_PORT', 3306)),
@@ -16,6 +24,9 @@ DB_CONFIG = {
     'charset': 'utf8mb4',
     'cursorclass': pymysql.cursors.DictCursor
 }
+
+# SQLite 配置
+SQLITE_PATH = os.path.join(DATA_DIR, 'kg.db')
 
 # 默认请求头
 DEFAULT_HEADERS = {

@@ -38,40 +38,40 @@
       </div>
     </aside>
 
-    <!-- ========== 右侧战术装饰面板 ========== -->
-    <aside class="side-panel right-panel" aria-hidden="true">
-      <div class="panel-content">
-        <div class="panel-title">DATA STREAM</div>
-        <div class="data-flow">
-          <div class="flow-line" v-for="i in 6" :key="i" :style="{ animationDelay: `${i * 0.3}s` }"></div>
-        </div>
-        <div class="data-labels">
-          <div class="data-label">
-            <span class="data-label-name">NODES</span>
-            <span class="data-label-value">247</span>
-          </div>
-          <div class="data-label">
-            <span class="data-label-name">EDGES</span>
-            <span class="data-label-value">1,834</span>
-          </div>
-          <div class="data-label">
-            <span class="data-label-name">QUERIES</span>
-            <span class="data-label-value">52/s</span>
-          </div>
-        </div>
-        <div class="coord-display">
-          <div class="coord-row"><span>LAT:</span><span class="coord-value">34.7821°N</span></div>
-          <div class="coord-row"><span>LNG:</span><span class="coord-value">113.6254°E</span></div>
-          <div class="coord-row"><span>ALT:</span><span class="coord-value">0028m</span></div>
-        </div>
-        <div class="radar-scan">
-          <div class="radar-ring"></div>
-          <div class="radar-ring"></div>
-          <div class="radar-ring"></div>
-          <div class="radar-dot"></div>
-        </div>
-      </div>
-    </aside>
+<!--    &lt;!&ndash; ========== 右侧战术装饰面板 ========== &ndash;&gt;-->
+<!--    <aside class="side-panel right-panel" aria-hidden="true">-->
+<!--      <div class="panel-content">-->
+<!--        <div class="panel-title">DATA STREAM</div>-->
+<!--        <div class="data-flow">-->
+<!--          <div class="flow-line" v-for="i in 6" :key="i" :style="{ animationDelay: `${i * 0.3}s` }"></div>-->
+<!--        </div>-->
+<!--        <div class="data-labels">-->
+<!--          <div class="data-label">-->
+<!--            <span class="data-label-name">NODES</span>-->
+<!--            <span class="data-label-value">247</span>-->
+<!--          </div>-->
+<!--          <div class="data-label">-->
+<!--            <span class="data-label-name">EDGES</span>-->
+<!--            <span class="data-label-value">1,834</span>-->
+<!--          </div>-->
+<!--          <div class="data-label">-->
+<!--            <span class="data-label-name">QUERIES</span>-->
+<!--            <span class="data-label-value">52/s</span>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="coord-display">-->
+<!--          <div class="coord-row"><span>LAT:</span><span class="coord-value">34.7821°N</span></div>-->
+<!--          <div class="coord-row"><span>LNG:</span><span class="coord-value">113.6254°E</span></div>-->
+<!--          <div class="coord-row"><span>ALT:</span><span class="coord-value">0028m</span></div>-->
+<!--        </div>-->
+<!--        <div class="radar-scan">-->
+<!--          <div class="radar-ring"></div>-->
+<!--          <div class="radar-ring"></div>-->
+<!--          <div class="radar-ring"></div>-->
+<!--          <div class="radar-dot"></div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </aside>-->
 
     <nav class="navbar">
         <!-- 流光装饰线 -->
